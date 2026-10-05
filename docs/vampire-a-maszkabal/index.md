@@ -13,8 +13,8 @@ Maszkabál*) a World of Darkness legismertebb játékvilága, amelyben a játék
 (Vértestvéreket) irányítanak egy modern városi környezetben, a **Maszkabál** szabálya alatt — azaz
 titokban kell tartaniuk létezésüket az emberiség elől.
 
-A fő szekták a **Kamarilla** (a hagyományokat és a Maszkabál betartását védő, elit szervezet) és a
-**Szabbat** (a Kamarillával szemben álló, erőszakosabb frakció).
+A fő szekták a **[Kamarilla](kamarilla.md)** (a hagyományokat és a Maszkabál betartását védő, elit
+szervezet) és a **[Szabbat](szabbat.md)** (a Kamarillával szemben álló, erőszakosabb frakció).
 
 !!! info "Terminológia forrása"
     A fenti fordítások a [Delta Vision](https://www.deltavision.hu) hivatalos magyar kiadásán
@@ -25,7 +25,8 @@ A fő szekták a **Kamarilla** (a hagyományokat és a Maszkabál betartását v
 ## Tartalom állapota
 
 Ez a szekció most épül fel. Az első lépés a [Glosszárium](../glosszarium/index.md) alapfogalmainak
-lefordítása, majd a 13 fő klán leírása következik — lásd a priorizálást a
+lefordítása, majd a 13 fő klán leírása következik, elsőként a [Brujah](brujah.md)-val — lásd a
+priorizálást a
 [CONTENT_MAP.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTENT_MAP.md)-ban.
 
 Ha szeretnél csatlakozni a fordításhoz, nézd meg a

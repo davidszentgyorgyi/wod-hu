@@ -12,6 +12,16 @@ amely vámpírok, vérfarkasok, mágusok és más természetfeletti lények szem
 világot. Ez a wiki a World of Darkness fogalmainak, karaktereinek és játékvilágainak **magyar nyelvű**,
 közösségi fordítását és leírását gyűjti egy helyre.
 
+<!-- STATS:START -->
+
+!!! abstract "Fordítási állapot"
+    - **Kész cikkek:** 7
+    - **Stúbok (bővítésre várnak):** 3
+    - **Összes cikk:** 10
+    - **Hiányzó célra mutató linkek:** 0
+
+<!-- STATS:END -->
+
 ## Fő játékvilágok
 
 - **[Vampire: A Maszkabál](vampire-a-maszkabal/index.md)** — vámpírklánok, a Maszkabál szabálya, Kamarilla és Szabbat.

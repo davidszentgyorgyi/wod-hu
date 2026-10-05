@@ -71,6 +71,19 @@ Ha csak egy cikket szeretnél szerkeszteni vagy hozzáadni, **nem kötelező** l
 szervert — a GitHub-on keresztül, böngészőből is szerkeszthetsz egy Markdown fájlt és nyithatsz
 Pull Requestet. Részletek: [CONTRIBUTING.md](CONTRIBUTING.md).
 
+### Fordítási állapot statisztika
+
+A kezdőlapon (`docs/index.md`) egy automatikusan generált blokk mutatja, hány cikk van kész, hány
+stúb, és hány belső link mutat még nem létező cikkre. Ez minden Netlify deploy előtt automatikusan
+frissül (`netlify.toml`), de lokálisan is futtathatod:
+
+```bash
+python scripts/update_stats.py
+```
+
+Új stúb cikk létrehozásakor tedd be a `status: stub` mezőt a front matterbe — lásd
+[CONTRIBUTING.md — Kereszthivatkozások](CONTRIBUTING.md#kereszthivatkozások-stúb-konvenció).
+
 ## Csatlakozás, kontribúció
 
 Minden segítség jól jön: fordítás, lektorálás, terminológiai egységesítés, technikai fejlesztés.
@@ -125,3 +138,16 @@ A projekt verziótörténete. Formátum: [Keep a Changelog](https://keepachangel
 - Platform: MkDocs Material (Docusaurus helyett — egynyelvű projektnél alacsonyabb belépési küszöb).
 - Monetizáció: hirdetés/donation most, prémium (nem-WoD-IP) eszközök később — részletek `STRATEGY.md`.
 - Terminológia: ahol van hivatalos magyar kiadás (Delta Vision), azt követjük saját fordítás helyett.
+- "Setting" → "játékvilág" (nem "szetting") — a magyar RPG-közösség natív szóhasználatát követve.
+
+### [Unreleased] — fordítási munka elindítva
+
+#### Added
+- `CONTENT_MAP.md`: konkrét, sorszámozott 1. hullám fordítási lista a Vampire: A Maszkabál
+  játékvilághoz (20 tétel, glosszárium → szekták → klánok → mechanika → mellékágak sorrendben).
+- Stúb-konvenció dokumentálva a `CONTRIBUTING.md`-ben: kereszthivatkozás egy még nem lefordított
+  cikkre mindig egy minimális, `status: stub` front matterrel jelölt stúb oldalt kap, sosem törött
+  linket vagy az angol fandom wikire mutató ideiglenes linket.
+- Három valódi stúb oldal elkészült mintaként: Kamarilla, Szabbat, Brujah (klán).
+- `scripts/update_stats.py`: automatikusan generált fordítási állapot statisztika (kész cikkek,
+  stúbok, hiányzó belső linkek száma) a kezdőlapon — minden Netlify deploy előtt frissül.
