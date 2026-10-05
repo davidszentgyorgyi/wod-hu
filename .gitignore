@@ -1,0 +1,33 @@
+# --- Titkos adatok / környezeti fájlok — SOHA ne kerüljenek repóba ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.yml
+secrets.yaml
+
+# --- Python / MkDocs build ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+site/
+.cache/
+
+# --- Node (ha később kell tooling) ---
+node_modules/
+npm-debug.log*
+
+# --- Netlify ---
+.netlify/
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log

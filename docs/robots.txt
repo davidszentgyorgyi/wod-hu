@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+# AI keresőmotorok és asszisztensek engedélyezve — a cél a citálhatóság, nem a blokkolás.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Csak tréning célú, nem kereső/citáló crawlerek blokkolása (opcionális védelem)
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://wod-wiki-hu.netlify.app/sitemap.xml

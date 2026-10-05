@@ -1,0 +1,87 @@
+site_name: World of Darkness Wiki Magyarul
+site_description: >-
+  A World of Darkness (Vampire: The Masquerade, Werewolf: The Apocalypse, Mage: The Ascension
+  és a többi WoD-szetting) közösségi, magyar nyelvű enciklopédiája. Klánok, diszciplínák,
+  frakciók és alapfogalmak fordítása közösségi fordítók munkájával.
+site_url: https://wod-wiki-hu.netlify.app/ # cseréld le a végleges domainre, ha lesz saját
+site_author: WoD Wiki Magyar közösség
+repo_url: https://github.com/kobrakobrakobra/wod-hu # TODO: tényleges repo URL beillesztése
+repo_name: WoD Wiki HU
+edit_uri: edit/main/docs/
+
+copyright: >
+  A tartalom a World of Darkness Wiki (whitewolf.fandom.com) fordítása/adaptációja,
+  CC BY-SA 4.0 licenc alatt. World of Darkness és kapcsolódó márkanevek a Paradox Interactive tulajdonát képezik.
+
+theme:
+  name: material
+  language: hu
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Váltás világos módra
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Váltás sötét módra
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kobrakobrakobra/wod-hu
+
+# --- SEO / GEO kritikus beállítások ---
+# A mkdocs build automatikusan generál sitemap.xml-t a site_url alapján.
+# Minden oldal front matterjében description mezőt várunk (lásd CONTRIBUTING.md) —
+# ez kerül a <meta name="description"> tagbe a seo plugin által.
+
+plugins:
+  - search:
+      lang: hu
+# A sitemap.xml generálása beépített mkdocs funkció, külön plugin nem kell.
+# TODO: "social" plugin (OG/Twitter kártya automatikus generálás) később bekapcsolható,
+# de natív Cairo-függőséget igényel (mkdocs-material[imaging]) — Netlify build image-en
+# tesztelni kell előbb, nehogy instabillá tegye a deploy pipeline-t.
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      title: Tartalom
+  - admonition
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - def_list
+
+nav:
+  - Kezdőlap: index.md
+  - Glosszárium: glosszarium/index.md
+  - "Vampire: A Maskara": vampire-a-maskara/index.md
+  - "Werewolf: Az Apokalipszis": werewolf-az-apokalipszis/index.md
+  - "Mage: Az Eksztázis": mage-az-eksztazis/index.md
+  - "Wraith: A Feledés": wraith-a-feledes/index.md
+  - "Changeling: Az Álmok": changeling-az-almok/index.md
