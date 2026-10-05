@@ -2,10 +2,12 @@
 
 Utolsó frissítés: 2026-10-06
 
-Ez a dokumentum a World of Darkness fordítás **kötelező referenciája**. Minden kontributornak ezeket
-a fordításokat kell használnia az itt szereplő fogalmakra — ne találj ki új fordítást egy már
-rögzített terminusra. Új, még nem szereplő fogalom esetén nyiss egy `terminológia` Issue-t
-(lásd [CONTRIBUTING.md](CONTRIBUTING.md)).
+Ez a dokumentum egy **közös útmutató** — nekünk, a projekt magjának, és mindenkinek, aki
+kontributorként segít építeni a wikit. Célja, hogy senkinek ne kelljen a nulláról kitalálnia egy
+fogalom fordítását, és hogy ugyanazt a szót használjuk ugyanarra a dologra, függetlenül attól, ki
+írta az adott cikket. Az itt rögzített fordításokat kövesd az adott fogalomra — ne találj ki újat
+helyette. Új, még nem szereplő fogalom esetén nyiss egy `terminológia` Issue-t
+(lásd [CONTRIBUTING.md](CONTRIBUTING.md)), hogy közösen eldönthessük.
 
 ## Miért ezek a fordítások?
 
