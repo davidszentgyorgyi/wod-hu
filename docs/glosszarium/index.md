@@ -14,7 +14,7 @@ hogy kontextus nélkül is érthető legyen.
 !!! tip "Kontributoroknak"
     Új fogalom hozzáadásakor kövesd ezt a sablont: **Magyar terminus (angol eredeti)** — majd egy
     40-60 szavas, önmagában is érthető definíció, utána bővebb kifejtés. Lásd a
-    [CONTRIBUTING.md](https://github.com/kobrakobrakobra/wod-hu/blob/main/CONTRIBUTING.md) terminológiai részét.
+    [CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) terminológiai részét.
 
 ## Fogalmak
 

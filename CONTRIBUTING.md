@@ -49,7 +49,7 @@ Ha szeretnéd lokálisan is látni az eredményt (ajánlott, ha több cikket for
 
 ```bash
 # 1. Repó klónozása
-git clone https://github.com/kobrakobrakobra/wod-hu.git
+git clone https://github.com/davidszentgyorgyi/wod-hu.git
 cd <REPO>
 
 # 2. Új branch a munkádhoz (ne dolgozz direktben a main-en)

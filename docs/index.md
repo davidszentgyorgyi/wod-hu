@@ -28,7 +28,7 @@ amelyek az összes szettingben visszatérnek — érdemes itt kezdeni az olvasá
 ## Hogyan segíthetsz?
 
 Ez egy közösségi, nyílt forráskódú fordítási projekt. Ha szeretnél fordítóként vagy szerkesztőként
-csatlakozni, nézd meg a [CONTRIBUTING.md](https://github.com/kobrakobrakobra/wod-hu/blob/main/CONTRIBUTING.md) útmutatót a GitHub repóban.
+csatlakozni, nézd meg a [CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutatót a GitHub repóban.
 
 !!! info "Forrás és licenc"
     A tartalom a [whitewolf.fandom.com](https://whitewolf.fandom.com) World of Darkness Wiki

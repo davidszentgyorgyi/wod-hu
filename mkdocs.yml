@@ -5,7 +5,7 @@ site_description: >-
   frakciók és alapfogalmak fordítása közösségi fordítók munkájával.
 site_url: https://wod-wiki-hu.netlify.app/ # cseréld le a végleges domainre, ha lesz saját
 site_author: WoD Wiki Magyar közösség
-repo_url: https://github.com/kobrakobrakobra/wod-hu # TODO: tényleges repo URL beillesztése
+repo_url: https://github.com/davidszentgyorgyi/wod-hu # TODO: tényleges repo URL beillesztése
 repo_name: WoD Wiki HU
 edit_uri: edit/main/docs/
 
@@ -48,7 +48,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/kobrakobrakobra/wod-hu
+      link: https://github.com/davidszentgyorgyi/wod-hu
 
 # --- SEO / GEO kritikus beállítások ---
 # A mkdocs build automatikusan generál sitemap.xml-t a site_url alapján.

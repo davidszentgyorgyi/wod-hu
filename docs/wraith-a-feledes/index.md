@@ -14,4 +14,4 @@ megküzdeni saját Árnyékukkal — sötét, elfojtott énjükkel.
 ## Tartalom állapota
 
 Ez a szekció még nem tartalmaz lefordított cikkeket. Csatlakozz a fordításhoz a
-[CONTRIBUTING.md](https://github.com/kobrakobrakobra/wod-hu/blob/main/CONTRIBUTING.md) útmutató szerint.
+[CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutató szerint.
