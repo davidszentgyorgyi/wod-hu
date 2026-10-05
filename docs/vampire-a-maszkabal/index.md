@@ -9,7 +9,7 @@ description: >-
 # Vampire: A Maszkabál
 
 A **Vampire: The Masquerade** (magyarul, a Delta Vision hivatalos kiadása szerint: *Vámpír: A
-Maszkabál*) a World of Darkness legismertebb szettingje, amelyben a játékosok vámpírokat
+Maszkabál*) a World of Darkness legismertebb játékvilága, amelyben a játékosok vámpírokat
 (Vértestvéreket) irányítanak egy modern városi környezetben, a **Maszkabál** szabálya alatt — azaz
 titokban kell tartaniuk létezésüket az emberiség elől.
 

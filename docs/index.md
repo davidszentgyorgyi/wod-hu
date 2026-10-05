@@ -2,17 +2,17 @@
 title: World of Darkness Wiki Magyarul
 description: >-
   A World of Darkness (Vampire: The Masquerade, Werewolf: The Apocalypse, Mage: The Ascension
-  és a többi WoD-szetting) közösségi, magyar nyelvű enciklopédiája.
+  és a többi WoD-játékvilág) közösségi, magyar nyelvű enciklopédiája.
 ---
 
 # World of Darkness Wiki Magyarul
 
 A **World of Darkness** (WoD) a White Wolf / Paradox Interactive sötét fantasy szerepjáték-univerzuma,
 amely vámpírok, vérfarkasok, mágusok és más természetfeletti lények szemszögéből mutatja be a modern
-világot. Ez a wiki a World of Darkness fogalmainak, karaktereinek és szettingjeinek **magyar nyelvű**,
+világot. Ez a wiki a World of Darkness fogalmainak, karaktereinek és játékvilágainak **magyar nyelvű**,
 közösségi fordítását és leírását gyűjti egy helyre.
 
-## Fő szettingek
+## Fő játékvilágok
 
 - **[Vampire: A Maszkabál](vampire-a-maszkabal/index.md)** — vámpírklánok, a Maszkabál szabálya, Kamarilla és Szabbat.
 - **[Werewolf: Az Apokalipszis](werewolf-az-apokalipszis/index.md)** — vérfarkas-törzsek, Gaia harcosai, a Wyrm ellen.
@@ -23,7 +23,7 @@ közösségi fordítását és leírását gyűjti egy helyre.
 ## Glosszárium
 
 A **[Glosszárium](glosszarium/index.md)** gyűjti az alapfogalmakat (pl. Embrace, Humanity, Frenzy),
-amelyek az összes szettingben visszatérnek — érdemes itt kezdeni az olvasást.
+amelyek az összes játékvilágban visszatérnek — érdemes itt kezdeni az olvasást.
 
 ## Hogyan segíthetsz?
 

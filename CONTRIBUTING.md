@@ -31,7 +31,7 @@ Nem kell programozónak lenni ahhoz, hogy segíts. Néhány példa:
 
 Ha nincs kedved/időd Git-et telepíteni, teljesen jó megoldás a böngészős szerkesztés:
 
-1. Nyisd meg a GitHub repót, és navigálj a `docs/` mappában a szettinghez, amit fordítani szeretnél
+1. Nyisd meg a GitHub repót, és navigálj a `docs/` mappában a játékvilághoz, amit fordítani szeretnél
    (pl. `docs/vampire-a-maszkabal/`).
 2. Kattints a fordítani kívánt `.md` fájlra (vagy ha még nincs ilyen cikk, egy hasonló meglévőre
    mintaként).
@@ -95,7 +95,7 @@ megoldás.
 
 1. Nézd meg, szerepel-e már a [TERMINOLOGY.md](TERMINOLOGY.md)-ben vagy a
    [Glosszáriumban](docs/glosszarium/index.md).
-2. Ha nem, nézd meg, van-e hivatalos Delta Vision fordítás rá (ha a Vampire-n kívüli szettinghez
+2. Ha nem, nézd meg, van-e hivatalos Delta Vision fordítás rá (ha a Vampire-n kívüli játékvilághoz
    kapcsolódik, előfordulhat, hogy nincs hivatalos magyar kiadás — ezt is jelezd).
 3. Javasolj egy fordítást egy `terminológia` Issue-ban vagy a Pull Request leírásában, forrással
    alátámasztva, hogy mások is véleményezhessék.
@@ -118,6 +118,7 @@ title: Cikk címe — rövid, kereső-barát
 description: >-
   1-2 mondatos összefoglaló, 150-160 karakter. Ez jelenik meg a Google találatokban
   és az AI keresők (ChatGPT, Perplexity) is ezt használják kontextusként.
+status: stub  # csak akkor add hozzá, ha ez egy stúb (lásd lejjebb) — kész cikknél hagyd ki
 ---
 
 # Cikk főcíme (egyezzen meg a title mezővel)
@@ -144,6 +145,41 @@ A tartalom logikus alcímekre bontva, nem egy hosszú szövegfolyam.
 - Minden képhez adj `alt` szöveget, ami leírja a kép tartalmát.
 - Hivatkozz a forrásra, ha egy állítás a whitewolf.fandom.com-ról származik (licenc miatt is
   kötelező, lásd [STRATEGY.md](STRATEGY.md)).
+
+## Kereszthivatkozások — stúb-konvenció
+
+Egy cikk gyakran hivatkozik olyan fogalomra, amit még nem fordítottunk le (pl. a Brujah klán
+cikkében megemlítjük a Kamarillát, de a Kamarilla cikk még nem létezik). Ilyenkor:
+
+1. **Hozz létre egy stúb oldalt** a hivatkozott fogalomnak, ne hagyd linkeletlenül és ne mutass az
+   angol fandom wikire. A link soha nem törhet el, és a stúb maga is belépési pont lesz egy
+   jövőbeli kontributornak.
+2. A stúb tartalma minimum: a cím, a front matter (`title`, `description`), egy 1-2 mondatos,
+   önmagában érthető definíció, és egy jelzés, hogy a cikk bővítésre vár.
+
+**Stúb-sablon:**
+
+```markdown
+---
+title: "Kamarilla — World of Darkness szekta"
+description: >-
+  A Kamarilla a World of Darkness legnagyobb vámpírszektája, amely a Maszkabál betartását és a
+  hagyományos vámpír-társadalmi rendet védi.
+---
+
+# Kamarilla
+
+A **Kamarilla** (Camarilla) a legnagyobb és legszervezettebb vámpírszekta a World of Darkness
+univerzumban, amely a Maszkabál betartását és a hagyományos vámpír-társadalmi rendet védi.
+
+!!! note "Ez a cikk bővítésre vár"
+    Ez egy stúb — csak a legszükségesebb definíciót tartalmazza. Ha szeretnéd bővíteni, nézd meg a
+    [CONTENT_MAP.md](CONTENT_MAP.md) priorizálását és a forrást a
+    [whitewolf.fandom.com](https://whitewolf.fandom.com)-on.
+```
+
+3. Amikor a stúbot bővíti valaki teljes cikké, egyszerűen törli a "bővítésre vár" admonitiont, és a
+   link, amit mások már használtak rá, érintetlen marad.
 
 ## Hogyan válassz cikket?
 

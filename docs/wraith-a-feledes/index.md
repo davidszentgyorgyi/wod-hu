@@ -7,7 +7,7 @@ description: >-
 
 # Wraith: A Feledés
 
-A **Wraith: The Oblivion** (magyarul: *Szellem: A Feledés*) szettingben a játékosok halott
+A **Wraith: The Oblivion** (magyarul: *Szellem: A Feledés*) játékvilágban a játékosok halott
 lelkeket (Wraith-eket) irányítanak, akik a Labirintusban, a holtak birodalmában próbálnak
 megküzdeni saját Árnyékukkal — sötét, elfojtott énjükkel.
 

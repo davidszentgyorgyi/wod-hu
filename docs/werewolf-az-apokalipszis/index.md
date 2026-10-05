@@ -7,7 +7,7 @@ description: >-
 
 # Werewolf: Az Apokalipszis
 
-A **Werewolf: The Apocalypse** (magyarul: *Vérfarkas: Az Apokalipszis*) szettingben a játékosok
+A **Werewolf: The Apocalypse** (magyarul: *Vérfarkas: Az Apokalipszis*) játékvilágban a játékosok
 Gaia harcosait, vérfarkasokat (Garou) irányítanak, akik a Wyrm, a világot pusztító erő ellen
 harcolnak.
 

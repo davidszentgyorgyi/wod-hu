@@ -32,10 +32,10 @@ A fandom wikik MediaWiki motort futnak, standard, nyilvános API-val:
 
 Ez lehetővé teszi, hogy a teljes cikklistát és kategóriastruktúrát programozottan, scrape-elés nélkül kinyerjük.
 
-## Fő szettingek mérete (kategória cikkszám alapján)
+## Fő játékvilágok mérete (kategória cikkszám alapján)
 
 ### Classic World of Darkness (oWoD)
-| Szetting | Cikkek (kategória mérete) |
+| Játékvilág | Cikkek (kategória mérete) |
 |---|---|
 | Werewolf: The Apocalypse | 1376 |
 | Vampire: The Masquerade | 1156 |
@@ -46,7 +46,7 @@ Ez lehetővé teszi, hogy a teljes cikklistát és kategóriastruktúrát progra
 | Hunter: The Reckoning | 250 |
 
 ### Chronicles of Darkness / nWoD (2004+)
-| Szetting | Cikkek (kategória mérete) |
+| Játékvilág | Cikkek (kategória mérete) |
 |---|---|
 | Werewolf: The Forsaken | 827 |
 | Vampire: The Requiem | 357 |
@@ -71,7 +71,7 @@ A `Category:Vampire:_The_Masquerade` alatt 35 alkategória van. A tartalmi (nem 
 
 **Tanulság a priorizáláshoz**: a nyers kategóriaméret (pl. "character" 4161 cikk) megtévesztő — nem a legnagyobb kategóriával kell kezdeni, hanem a legtöbb más cikk által hivatkozott alapfogalmakkal (glossary, clans, sects), mert ezekre támaszkodik minden egyéb cikk.
 
-## Javasolt prioritási sorrend (szetting-független elv)
+## Javasolt prioritási sorrend (játékvilág-független elv)
 
 1. **Glosszárium / alapfogalmak** (pl. Embrace, Masquerade, Humanity, Frenzy, Kindred) — ezek nélkül semmilyen más cikk nem érthető.
 2. **Setting-struktúra**: klánok/törzsek/rendek, szekták/frakciók — ez adja a "mi micsoda" áttekintést.
@@ -79,10 +79,44 @@ A `Category:Vampire:_The_Masquerade` alatt 35 alkategória van. A tartalmi (nem 
 4. **Mellékvérvonalak, altípusok, almozgalmak** (bloodlines stb.).
 5. **Karakterek, események, kiadványok** — legalacsonyabb prioritás, ez a legnagyobb volumenű, de legkevésbé alapvető réteg; közösségi kontributorokra bízható hosszú távon.
 
+## 1. hullám — konkrét fordítási sorrend (Vampire: A Maszkabál)
+
+Ez a legelső, konkrét munkalista. A sorrend az elv alapján (glosszárium → setting-struktúra →
+mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
+[TERMINOLOGY.md](TERMINOLOGY.md)-ben rögzített terminológiát kell használni.
+
+| # | Cikk | Státusz | Megjegyzés |
+|---|---|---|---|
+| 1 | Glosszárium alapfogalmak (Ölelés, Emberség, Őrjöngés, Éhség, Vértestvér, Klán, Diszciplína, Generáció) | ✅ Elkészült | `docs/glosszarium/index.md` |
+| 2 | Kamarilla (szekta áttekintő) | 🔲 Stúb szükséges | Hivatkozott, de még nincs önálló cikk |
+| 3 | Szabbat (szekta áttekintő) | 🔲 Stúb szükséges | Hivatkozott, de még nincs önálló cikk |
+| 4 | Anarch mozgalom | 🔲 Nincs elkezdve | |
+| 5 | A 13 fő klán áttekintő listája | 🔲 Nincs elkezdve | Egy index-cikk, ami linkel az egyes klán-stúbokra |
+| 6 | Brujah (klán) | 🔲 Nincs elkezdve | Első klán-cikk mintaként |
+| 7 | Ventrue (klán) | 🔲 Nincs elkezdve | |
+| 8 | Toreador (klán) | 🔲 Nincs elkezdve | |
+| 9 | Nosferatu (klán) | 🔲 Nincs elkezdve | |
+| 10 | Malkavian (klán) | 🔲 Nincs elkezdve | Figyelem: a klán TAGJÁT "Malkavita"-nak hívjuk, lásd TERMINOLOGY.md |
+| 11 | Gangrel (klán) | 🔲 Nincs elkezdve | |
+| 12 | Tremere (klán) | 🔲 Nincs elkezdve | |
+| 13 | Lasombra (klán) | 🔲 Nincs elkezdve | |
+| 14 | Ravnos, Salubri, Tzimisce (klánok) | 🔲 Nincs elkezdve | A Bővítmények kézikönyvében szerepelnek elsőként |
+| 15 | Diszciplínák áttekintő listája | 🔲 Nincs elkezdve | Egy index-cikk az összes Diszciplína rövid leírásával |
+| 16 | Maszkabál (a szabály részletes kifejtése) | 🔲 Nincs elkezdve | A Glosszáriumban csak rövid definíció van, ez a teljes cikk |
+| 17 | Hígvérű (Thin-Blooded) | 🔲 Nincs elkezdve | |
+| 18 | Caitiff | 🔲 Nincs elkezdve | |
+| 19 | Második Inkvizíció | 🔲 Nincs elkezdve | |
+| 20 | Bloodline-ok (mellékvérvonalak) listája | 🔲 Nincs elkezdve | Alacsonyabb prioritás, lásd az eredeti elv 4. pontját |
+
+**Hogyan haladjunk?** Nem kötelező sorrendben dolgozni — ha valakinek a Tremere klán a kedvence,
+nyugodtan azzal kezdhet. A sorszám csak ajánlás, nem szigorú szabály. Fontosabb, hogy a
+[TERMINOLOGY.md](TERMINOLOGY.md)-t és a [stúb-konvenciót](CONTRIBUTING.md#kereszthivatkozások-stúb-konvenció)
+kövessük.
+
 ## Következő lépések a feltérképezésben
 
-1. Pontos alkategória-struktúra feltérképezése szettingenként (pl. Vampire: The Masquerade → Klánok, Diszciplínák, Szekták, Frakciók alkategóriák helyes nevekkel).
-2. Cikklista export `list=categorymembers` segítségével, szettingenként.
+1. Pontos alkategória-struktúra feltérképezése játékvilágonként (pl. Vampire: The Masquerade → Klánok, Diszciplínák, Szekták, Frakciók alkategóriák helyes nevekkel).
+2. Cikklista export `list=categorymembers` segítségével, játékvilágonként.
 3. Alapfogalom-cikkek azonosítása (pl. "Embrace", "Humanity", "Masquerade") — ezek a legmagasabb prioritásúak, mert minden más cikk hivatkozik rájuk.
 4. Szócikk-hossz/komplexitás becslése a fordítási munka méretezéséhez.
 5. Ebből álljon össze a végleges fordítási priorizálási lista.

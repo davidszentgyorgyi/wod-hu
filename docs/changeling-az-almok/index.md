@@ -7,7 +7,7 @@ description: >-
 
 # Changeling: Az Álmok
 
-A **Changeling: The Dreaming** (magyarul: *Változó: Az Álmok*) szettingben a játékosok
+A **Changeling: The Dreaming** (magyarul: *Változó: Az Álmok*) játékvilágban a játékosok
 tündelényeket (Kithain) irányítanak, akik emberi testben élnek, és a **Banalitás** — a varázslat
 és képzelet elsorvasztó ereje — ellen küzdenek.
 

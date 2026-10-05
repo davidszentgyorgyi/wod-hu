@@ -7,7 +7,7 @@ description: >-
 
 # Mage: Az Eksztázis
 
-A **Mage: The Ascension** (magyarul: *Mágus: Az Eksztázis*) szettingben a játékosok mágusokat
+A **Mage: The Ascension** (magyarul: *Mágus: Az Eksztázis*) játékvilágban a játékosok mágusokat
 irányítanak, akik hiedelmeik erejével képesek megváltoztatni a valóság szabályait.
 
 ## Tartalom állapota

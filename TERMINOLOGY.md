@@ -51,6 +51,7 @@ terminusokat, ami megerősíti a megbízhatóságukat.
 | Stain | Folt | Megerősített | radavit |
 | Second Inquisition | Második Inkvizíció | Megerősített | lfg.hu + radavit |
 | Domain | Domain / Vadászterület | Megerősített, kettős alak | lfg.hu — kontextustól függ, melyiket használjuk |
+| Setting | Játékvilág | Megerősített | lfg.hu a "világ" szót használja a WoD leírására (nem "szettinget") — a projektben a "játékvilág" alakot használjuk az egyértelműség kedvéért |
 
 ## Szekták és frakciók
 
@@ -78,9 +79,9 @@ a megerősítéshez:
 - Sect (általános "szekta" fogalom, nem csak Camarilla/Sabbat) — valószínűleg "szekta", de nincs
   közvetlen forrás.
 - Mortal — valószínűleg "halandó", nincs közvetlen forrás.
-- Hunter (a Hunter: The Reckoning szettinghez) — nincs forrás.
-- A többi szetting (Werewolf, Mage, Wraith, Changeling) kulcsfogalmai — ezekhez még nem végeztünk
-  terminológiai kutatást. **Ez a következő lépés**, mielőtt ezen szettingek fordítása elindulna.
+- Hunter (a Hunter: The Reckoning játékvilághoz) — nincs forrás.
+- A többi játékvilág (Werewolf, Mage, Wraith, Changeling) kulcsfogalmai — ezekhez még nem végeztünk
+  terminológiai kutatást. **Ez a következő lépés**, mielőtt ezen játékvilágok fordítása elindulna.
 
 ## Források
 

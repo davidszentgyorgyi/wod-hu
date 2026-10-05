@@ -8,7 +8,7 @@ description: >-
 # Glosszárium
 
 Ez a lap gyűjti a World of Darkness univerzumban visszatérő **alapfogalmakat**, amelyek
-szettingtől függetlenül fontosak. Minden fogalom egy önálló, rövid definícióval kezdődik,
+játékvilágtól függetlenül fontosak. Minden fogalom egy önálló, rövid definícióval kezdődik,
 hogy kontextus nélkül is érthető legyen.
 
 !!! tip "Kontributoroknak"
