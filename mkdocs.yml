@@ -1,4 +1,4 @@
-site_name: World of Darkness Wiki Magyarul
+﻿site_name: World of Darkness Wiki Magyarul
 site_description: >-
   A World of Darkness (Vampire: The Masquerade, Werewolf: The Apocalypse, Mage: The Ascension
   és a többi WoD-szetting) közösségi, magyar nyelvű enciklopédiája. Klánok, diszciplínák,
@@ -80,7 +80,7 @@ markdown_extensions:
 nav:
   - Kezdőlap: index.md
   - Glosszárium: glosszarium/index.md
-  - "Vampire: A Maskara": vampire-a-maskara/index.md
+  - "Vampire: A Maszkabál": vampire-a-maszkabal/index.md
   - "Werewolf: Az Apokalipszis": werewolf-az-apokalipszis/index.md
   - "Mage: Az Eksztázis": mage-az-eksztazis/index.md
   - "Wraith: A Feledés": wraith-a-feledes/index.md

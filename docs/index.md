@@ -1,4 +1,4 @@
----
+﻿---
 title: World of Darkness Wiki Magyarul
 description: >-
   A World of Darkness (Vampire: The Masquerade, Werewolf: The Apocalypse, Mage: The Ascension
@@ -14,7 +14,7 @@ közösségi fordítását és leírását gyűjti egy helyre.
 
 ## Fő szettingek
 
-- **[Vampire: A Maskara](vampire-a-maskara/index.md)** — vámpírklánok, a Maskara szabálya, Camarilla és Sabbat.
+- **[Vampire: A Maszkabál](vampire-a-maszkabal/index.md)** — vámpírklánok, a Maszkabál szabálya, Kamarilla és Szabbat.
 - **[Werewolf: Az Apokalipszis](werewolf-az-apokalipszis/index.md)** — vérfarkas-törzsek, Gaia harcosai, a Wyrm ellen.
 - **[Mage: Az Eksztázis](mage-az-eksztazis/index.md)** — mágusrendek, a valóság megváltoztatásának tudománya.
 - **[Wraith: A Feledés](wraith-a-feledes/index.md)** — a holtak birodalma, az Árnyék és a Labirintus.

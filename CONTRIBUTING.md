@@ -1,4 +1,4 @@
-# Kontribútor útmutató
+﻿# Kontribútor útmutató
 
 Köszönjük, hogy segítenél a World of Darkness magyar wiki felépítésében! Ez az útmutató lépésről
 lépésre elmagyarázza, hogyan tudsz csatlakozni — akár vagy fejlesztő, akár "csak" fordítani szeretnél
@@ -32,7 +32,7 @@ Nem kell programozónak lenni ahhoz, hogy segíts. Néhány példa:
 Ha nincs kedved/időd Git-et telepíteni, teljesen jó megoldás a böngészős szerkesztés:
 
 1. Nyisd meg a GitHub repót, és navigálj a `docs/` mappában a szettinghez, amit fordítani szeretnél
-   (pl. `docs/vampire-a-maskara/`).
+   (pl. `docs/vampire-a-maszkabal/`).
 2. Kattints a fordítani kívánt `.md` fájlra (vagy ha még nincs ilyen cikk, egy hasonló meglévőre
    mintaként).
 3. Kattints a ceruza ikonra (**"Edit this file"**) a fájl jobb felső sarkában.
@@ -50,9 +50,12 @@ Ha szeretnéd lokálisan is látni az eredményt (ajánlott, ha több cikket for
 ```bash
 # 1. Repó klónozása
 git clone https://github.com/davidszentgyorgyi/wod-hu.git
-cd <REPO>
+cd wod-hu
 
-# 2. Új branch a munkádhoz (ne dolgozz direktben a main-en)
+# 2. A dev branch-re állunk — minden munka ide kerül, ne dolgozz direktben a main-en
+git checkout dev
+
+# 3. Új branch a munkádhoz, a dev-ből kiágazva
 git checkout -b forditas/vampire-klanok
 
 # 3. Python környezet + függőségek
@@ -67,28 +70,40 @@ mkdocs serve
 # 5. Szerkeszd a docs/ mappában a megfelelő .md fájlt, mentsd el
 
 # 6. Commit és push
-git add docs/vampire-a-maskara/klanok.md
+git add docs/vampire-a-maszkabal/klanok.md
 git commit -m "Vampire klánok cikk fordítása"
 git push origin forditas/vampire-klanok
 
-# 7. Nyiss Pull Requestet a GitHub felületén a saját branch-edből a main-be
+# 7. Nyiss Pull Requestet a GitHub felületén a saját branch-edből a dev-be
+#    (NE a main-be — a main csak jóváhagyott, kész állapotot kap)
 ```
 
 ## Terminológiai konvenciók
 
-A World of Darkness tele van visszatérő szakszavakkal. A **konzisztencia fontosabb, mint a tökéletes
-egyéni fordítás** — ha egy fogalomnak már van elfogadott magyar megfelelője a
-[Glosszáriumban](docs/glosszarium/index.md), azt használd.
+A World of Darkness tele van visszatérő szakszavakkal, és **van hivatalos magyar kiadása** —
+a [Delta Vision](https://www.deltavision.hu) *"Vámpír: A Maszkabál"* címmel jelentette meg a Vampire:
+The Masquerade szabálykönyvét (2010, 2023). **Elsődlegesen ezt a hivatalos fordítást követjük**, nem
+saját/kitalált megoldást — ez a konzisztencia és a hitelesség miatt fontos.
+
+A **[TERMINOLOGY.md](TERMINOLOGY.md)** tartalmazza a kötelező, forrásokkal alátámasztott
+terminológiai táblázatot. A **konzisztencia fontosabb, mint a tökéletes egyéni fordítás** — ha egy
+fogalomnak már van rögzített magyar megfelelője a TERMINOLOGY.md-ben vagy a
+[Glosszáriumban](docs/glosszarium/index.md), azt használd, még akkor is, ha szerinted lenne jobb
+megoldás.
 
 **Szabály új fogalom fordításakor:**
 
-1. Nézd meg, szerepel-e már a [Glosszáriumban](docs/glosszarium/index.md).
-2. Ha nem, javasolj egy fordítást egy Issue-ban vagy a Pull Request leírásában, hogy mások is
-   véleményezhessék.
-3. Minden fogalmat így jelölj első előfordulásnál egy cikkben: **Magyar terminus (angol eredeti)** —
+1. Nézd meg, szerepel-e már a [TERMINOLOGY.md](TERMINOLOGY.md)-ben vagy a
+   [Glosszáriumban](docs/glosszarium/index.md).
+2. Ha nem, nézd meg, van-e hivatalos Delta Vision fordítás rá (ha a Vampire-n kívüli szettinghez
+   kapcsolódik, előfordulhat, hogy nincs hivatalos magyar kiadás — ezt is jelezd).
+3. Javasolj egy fordítást egy `terminológia` Issue-ban vagy a Pull Request leírásában, forrással
+   alátámasztva, hogy mások is véleményezhessék.
+4. Minden fogalmat így jelölj első előfordulásnál egy cikkben: **Magyar terminus (angol eredeti)** —
    pl. *"Az Ölelés (Embrace) rituáléja során..."*.
-4. Tulajdonnevek (klán nevek, karakterek) általában angolul maradnak, dőlt szedéssel jelölve,
-   hacsak nincs már bevett magyar hagyomány (pl. "Camarilla" nem fordítjuk).
+5. A klánnevek (Brujah, Toreador, Ventrue stb.) tulajdonnevek, ezeket nem fordítjuk. Más fogalmakra
+   viszont, ha van hivatalos magyar fordítás (pl. "Camarilla" → "Kamarilla"), azt kell használni —
+   ne hagyd angolul csak azért, mert megszokottabbnak tűnik.
 
 Vitás terminológiai kérdéseket GitHub Issue-ban nyitunk meg, `terminológia` címkével.
 
