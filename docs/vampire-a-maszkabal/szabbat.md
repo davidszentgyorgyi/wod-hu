@@ -35,7 +35,7 @@ Hadjáratnak** (Gehenna Crusade).
 
 ## Felépítése
 
-A Szabbat alapköve a **falka** (pack): 3-10 vámpírból álló csoport, amelyet a **Vaulderie**
+A Szabbat alapköve a **falka** (pack): 3-10 vámpírból álló csoport, amelyet a **[Vaulderie](vaulderie.md)**
 (közös vérivási rituálé) köt össze egy **vinculum** nevű kollektív vérkötelékkel. Minden falkának
 van egy **ductus**-a (harci vezető) és egy **papja** (pack priest), aki a tagoknak Káin iránti
 kötelességére emlékezteti őket.

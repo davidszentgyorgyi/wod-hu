@@ -53,7 +53,7 @@ titkos testületnek felelnek.
 
 A Kamarilla tagjai túlnyomórészt az **Emberség** (Humanity) útját követik, és a Felvilágosodás
 Útjait (Paths of Enlightenment) erősen rosszallják — ezeket jellemzően csak Öregek gyakorolják.
-A szekta társadalmát nagyrészt a **prestation** (szívességek, kötelezettségek rendszere) mozgatja:
+A szekta társadalmát nagyrészt a **[Prestation](prestation.md)** (szívességek, kötelezettségek rendszere) mozgatja:
 amikor egy vámpír fontos ajándékot vagy szívességet kap, erkölcsi kötelessége azt egyszer
 visszaszolgáltatni. Ez a rendszer stabilizálja a Kamarilla társadalmát, mert senki sem akar
 elveszíteni egy szívességet vagy adósságot.

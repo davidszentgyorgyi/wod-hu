@@ -45,6 +45,9 @@ terminusokat, ami megerősíti a megbízhatóságukat.
 | Thin-Blooded | Hígvérű | Megerősített | lfg.hu + radavit |
 | Caitiff | Caitiff | Megerősített | radavit — fordítatlan, tulajdonnévként kezelve |
 | Elder | Öreg | Döntés, nincs közvetlen forrás | Közvetlen fordítás; használva a Kamarilla és Második Inkvizíció cikkekben |
+| Prestation | Prestation | Döntés, nincs forrás | Kerestünk, nem találtunk se angol, se magyar forrásban — fordítatlan, tulajdonnévként kezelve |
+| Vaulderie | Vaulderie | Döntés, nincs forrás | Jelentése megerősített (angol forrásból), magyar fordítás nem — fordítatlan |
+| Jyhad | Jyhad | Döntés, nincs forrás | Jelentése megerősített (angol forrásból), magyar fordítás nem — fordítatlan |
 
 ### Szervezeti címek (Kamarilla/Szabbat tisztségek) — következetes kezelési szabály
 
@@ -167,7 +170,9 @@ a megerősítéshez:
 
 - Bestial Failure (teljes kudarc Éhség-kockán dobott 1-essel) — nincs forrás, nincs javaslat sem.
 - Mortal — valószínűleg "halandó", nincs közvetlen forrás.
-- Hunter (a Hunter: The Reckoning játékvilághoz) — nincs forrás.
+- A Hunter: The Reckoning és Demon: The Fallen mélyebb fogalmai (Imbue, Edges, Creed, Faction,
+  Lore, Torment) — csak a kreatúra-nevek (Vadász, Bukott) megerősítettek, a mélyebb mechanika
+  nem forrásolt.
 - A többi játékvilág (Werewolf, Mage, Wraith, Changeling) kulcsfogalmaihoz most már van
   munkafordítás (lásd lejjebb), de **közösségi/hivatalos forrással való megerősítés még nem
   történt meg** — ez továbbra is nyitott feladat.

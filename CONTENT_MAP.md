@@ -102,12 +102,22 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 13 | Lasombra (klán) | ✅ Kész | |
 | 13b | Banu Haqim (klán) | ✅ Kész | Nem volt az eredeti listán, de a 13 fő klán része |
 | 14 | Ravnos, Salubri, Tzimisce (klánok) | ✅ Kész | Külön cikkenként, nem egy összevont cikkben |
-| 15 | Diszciplínák áttekintő listája | 🔲 Nincs elkezdve | Minden klán-cikk hivatkozza a saját Diszciplínáit, de nincs külön, részletes áttekintő cikk |
-| 16 | Maszkabál (a szabály részletes kifejtése) | 🔲 Nincs elkezdve | A Glosszáriumban csak rövid definíció van, ez a teljes cikk |
-| 17 | Hígvérű (Thin-Blooded) | 🔲 Nincs elkezdve | |
-| 18 | Caitiff | 🔲 Nincs elkezdve | |
-| 19 | Második Inkvizíció | 🔲 Nincs elkezdve | |
-| 20 | Bloodline-ok (mellékvérvonalak) listája | 🔲 Nincs elkezdve | Alacsonyabb prioritás, lásd az eredeti elv 4. pontját |
+| 15 | Diszciplínák áttekintő listája | ✅ Kész | `docs/vampire-a-maszkabal/diszciplinak.md` |
+| 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
+| 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
+| 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
+| 19 | Második Inkvizíció | ✅ Kész | `docs/vampire-a-maszkabal/masodik-inkvizicio.md` |
+| 20 | Bloodline-ok (mellékvérvonalak) listája | ✅ Kész | `docs/vampire-a-maszkabal/bloodline-ok.md` |
+| 21 | Prestation | ✅ Kész | `docs/vampire-a-maszkabal/prestation.md` — fordítatlan, nincs forrás |
+| 22 | Vaulderie | ✅ Kész | `docs/vampire-a-maszkabal/vaulderie.md` — fordítatlan, nincs forrás |
+| 23 | Jyhad | ✅ Kész | `docs/vampire-a-maszkabal/jyhad.md` — fordítatlan, nincs forrás |
+
+## Új játékvonalak (eredeti tervben nem szerepeltek)
+
+| # | Cikk | Státusz | Megjegyzés |
+|---|---|---|---|
+| H1 | Hunter: A Leszámolás (bevezető) | ✅ Kész | `docs/hunter-a-leszamolas/index.md` — csak a "Vadász" kreatúra-név megerősített |
+| D1 | Demon: A Bukottak (bevezető) | ✅ Kész | `docs/demon-a-bukottak/index.md` — csak a "Bukott" kreatúra-név megerősített |
 
 ## Alapmotor — játékvilág-független mechanikai cikkek
 

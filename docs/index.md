@@ -15,9 +15,9 @@ közösségi fordítását és leírását gyűjti egy helyre.
 <!-- STATS:START -->
 
 !!! abstract "Fordítási állapot"
-    - **Kész cikkek:** 90
+    - **Kész cikkek:** 95
     - **Stúbok (bővítésre várnak):** 0
-    - **Összes cikk:** 90
+    - **Összes cikk:** 95
     - **Hiányzó célra mutató linkek:** 0
 
 <!-- STATS:END -->
@@ -28,7 +28,9 @@ közösségi fordítását és leírását gyűjti egy helyre.
 - **[Werewolf: Az Apokalipszis](werewolf-az-apokalipszis/index.md)** — vérfarkas-törzsek, Gaia harcosai, a Wyrm ellen.
 - **[Mage: Az Eksztázis](mage-az-eksztazis/index.md)** — mágusrendek, a valóság megváltoztatásának tudománya.
 - **[Wraith: A Feledés](wraith-a-feledes/index.md)** — a holtak birodalma, az Árnyék és a Labirintus.
-- **[Changeling: Az Álmok](changeling-az-almok/index.md)** — tündék emberi testben, a Banalitás ellensége.
+- **[Changeling: Az Álmok](changeling-az-almok/index.md)** — tündérek emberi testben, a Banalitás ellensége.
+- **[Hunter: A Leszámolás](hunter-a-leszamolas/index.md)** — halandó Vadászok a természetfeletti ellen.
+- **[Demon: A Bukottak](demon-a-bukottak/index.md)** — száműzött angyalok emberi testben.
 
 ## Glosszárium
 

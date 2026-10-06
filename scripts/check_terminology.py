@@ -30,6 +30,8 @@ IGNORE_ENGLISH_TERMS = {
     "tradition",  # ambiguous across game lines (VTM Hagyomány vs Mage Tradíció/Mágusrend)
     "wraith",  # only flagged as drift when used as a bare creature noun; in practice it
                # almost always appears inside the "Wraith: The Oblivion"/"Wraith: A Feledés" title
+    "hunter",  # "Hunter: The Reckoning"/"Hunter: A Leszámolás" title
+    "demon",  # "Demon: The Fallen"/"Demon: A Bukottak" title
 }
 
 
@@ -42,10 +44,15 @@ def main() -> None:
     attribution_re = re.compile(
         r'!!! info "Forrás és licenc".*?(?=\n\S|\Z)', re.DOTALL
     )
+    # [Link text](url/slug) -> Link text - internal link targets are file
+    # paths/slugs (often English-derived, e.g. hunter-a-leszamolas/index.md)
+    # and should never count as "prose used the English term".
+    link_target_re = re.compile(r"\[([^\]]*)\]\([^)]*\)")
 
     findings = []
     for path in sorted(DOCS_DIR.rglob("*.md")):
         text = attribution_re.sub("", path.read_text(encoding="utf-8"))
+        text = link_target_re.sub(r"\1", text)
         rel = path.relative_to(ROOT)
         for english, hungarian in pairs:
             if english.lower() in IGNORE_ENGLISH_TERMS:

@@ -98,8 +98,8 @@ jutsz valamelyikben.
 | **Mage: The Ascension** | Csak a kreatúra-név megerősített ("Mágus") | Ugyanaz a forrás, csak a csoportnév. A mélyebb Mage-alfórum tartalma bejelentkezés-védett volt, NEM ellenőrizhető — ne bízz a korábbi (törölt) "Tradíciók/Martalócok/Nefandusok/Technokraták" infóban, az hallucináció volt. |
 | **Wraith: The Oblivion** | Csak a kreatúra-név megerősített ("Lidérc") | Ugyanaz a forrás. Ez volt az első helyes korrekció — korábban hibásan "Szellem"-et használtunk. |
 | **Changeling: The Dreaming** | Csak a kreatúra-név megerősített ("Tündér") | Ugyanaz a forrás. Korábban hibásan "tünde/tündék"-et használtunk (az Tolkien "Elf" fordítása) — javítva. |
-| **Hunter: The Reckoning** | Csak a kreatúra-név megerősített ("Vadász") | Még nincs cikk ehhez a vonalhoz a wikiben. |
-| **Demon: The Fallen** | Csak a kreatúra-név megerősített ("Bukott") | Még nincs cikk ehhez a vonalhoz a wikiben. |
+| **Hunter: The Reckoning** | Csak a kreatúra-név megerősített ("Vadász"), van bevezető cikk | `docs/hunter-a-leszamolas/index.md` — a mélyebb fogalmak (Imbue, Edges, Creed) még nincsenek forrásolva. |
+| **Demon: The Fallen** | Csak a kreatúra-név megerősített ("Bukott"), van bevezető cikk | `docs/demon-a-bukottak/index.md` — a mélyebb fogalmak (Faction, Lore, Torment) még nincsenek forrásolva. |
 
 Ha regisztrálsz a worldofdarkness.hungarianforum.net-re és hozzáférsz a tényleges
 fajleírás-tartalmához (nem csak a bejelentkezési képernyőhöz), az nagyon értékes további forrás
