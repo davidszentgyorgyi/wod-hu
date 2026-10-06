@@ -7,7 +7,7 @@ description: >-
 
 # Archon
 
-Az **Archon** egy Justicar elismert megbízott ügynöke — ha a Justicarok a Belső Kör "kezei",
+Az **Archon** egy [Justicar](justicar.md) elismert megbízott ügynöke — ha a Justicarok a Belső Kör "kezei",
 az Archonok a "kezek ujjai". Egy Archont jellemzően a Justicar nevezi ki hivatalba lépésekor,
 és a Justicar leváltásával az Archon megbízása is véget ér. A kiválasztás alapja sokféle
 lehet: harci tehetség, taktikai érzék, nyomozói vagy kémkedési képesség.
