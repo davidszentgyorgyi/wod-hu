@@ -18,6 +18,9 @@ hogy idősebb vámpírok uralnák a fiatalabbakat, a falka tagjai egymáshoz kö
 hűséggel és bizalommal. A rituálét gyakran végzik nagyobb falka-összejöveteleken, csata előtt,
 vagy új tagok beavatásakor.
 
+Az így létrejövő kötést **[Vinculumnak](vinculum.md)** hívják — ez egy közösségi
+Vérkötelék, ami minden résztvevőt egyformán köt egymáshoz.
+
 !!! warning "Terminológia megjegyzés"
     A "Vaulderie" szóra nem találtunk magyar fordítást vagy közösségi forrást — fordítatlanul,
     tulajdonnévként kezeljük. Lásd
