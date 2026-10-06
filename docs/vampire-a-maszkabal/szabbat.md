@@ -76,8 +76,8 @@ A Szabbaton belül több **irányzat** (faction) létezik, amelyek a szekta jöv
 - **Ortodoxia**: a szekta vallásos elemeinek megerősítését sürgetik.
 - **Ultrakonzervatívok**: a Gehenna közelségében hisznek, teljes háborús készültséget akarnak.
 
-A Szabbat Inkvizíciója a szektán belüli eretnekséget (pl. Infernalizmust) üldözi, míg a **Fekete
-Kéz** (Black Hand) egy félig önálló, katonai szárnyként működik.
+A Szabbat Inkvizíciója a szektán belüli eretnekséget (pl. Infernalizmust) üldözi, míg a
+**[Fekete Kéz](fekete-kez.md)** (Black Hand) egy félig önálló, katonai szárnyként működik.
 
 Sok Szabbat-tag az Emberség helyett [A Megvilágosodás egy Útját](megvilagosodas-utjai.md)
 követi, saját, nem-emberi erkölcsi logikával.
