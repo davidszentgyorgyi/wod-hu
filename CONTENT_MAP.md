@@ -156,6 +156,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 60 | Örök Szenátus, ókori római Vértestvér-önkormányzat | ✅ Kész | `docs/vampire-a-maszkabal/orok-szenatus.md` |
 | 61 | Chantry, Tremere klán városi bázisa | ✅ Kész | `docs/vampire-a-maszkabal/chantry.md` |
 | 62 | Elysium, Kamarilla neutrális találkozóhely | ✅ Kész | `docs/vampire-a-maszkabal/elysium.md` |
+| 63 | Herceg (Prince), Domain vezetői tisztség | ✅ Kész | `docs/vampire-a-maszkabal/herceg.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

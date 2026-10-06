@@ -9,7 +9,7 @@ description: >-
 
 Az **Elysium** egy adott város [Kamarillájának](kamarilla.md) kijelölt, neutrális
 találkozóhelye — ahol a Vértestvérek erőszak nélkül, viszonylagos biztonságban tartózkodhatnak
-egymás társaságában. A helyszínt jellemzően a Herceg választja ki, leginkább művészeti vagy
+egymás társaságában. A helyszínt jellemzően a [Herceg](herceg.md) választja ki, leginkább művészeti vagy
 szellemi értékkel bíró helyeken (színházakban, múzeumokban), bár néhol egyszerű klubok vagy
 akár egy-egy Vértestvér fészke is betöltheti ezt a szerepet.
 
