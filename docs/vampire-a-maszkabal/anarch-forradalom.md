@@ -22,9 +22,9 @@ feszültség akkor csúcsosodott ki, amikor egy fiatal Brujah, aki a "Tyler" nev
 (Patricia of Bollingbroke), szembeszállt a vének tanácsával — köztük [Hardestadttal](hardestadt.md),
 a Ventrue-vezette szövetség egyik alapító alakjával, akiből később a [Kamarilla](kamarilla.md)
 nőtt ki. Amikor a vének elutasították a nyílt harc gondolatát, és inkább a rejtőzködést (a
-leendő Maszkabál alapjait) választották, Tyler otthagyta a tanácsot, és 1395-ben megrohamozta
-Hardestadt várát — a csatában diablerizálta Hardestadtot, ezzel jelezve a Forradalom
-hivatalos kezdetét.
+leendő Maszkabál alapjait) választották, [Tyler](tyler.md) otthagyta a tanácsot, és 1395-ben
+megrohamozta Hardestadt várát — a csatában diablerizálta Hardestadtot, ezzel jelezve a
+Forradalom hivatalos kezdetét.
 
 A hír hallatán Spanyolország-szerte fiatal Brujah-k fordultak szembe teremtőikkel. A felkelés
 szervezetlensége és a vének nagyobb erőforrásai miatt nem hozott gyors, egyértelmű győzelmet —
