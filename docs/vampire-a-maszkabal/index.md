@@ -25,11 +25,21 @@ A vámpírok [**Klánokba**](klanok.md) sorolhatók — lásd a teljes listát m
     teljes [TERMINOLOGY.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/TERMINOLOGY.md)
     táblázatot és forrásjegyzéket.
 
+## Fő cikkek
+
+- **[Diszciplínák](diszciplinak.md)** — a vámpírok természetfeletti képességei.
+- **[Maszkabál](maszkabal.md)** — a legfontosabb törvény teljes kifejtése.
+- **[Generáció](generacio.md)**, **[Vérkötelék](verkotelek.md)**, **[Diabléria](diableria.md)** —
+  a vér köré épülő alapfogalmak.
+- **[Hígvérű](higveru.md)**, **[Caitiff](caitiff.md)** — a vámpírtársadalom peremén élők.
+- **[Második Inkvizíció](masodik-inkvizicio.md)** — a modern kor legnagyobb fenyegetése.
+- **[Bloodline-ok](bloodline-ok.md)** — a mellékvérvonalak áttekintése.
+
 ## Tartalom állapota
 
-A szekták és mind a 13 fő klán áttekintő cikke elkészült. A részletesebb mélységi tartalom
-(Bloodline-ok, Diszciplínák teljes listája, egyes klánok bővebb története) még hátravan — lásd a
-priorizálást a [CONTENT_MAP.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTENT_MAP.md)-ban.
+A szekták, mind a 13 fő klán és a legtöbb alapfogalom cikke elkészült. Hátravan még pár mélyebb
+részlet (pl. egyes Bloodline-ok önálló cikke) — lásd a priorizálást a
+[CONTENT_MAP.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTENT_MAP.md)-ban.
 
 Ha szeretnél csatlakozni a fordításhoz, nézd meg a
 [CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutatót.

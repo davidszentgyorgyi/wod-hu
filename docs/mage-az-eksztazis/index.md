@@ -10,7 +10,18 @@ description: >-
 A **Mage: The Ascension** (magyarul: *Mágus: Az Eksztázis*) játékvilágban a játékosok mágusokat
 irányítanak, akik hiedelmeik erejével képesek megváltoztatni a valóság szabályait.
 
-## Tartalom állapota
+## Fő cikkek
 
-Ez a szekció még nem tartalmaz lefordított cikkeket. Csatlakozz a fordításhoz a
-[CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutató szerint.
+- **[Mágusrendek](magusrendek.md)** — a kilenc Tradíció áttekintése.
+- **[Szférák](szferak.md)** — a valóságformálás kilenc tudásterülete.
+- **[Paradox](paradox.md)** — a valóság önvédelmi mechanizmusa.
+- **[Arete](arete.md)** — a megvilágosodás mércéje.
+- **[Technokrácia](technokracia.md)** — a Tradíciók fő ellenfele.
+- **[Avatar](avatar.md)** — a mágus lelkének megvilágosodott szikrája.
+
+!!! warning "Terminológia megjegyzés"
+    Ennek a játékvilágnak a terminológiája még nincs hivatalos magyar forrással megerősítve —
+    munkafordítások, lásd [TERMINOLOGY.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/TERMINOLOGY.md).
+
+Ha szeretnél csatlakozni a fordításhoz, nézd meg a
+[CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutatót.

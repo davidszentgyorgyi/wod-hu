@@ -150,8 +150,40 @@ a megerősítéshez:
 - Bestial Failure (teljes kudarc Éhség-kockán dobott 1-essel) — nincs forrás, nincs javaslat sem.
 - Mortal — valószínűleg "halandó", nincs közvetlen forrás.
 - Hunter (a Hunter: The Reckoning játékvilághoz) — nincs forrás.
-- A többi játékvilág (Werewolf, Mage, Wraith, Changeling) kulcsfogalmai — ezekhez még nem végeztünk
-  terminológiai kutatást. **Ez a következő lépés**, mielőtt ezen játékvilágok fordítása elindulna.
+- A többi játékvilág (Werewolf, Mage, Wraith, Changeling) kulcsfogalmaihoz most már van
+  munkafordítás (lásd lejjebb), de **közösségi/hivatalos forrással való megerősítés még nem
+  történt meg** — ez továbbra is nyitott feladat.
+
+## Más játékvilágok — munkafordítások (nincs forrás)
+
+A Werewolf, Mage, Wraith és Changeling cikkekben használt terminológiához **nincs hivatalos
+magyar kiadás vagy közösségi forrás** — ezek mind munkafordítások, írás közben hozva létre, jól
+dokumentált publikus angol szabályok alapján. Ha bárki magyar közösségi forrást talál ezekhez,
+kérjük, nyisson egy `terminológia` Issue-t.
+
+| Angol | Magyar | Játékvilág |
+|---|---|---|
+| Garou | Garou *(fordítatlan)* | Werewolf |
+| Tribe | Törzs | Werewolf |
+| Gift | Ajándék | Werewolf |
+| Rage | Rage *(fordítatlan, munkanév)* | Werewolf |
+| Umbra | Umbra *(fordítatlan)* | Werewolf |
+| Gauntlet | Gauntlet *(fordítatlan, munkanév)* | Werewolf |
+| Tradition | Tradíció / Mágusrend | Mage |
+| Sphere | Szféra | Mage |
+| Paradox | Paradox *(fordítatlan)* | Mage |
+| Arete | Arete *(fordítatlan)* | Mage |
+| Technocracy | Technokrácia | Mage |
+| Avatar | Avatar *(fordítatlan)* | Mage |
+| Shadow (Wraith) | Árnyék | Wraith |
+| Labyrinth | Labirintus | Wraith |
+| Legions | Legiók | Wraith |
+| Fetter | Kötelék | Wraith |
+| Passion | Szenvedély | Wraith |
+| Kith | Kith *(fordítatlan)* | Changeling |
+| Banality | Banalitás | Changeling |
+| Glamour | Glamour *(fordítatlan)* | Changeling |
+| Seelie/Unseelie Court | Seelie/Unseelie Udvar | Changeling |
 
 ## Források
 

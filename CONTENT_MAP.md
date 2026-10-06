@@ -125,6 +125,26 @@ külön, szetting-független kategóriaként kezeljük, a `docs/glosszarium/` al
 | E6 | Harc alapjai (kezdeményezés, támadás/védelem) | ✅ Kész | `docs/glosszarium/harc-alapjai.md` |
 | E7 | Tapasztalat (Experience Points, karakterfejlődés) | ✅ Kész | `docs/glosszarium/tapasztalat.md` |
 
+## 2. hullám — Vampire mélyebb fogalmak, és a többi játékvilág első cikkei
+
+A Vampire-vonal maradék Wave 1 elemei (Diszciplínák, Maszkabál, Hígvérű, Caitiff, Második
+Inkvizíció, Bloodline-ok) és 3 további mélyebb fogalom (Generáció, Vérkötelék, Diabléria) mind
+elkészültek, `docs/vampire-a-maszkabal/` alatt.
+
+A többi négy játékvilághoz is elkészült egy első kör alapfogalom-cikk, **munkafordítással**
+(nincs még hivatalos/közösségi forrás-megerősítés, lásd TERMINOLOGY.md):
+
+| Játékvilág | Cikkek |
+|---|---|
+| Werewolf: Az Apokalipszis | Garou, Törzsek, Gaia, A Wyrm, Ajándékok, Rage, Umbra |
+| Mage: Az Eksztázis | Mágusrendek, Szférák, Paradox, Arete, Technokrácia, Avatar |
+| Wraith: A Feledés | Árnyék, Labirintus, Legiók, Kötelékek és Szenvedélyek |
+| Changeling: Az Álmok | Kith, Banalitás, Glamour, Seelie/Unseelie Udvarok |
+
+**Következő lépés ezekhez a játékvilágokhoz**: közösségi/hivatalos magyar forrás keresése a
+terminológia megerősítéséhez (hasonlóan ahhoz, ahogy a Vampire-vonalnál a Delta Vision kiadást és
+a magyar fan-fórumokat használtuk) — lásd TERMINOLOGY.md nyitott kérdéseit.
+
 **Jelmagyarázat:** ✅ kész · 🟡 stúb (van oldal, bővítésre vár) · 🔲 nincs elkezdve, nincs még oldal
 sem. A friss számokat a kezdőlap [státusz-blokkja](docs/index.md) mutatja automatikusan.
 

@@ -8,10 +8,19 @@ description: >-
 # Changeling: Az Álmok
 
 A **Changeling: The Dreaming** (magyarul: *Változó: Az Álmok*) játékvilágban a játékosok
-tündelényeket (Kithain) irányítanak, akik emberi testben élnek, és a **Banalitás** — a varázslat
-és képzelet elsorvasztó ereje — ellen küzdenek.
+tündelényeket ([Kith](kith.md)) irányítanak, akik emberi testben élnek, és a
+**[Banalitás](banalitas.md)** — a varázslat és képzelet elsorvasztó ereje — ellen küzdenek.
 
-## Tartalom állapota
+## Fő cikkek
 
-Ez a szekció még nem tartalmaz lefordított cikkeket. Csatlakozz a fordításhoz a
-[CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutató szerint.
+- **[Kith](kith.md)** — a tündefajok áttekintése.
+- **[Banalitás](banalitas.md)** — a varázslat elsorvasztó ellensége.
+- **[Glamour](glamour.md)** — a tündék mágikus életereje.
+- **[Seelie és Unseelie Udvarok](udvarok.md)** — a tündék politikai megosztottsága.
+
+!!! warning "Terminológia megjegyzés"
+    Ennek a játékvilágnak a terminológiája még nincs hivatalos magyar forrással megerősítve —
+    munkafordítások, lásd [TERMINOLOGY.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/TERMINOLOGY.md).
+
+Ha szeretnél csatlakozni a fordításhoz, nézd meg a
+[CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutatót.

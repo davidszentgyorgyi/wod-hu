@@ -8,10 +8,22 @@ description: >-
 # Werewolf: Az Apokalipszis
 
 A **Werewolf: The Apocalypse** (magyarul: *Vérfarkas: Az Apokalipszis*) játékvilágban a játékosok
-Gaia harcosait, vérfarkasokat (Garou) irányítanak, akik a Wyrm, a világot pusztító erő ellen
-harcolnak.
+Gaia harcosait, vérfarkasokat ([Garou](garou.md)) irányítanak, akik a [Wyrm](wyrm.md), a világot
+pusztító erő ellen harcolnak.
 
-## Tartalom állapota
+## Fő cikkek
 
-Ez a szekció még nem tartalmaz lefordított cikkeket. Csatlakozz a fordításhoz a
-[CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutató szerint.
+- **[Garou](garou.md)** — a vérfarkasok önmegnevezése, alakváltási formáik.
+- **[Törzsek](torzsek.md)** — a 13 Garou-törzs áttekintése.
+- **[Gaia](gaia.md)** — a Föld szellemi anyja.
+- **[A Wyrm](wyrm.md)** — a pusztító ellenfél.
+- **[Ajándékok](ajandekok.md)** — a szellemektől tanult természetfeletti képességek.
+- **[Rage](rage.md)** — a harci düh mércéje.
+- **[Umbra](umbra.md)** — a szellemvilág.
+
+!!! warning "Terminológia megjegyzés"
+    Ennek a játékvilágnak a terminológiája még nincs hivatalos magyar forrással megerősítve —
+    munkafordítások, lásd [TERMINOLOGY.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/TERMINOLOGY.md).
+
+Ha szeretnél csatlakozni a fordításhoz, nézd meg a
+[CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutatót.
