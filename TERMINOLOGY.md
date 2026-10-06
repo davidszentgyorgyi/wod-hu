@@ -218,7 +218,7 @@ jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/V
 | Ancilla | Ancilla | Fordítatlan — generációs rang, Neonátus és Öreg között |
 | Methuselah | Methuselah | Fordítatlan — rendkívül idős Vértestvér rangja |
 | Antediluvian | Antediluvianus | Fordítatlan — a klánalapító, özönvíz előtti vámpírok rangja |
-| Bloodline | Vérvonal | Már használatban: `bloodline-ok.md` |
+| Bloodline | Bloodline *(fordítatlan, "mellékvérvonal" glosszával első előfordulásnál)* | Már használatban: `bloodline-ok.md` és a klán-cikkek — Caitiff/Ghoul-mintára kezelve |
 | Masquerade Breach | Maszkabál-szegés | A Maszkabál megszegésének ténye/esete |
 | Feeding | Táplálkozás | Általános gyűjtőfogalom a vérszerzésre |
 | Hunting | Vérszerzés | Már használatban: `predator-tipus.md` |
