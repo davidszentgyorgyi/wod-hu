@@ -14,7 +14,7 @@ Maszkabál*) a World of Darkness legismertebb játékvilága, amelyben a játék
 titokban kell tartaniuk létezésüket az emberiség elől.
 
 A fő szekták a **[Kamarilla](kamarilla.md)** (a hagyományokat és a Maszkabál betartását védő, elit
-szervezet) és a **[Szabbat](szabbat.md)** (a Kamarillával szemben álló, erőszakosabb frakció).
+szekta) és a **[Szabbat](szabbat.md)** (a Kamarillával szemben álló, erőszakosabb szekta).
 
 !!! info "Terminológia forrása"
     A fenti fordítások a [Delta Vision](https://www.deltavision.hu) hivatalos magyar kiadásán

@@ -53,12 +53,19 @@ terminusokat, ami megerősíti a megbízhatóságukat.
 | Domain | Domain / Vadászterület | Megerősített, kettős alak | lfg.hu — kontextustól függ, melyiket használjuk |
 | Setting | Játékvilág | Megerősített | lfg.hu a "világ" szót használja a WoD leírására (nem "szettinget") — a projektben a "játékvilág" alakot használjuk az egyértelműség kedvéért |
 
-## Szekták és frakciók
+## Szekták (Sect)
+
+**Terminológiai kör, lezárva**: kezdetben azt feltételeztük, hogy a "szekta" szót kerülni kellene
+(magyarul kultusz-/vallási felhangja miatt), és a "frakció" szót javasoltuk helyette. Ez azonban
+**saját szemantikai következtetés volt, nem megerősített közösségi forrás** — utóbb két független,
+valódi magyar WoD fan-forrás ellenőrzése után kiderült, hogy a tényleges közösségi gyakorlat
+**"szekta"**-t használ, változtatás nélkül. Ezt a megerősített forrás felülírja a korábbi döntést.
 
 | Angol | Magyar (hivatalos) | Megbízhatóság | Megjegyzés |
 |---|---|---|---|
-| Camarilla | Kamarilla | Megerősített | lfg.hu + radavit |
-| Sabbat | Szabbat | Megerősített | radavit |
+| Sect (gyűjtőfogalom) | Szekta | Megerősített | [wodhu.blogspot.com](https://wodhu.blogspot.com/2012/09/klanok.html): *"A klánok lehetnek függetlenek, vagy egy szekta (Sabbat vagy Camarilla) tagjai."*; [worldofdarkness.hungarianforum.net](https://worldofdarkness.hungarianforum.net/t3-a-vampirokrol-altalaban): *"A két nagy szekta, a Kamarilla és a Szabbat évszázados ellentétben áll egymással..."* |
+| Camarilla | Kamarilla | Megerősített | lfg.hu + radavit + worldofdarkness.hungarianforum.net |
+| Sabbat | Szabbat | Megerősített | radavit + worldofdarkness.hungarianforum.net |
 | Anarch | Anarch / Elkötelezetlenek | Megerősített, kettős alak | lfg.hu "Anarch"-ot használ tulajdonnévként; a Delta Vision *Anarch* kiegészítő leírásában "Elkötelezetlenek" szerepel — kontextustól függően válasszunk |
 
 ## Klánnevek
@@ -76,8 +83,6 @@ Ezeket a hivatalos kiadásból vagy közösségi forrásból **nem sikerült meg
 hozzáfér a nyomtatott könyvhöz vagy a beleolvasó PDF-hez, kérünk, nyisson egy `terminológia` Issue-t
 a megerősítéshez:
 
-- Sect (általános "szekta" fogalom, nem csak Camarilla/Sabbat) — valószínűleg "szekta", de nincs
-  közvetlen forrás.
 - Mortal — valószínűleg "halandó", nincs közvetlen forrás.
 - Hunter (a Hunter: The Reckoning játékvilághoz) — nincs forrás.
 - A többi játékvilág (Werewolf, Mage, Wraith, Changeling) kulcsfogalmai — ezekhez még nem végeztünk
@@ -92,3 +97,5 @@ a megerősítéshez:
 - [Magyar nyelven megjelent szerepjátékok listája, Wikipédia](https://hu.wikipedia.org/wiki/Magyar_nyelven_megjelent_szerepj%C3%A1t%C3%A9kok_list%C3%A1ja)
 - [Vampire V5 szerepjáték ismertető - 2. rész, LFG.HU](https://lfg.hu/85616/ismerteto/vampire-v5-szerepjatek-ismerteto-2-resz/)
 - [Vampire: The Masquerade 5th Edition ismertető, Tivadar szerepjátékos blogja](https://radavit.blogspot.com/2018/12/vampire-masquerade-5th-edition-ismerteto.html)
+- [World of Darkness: Klánok, wodhu.blogspot.com](https://wodhu.blogspot.com/2012/09/klanok.html)
+- [A vámpírokról általában, worldofdarkness.hungarianforum.net](https://worldofdarkness.hungarianforum.net/t3-a-vampirokrol-altalaban)
