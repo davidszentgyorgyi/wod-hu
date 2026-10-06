@@ -22,6 +22,9 @@ megbélyegzés — sok domainben megvetik vagy kiközösítik őket klán-hiány
 A [Szabbat](szabbat.md) berkein belül a Caitiff-ok "Pander"-ek néven szerveződtek, és a Harmadik
 Szabbat Polgárháború után egyenlő elbánást kaptak a klánokkal.
 
+Lásd még: [Autarkis](autarkis.md) — hasonló, de nem azonos fogalom, a szekta-politikától
+való elszakadtságra.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Caitiff szócikkének](https://whitewolf.fandom.com/wiki/Caitiff)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
