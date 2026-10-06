@@ -18,6 +18,15 @@ jelent.
 - **Pooka**: trükkös, állat-jellegű tündérek.
 - **Troll**: hatalmas, erős, becsületes tündérek.
 - **Eshu**: vándorló mesemondó tündérek.
+- **Satyr**: élet- és örömközpontú, zenével és tánccal élő tündérek.
+- **Nocker**: feltalálók és szerkezetépítők, akik szeretnek hangosan dühöngeni.
+
+## Chrysalis — a felnövés pillanata
+
+A Kithain nem születik tündér-tudattal — halandó gyerekként nő fel, és csak a kamaszkor
+körül, egy **Chrysalis** nevű belső ébredés során ismeri fel saját tündéri természetét és
+Kith-hovatartozását. Ez a pillanat egyszerre felszabadító és megterhelő: a Kithain ettől
+kezdve két világ — a halandó és a tündéri — között él, sosem teljesen otthon egyikben sem.
 
 ## Kapcsolat a Banalitással
 
