@@ -24,7 +24,7 @@ Egy vámpír Generációja csökkenhet [**Diabléria**](diableria.md) (egy mási
 vérének és lényének elnyelése) révén — ez azonban a Kamarillában a legsúlyosabb bűnök közé
 tartozik.
 
-Lásd még: [Teremtő és Gyermek](teremto-es-gyermek.md).
+Lásd még: [Teremtő és Gyermek](teremto-es-gyermek.md) · [Vérpotenciál](verpotencial.md).
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Generation szócikkének](https://whitewolf.fandom.com/wiki/Generation)
