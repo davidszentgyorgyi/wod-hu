@@ -99,6 +99,19 @@ fan-közösség → jelölt, forrás nélküli munkafordítás), és soha ne fog
 bejelentkezés-védett vagy üres oldalról ellenőrzés nélkül. Emberi kontributoroknak is érdemes
 elolvasni — ugyanaz a munkafolyamat, amit kézzel is követnünk kell.
 
+### Terminológia gyors kikeresése
+
+A `scripts/lookup_term.py` egy angol (vagy magyar) szóra megmondja, szerepel-e már a
+`TERMINOLOGY.md`-ben, és ha igen, milyen megbízhatósági szinttel és forrással:
+
+```bash
+python scripts/lookup_term.py Masquerade
+python scripts/lookup_term.py --hu Maszkabál   # fordított irányban
+```
+
+Ha nincs találat, a szkript jelzi, hogy a fogalomhoz előbb a kutatási protokollt kell
+lefuttatni — lásd `.claude/skills/wod-forditas/SKILL.md`.
+
 ### Forrás lekérése fordításhoz
 
 A `scripts/fetch_source.py` lekéri egy whitewolf.fandom.com cikk szövegét és eltávolítja belőle a
