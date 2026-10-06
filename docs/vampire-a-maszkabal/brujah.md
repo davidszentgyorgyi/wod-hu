@@ -20,7 +20,7 @@ a lázadás és a düh klánjaként ismert.
 
 ## Diszciplínák
 
-Celerity (Sebesség), Potence (Hatóerő) és Presence (Jelenlét).
+Celerity ([Sebesség](diszciplina-sebesseg.md)), Potence ([Hatóerő](diszciplina-hatoero.md)) és Presence ([Jelenlét](diszciplina-jelenlet.md)).
 
 ## Klán-hátrány
 

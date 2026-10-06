@@ -26,7 +26,7 @@ kiadás idejére a klán jelentős része csatlakozott az **[Anarch Mozgalomhoz]
 
 ## Diszciplínák
 
-Obfuscate (Rejtőzés), Presence (Jelenlét) és Protean (Átváltozás).
+Obfuscate ([Rejtőzés](diszciplina-rejtozes.md)), Presence ([Jelenlét](diszciplina-jelenlet.md)) és Protean ([Átváltozás](diszciplina-atvaltozas.md)).
 
 ## Szekta-hovatartozás
 

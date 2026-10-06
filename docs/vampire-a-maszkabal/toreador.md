@@ -19,7 +19,7 @@ kulturális élet megfigyelői, akik ihletet keresnek az örök éjszakában.
 
 ## Diszciplínák
 
-Auspex, Celerity (Sebesség) és Presence (Jelenlét).
+[Auspex](diszciplina-auspex.md), Celerity ([Sebesség](diszciplina-sebesseg.md)) és Presence ([Jelenlét](diszciplina-jelenlet.md)).
 
 ## Klán-hátrány
 

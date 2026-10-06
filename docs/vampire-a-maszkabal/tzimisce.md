@@ -19,7 +19,7 @@ vámpír-uralkodói, akik feudális, despotikus rendet tartottak fenn évszázad
 
 ## Diszciplínák
 
-Animalism (Állatiasság), Dominate (Uralás) és Protean (Átváltozás).
+Animalism ([Állatiasság](diszciplina-allatiassag.md)), Dominate ([Uralás](diszciplina-uralas.md)) és Protean ([Átváltozás](diszciplina-atvaltozas.md)).
 
 ## Klán-hátrány
 

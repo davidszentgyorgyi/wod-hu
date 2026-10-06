@@ -20,7 +20,7 @@ a klán nagy részét szétzilálta.
 
 ## Diszciplínák
 
-Animalism (Állatiasság), Fortitude (Szívósság) és Obfuscate (Rejtőzés) — klasszikusan
+Animalism ([Állatiasság](diszciplina-allatiassag.md)), Fortitude ([Szívósság](diszciplina-szivossag.md)) és Obfuscate ([Rejtőzés](diszciplina-rejtozes.md)) — klasszikusan
 Chimerstry (illúziókeltés) is jellemző rájuk.
 
 ## Klán-hátrány

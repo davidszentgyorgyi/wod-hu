@@ -20,7 +20,7 @@ felelős.
 
 ## Diszciplínák
 
-Auspex, Dominate (Uralás) és Blood Sorcery (Vérmágia).
+[Auspex](diszciplina-auspex.md), Dominate ([Uralás](diszciplina-uralas.md)) és Blood Sorcery ([Vérmágia](diszciplina-vermagia.md)).
 
 ## Klán-hátrány
 

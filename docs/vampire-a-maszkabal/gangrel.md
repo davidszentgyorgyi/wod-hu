@@ -20,7 +20,7 @@ vehet fel.
 
 ## Diszciplínák
 
-Animalism (Állatiasság), Fortitude (Szívósság) és Protean (Átváltozás).
+Animalism ([Állatiasság](diszciplina-allatiassag.md)), Fortitude ([Szívósság](diszciplina-szivossag.md)) és Protean ([Átváltozás](diszciplina-atvaltozas.md)).
 
 ## Klán-hátrány
 

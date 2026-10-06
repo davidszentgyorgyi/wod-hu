@@ -19,7 +19,7 @@ politikai játékokban mesterek.
 
 ## Diszciplínák
 
-Dominate (Uralás), Oblivion (Feledés) és Potence (Hatóerő).
+Dominate ([Uralás](diszciplina-uralas.md)), Oblivion ([Feledés](diszciplina-feledes.md)) és Potence ([Hatóerő](diszciplina-hatoero.md)).
 
 ## Klán-hátrány
 

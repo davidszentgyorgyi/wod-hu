@@ -28,7 +28,7 @@ családi összejöveteleken keresztül.
 
 ## Diszciplínák
 
-Auspex, Fortitude (Szívósság) és Oblivion (Feledés) — bár az egyes al-vérvonalak (La Famiglia
+[Auspex](diszciplina-auspex.md), Fortitude ([Szívósság](diszciplina-szivossag.md)) és Oblivion ([Feledés](diszciplina-feledes.md)) — bár az egyes al-vérvonalak (La Famiglia
 Giovanni, Harbingers of Ashur, Gorgons, Flesh-Eaters) ettől eltérő kombinációkat is
 használhatnak.
 

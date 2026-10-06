@@ -21,7 +21,7 @@ arra, mit "látnak".
 
 ## Diszciplínák
 
-Auspex, Dominate (Uralás) és Obfuscate (Rejtőzés).
+[Auspex](diszciplina-auspex.md), Dominate ([Uralás](diszciplina-uralas.md)) és Obfuscate ([Rejtőzés](diszciplina-rejtozes.md)).
 
 ## Klán-hátrány
 

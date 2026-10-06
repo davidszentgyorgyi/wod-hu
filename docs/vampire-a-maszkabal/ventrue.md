@@ -19,7 +19,7 @@ A klán tagjai erős kötelességtudatot és felelősséget érzenek a vámpír-
 
 ## Diszciplínák
 
-Dominate (Uralás), Fortitude (Szívósság) és Presence (Jelenlét).
+Dominate ([Uralás](diszciplina-uralas.md)), Fortitude ([Szívósság](diszciplina-szivossag.md)) és Presence ([Jelenlét](diszciplina-jelenlet.md)).
 
 ## Klán-hátrány
 

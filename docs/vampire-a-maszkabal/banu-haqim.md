@@ -20,7 +20,7 @@ teljes elnyelése) felé is.
 
 ## Diszciplínák
 
-Blood Sorcery (Vérmágia), Celerity (Sebesség) és Obfuscate (Rejtőzés).
+Blood Sorcery ([Vérmágia](diszciplina-vermagia.md)), Celerity ([Sebesség](diszciplina-sebesseg.md)) és Obfuscate ([Rejtőzés](diszciplina-rejtozes.md)).
 
 ## Klán-hátrány
 

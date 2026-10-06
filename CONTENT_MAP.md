@@ -107,6 +107,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 25 | Gehenna | ✅ Kész | `docs/vampire-a-maszkabal/gehenna.md` — a vámpírok világvége, ugyanaz a hiányosság |
 | 14 | Ravnos, Salubri, Tzimisce (klánok) | ✅ Kész | Külön cikkenként, nem egy összevont cikkben |
 | 15 | Diszciplínák áttekintő listája | ✅ Kész | `docs/vampire-a-maszkabal/diszciplinak.md` |
+| 15b | Diszciplínák részletes cikkei (11 db, V5 szintenkénti erők) | ✅ Kész | `docs/vampire-a-maszkabal/diszciplina-allatiassag.md` és további 10 testvércikk — mind a 11 Diszciplína saját cikket kapott, linkelve a 13 klán leírásából |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

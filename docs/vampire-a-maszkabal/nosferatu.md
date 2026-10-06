@@ -20,7 +20,7 @@ zugaiban élve ők a vámpírtársadalom legjobban informált pletykagyűjtői �
 
 ## Diszciplínák
 
-Animalism (Állatiasság), Obfuscate (Rejtőzés) és Potence (Hatóerő).
+Animalism ([Állatiasság](diszciplina-allatiassag.md)), Obfuscate ([Rejtőzés](diszciplina-rejtozes.md)) és Potence ([Hatóerő](diszciplina-hatoero.md)).
 
 ## Klán-hátrány
 
