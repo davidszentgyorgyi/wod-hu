@@ -123,6 +123,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 27 | Thorns-i Egyezmény (Convention of Thorns), történelmi esemény | ✅ Kész | `docs/vampire-a-maszkabal/thorni-egyezmeny.md` |
 | 28 | A Hat Hagyomány (Kamarilla Traditions) részletes cikk | ✅ Kész | `docs/vampire-a-maszkabal/hagyomanyok.md` |
 | 29 | A Megvilágosodás Útjai (Paths of Enlightenment) | ✅ Kész | `docs/vampire-a-maszkabal/megvilagosodas-utjai.md` |
+| 30 | Milánói Kódex (Code of Milan), a Szabbat szabályzata | ✅ Kész | `docs/vampire-a-maszkabal/milanoi-kodex.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

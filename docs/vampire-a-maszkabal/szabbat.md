@@ -69,7 +69,8 @@ szemben a Kamarillával, amely ezeket inkább mítosznak tekinti.
 
 A Szabbaton belül több **irányzat** (faction) létezik, amelyek a szekta jövőjéről vitáznak:
 
-- **Lojalisták**: az eredeti Anarch-eszméket követik, elutasítják a Milánói Kódexet.
+- **Lojalisták**: az eredeti Anarch-eszméket követik, elutasítják a [Milánói
+  Kódexet](milanoi-kodex.md).
 - **Moderátusok**: elfogadják a Vásárlási Egyezményt (Purchase Pact), de szkeptikusak a Kódex egyes pontjaival.
 - **Status Quo**: a jelenlegi rendszer fenntartása mellett állnak.
 - **Ortodoxia**: a szekta vallásos elemeinek megerősítését sürgetik.
