@@ -21,7 +21,7 @@ tehetségét. A bloodline ezután a klán védelmezőivé vált — fontosabb s�
 gyakran állt egy-egy Lamia őrként.
 
 - Harapásuk fertőzést hordozott, ezért óvatosan, ritkán táplálkoztak.
-- Saját, négy testnedvre épülő nekromancia-ágat fejlesztettek ki.
+- Saját, négy testnedvre épülő [Mortis](mortis.md)-ágat fejlesztettek ki.
 - Számuk sosem volt nagy, de a Cappadocian számára létfontosságú erőforrást jelentettek.
 
 ## Vég
