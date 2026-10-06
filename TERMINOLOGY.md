@@ -223,6 +223,99 @@ jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/V
 | Feeding | Táplálkozás | Általános gyűjtőfogalom a vérszerzésre |
 | Hunting | Vérszerzés | Már használatban: `predator-tipus.md` |
 
+## Vampire V5 — Előnyök/Hátrányok és Hátterek egyedi nevei (munkafordítások)
+
+Ezek a konkrét Előny/Hátrány/Háttér nevek (nem a kategórianevek, azokat lásd fent) — rövid,
+szabály-szintű megnevezések, amelyekhez nem találtunk magyar közösségi forrást. Direkt,
+egyértelmű fordítások, "Döntés, nincs közvetlen forrás" jelöléssel.
+
+| Angol | Magyar | Kategória |
+|---|---|---|
+| Archaic | Archaikus | Archaikus-kategória |
+| Living in the Past | Múltban Élő | Archaikus-kategória |
+| Bondslave | Kötelék-rabszolga | Vérkötelék-érzékenység |
+| Bond Junkie | Kötelék-függő | Vérkötelék-érzékenység |
+| Long Bond | Hosszú Kötelék | Vérkötelék-érzékenység |
+| Bond Resistance | Kötelék-ellenállás | Vérkötelék-érzékenység |
+| Short Bond | Rövid Kötelék | Vérkötelék-érzékenység |
+| Unbondable | Megköteleződhetetlen | Vérkötelék-érzékenység |
+| Organovore | Organovór | Vérszerzés |
+| Methuselah's Thirst | Methuselah-szomj | Vérszerzés |
+| Prey Exclusion | Préda-kizárás | Vérszerzés |
+| Blood Hound | Vérkopó | Vérszerzés |
+| Iron Gullet | Vasgyomor | Vérszerzés |
+| Baneful Blood | Átkos Vér | Ghoul-specifikus |
+| Crone's Curse | Vénasszony-átok | Ghoul-specifikus |
+| Distressing Fangs | Nyugtalanító Agyarak | Ghoul-specifikus |
+| Blood Empathy | Vér-empátia | Ghoul-specifikus |
+| Unseemly Aura | Illetlen Aura | Ghoul-specifikus |
+| Illiterate | Analfabéta | Nyelvtudás |
+| Repulsive | Visszataszító | Kinézet |
+| Ugly | Csúnya | Kinézet |
+| Beautiful | Gyönyörű | Kinézet |
+| Stunning | Elbűvölő | Kinézet |
+| Stake Bait | Karó-csali | Mitikus |
+| Folkloric Bane | Folklorisztikus Átok | Mitikus |
+| Folkloric Block | Folklorisztikus Gát | Mitikus |
+| Stigmata | Stigma | Mitikus |
+| Eat Food | Étkezőképesség | Mitikus |
+| Living on the Edge | Szélsőséges Életvezetés | Pszichológiai |
+| Weak-Willed | Akaratgyenge | Pszichológiai |
+| Hopeless Addiction | Reménytelen Függőség | Szerhasználat |
+| Addiction | Függőség | Szerhasználat |
+| High-Functioning Addict | Magasan Funkcionáló Függő | Szerhasználat |
+| Allies | Szövetségesek | Háttér |
+| Enemy | Ellenség | Háttér (Szövetségesek párja) |
+| Contacts | Kapcsolatok | Háttér |
+| Fame | Hírnév | Háttér |
+| Infamy | Hírhedtség | Háttér (Hírnév párja) |
+| Dark Secret | Sötét Titok | Háttér (Hírnév párja) |
+| Influence | Befolyás | Háttér |
+| Despised | Megvetett | Háttér (Befolyás párja) |
+| Disliked | Nem Szeretett | Háttér (Befolyás párja) |
+| Haven | Fészek | Háttér |
+| Compromised | Kompromittált | Fészek-kiegészítő |
+| Creepy | Ijesztő | Fészek-kiegészítő |
+| Haunted | Kísértetjárt | Fészek-kiegészítő |
+| Holy Ground | Szent Föld | Fészek-kiegészítő |
+| Hidden Armory | Rejtett Fegyvertár | Fészek-kiegészítő |
+| Cell | Cella | Fészek-kiegészítő |
+| Watchmen | Őrség | Fészek-kiegészítő |
+| Laboratory | Labor | Fészek-kiegészítő |
+| Library | Könyvtár | Fészek-kiegészítő |
+| Location | Kiváló Elhelyezkedés | Fészek-kiegészítő |
+| Luxury | Luxus | Fészek-kiegészítő |
+| Postern | Titkos Kijárat | Fészek-kiegészítő |
+| Security System | Biztonsági Rendszer | Fészek-kiegészítő |
+| Surgery | Műtő | Fészek-kiegészítő |
+| Warding | Védőbűbáj | Fészek-kiegészítő |
+| Shrine | Szentély | Fészek-kiegészítő |
+| Herd | Nyáj | Háttér |
+| Obvious Predator | Nyilvánvaló Ragadozó | Háttér (Nyáj párja) |
+| Mask | Álarc | Háttér |
+| Known Blankbody | Ismert Üresfejű | Háttér (Álarc párja) |
+| Known Corpse | Ismert Holttest | Háttér (Álarc párja) |
+| Zeroed | Nullázott | Háttér (Álarc párja) |
+| Cobbler | Hamisító | Háttér (Álarc párja) |
+| Mawla | Mawla *(fordítatlan, arab eredetű szakszó)* | Háttér |
+| Adversary | Ellenlábas | Háttér (Mawla párja) |
+
+## Vampire V5 — további Ragadozó-típusok (kiegészítőkből, fordítatlan)
+
+Az alapkönyvi 10 típuson felül (lásd `predator-tipus.md`) a kiegészítők további típusokat adtak
+hozzá. A konkrét típusneveket ugyanúgy fordítatlanul, tulajdonnévként hagyjuk.
+
+| Angol | Forrás kiegészítő |
+|---|---|
+| Roadside Killer | Let the Streets Run Red |
+| Extortionist | Cults of the Blood Gods |
+| Graverobber | Cults of the Blood Gods |
+| Grim Reaper | Players Guide |
+| Montero | Players Guide |
+| Pursuer | Players Guide |
+| Trapdoor | Players Guide |
+| Tithe Collector | In Memoriam |
+
 ## Alapmechanika (Dobásrendszer)
 
 | Angol | Magyar | Megbízhatóság | Megjegyzés |
