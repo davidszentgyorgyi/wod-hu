@@ -79,3 +79,8 @@ betartását és a hagyományos vámpír-társadalmi rendet védi.
 
 A **Szabbat** (Sabbat) a Kamarillával szemben álló szekta, amely elveti a Maszkabál sok elemét és
 agresszívabb, háborúsabb filozófiát követ.
+
+## Játékmechanika
+
+A dobások, az Éhség-kockák és a kritikus sikerek részletes mechanikáját a
+**[Dobásrendszer](dobasrendszer.md)** cikk tárgyalja.

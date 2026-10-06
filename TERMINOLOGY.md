@@ -77,12 +77,23 @@ ez megerősített minden forrásban (Delta Vision kártyajáték, lfg.hu, radavi
 |---|---|---|
 | Malkavian (klán tagja) | Malkavita | A Delta Vision *Riválisok* kártyajáték a klán **tagjára** ezt a demonima-alakot használja; a klán neve magában "Malkavian" marad |
 
+## Alapmechanika (Dobásrendszer)
+
+| Angol | Magyar | Megbízhatóság | Megjegyzés |
+|---|---|---|---|
+| Dice pool | Dobáskészlet | Döntés, nincs közvetlen forrás | Leíró fordítás, nem szakszó jellegű |
+| Success | Siker | Döntés, nincs közvetlen forrás | Közvetlen, egyértelmű fordítás |
+| Difficulty | Nehézség | Döntés, nincs közvetlen forrás | Közvetlen, egyértelmű fordítás |
+| Critical success | Kritikus siker | Döntés, nincs közvetlen forrás | Közvetlen fordítás, konzisztens a "Messy Critical" megerősített alakjával |
+| Bestial Failure | *(nincs rögzítve)* | **Nyitott** | Lásd lent — nem találtunk forrást |
+
 ## Még nyitott / tisztázandó terminusok
 
 Ezeket a hivatalos kiadásból vagy közösségi forrásból **nem sikerült megerősíteni** — ha valaki
 hozzáfér a nyomtatott könyvhöz vagy a beleolvasó PDF-hez, kérünk, nyisson egy `terminológia` Issue-t
 a megerősítéshez:
 
+- Bestial Failure (teljes kudarc Éhség-kockán dobott 1-essel) — nincs forrás, nincs javaslat sem.
 - Mortal — valószínűleg "halandó", nincs közvetlen forrás.
 - Hunter (a Hunter: The Reckoning játékvilághoz) — nincs forrás.
 - A többi játékvilág (Werewolf, Mage, Wraith, Changeling) kulcsfogalmai — ezekhez még nem végeztünk

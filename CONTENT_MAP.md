@@ -108,6 +108,22 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 19 | Második Inkvizíció | 🔲 Nincs elkezdve | |
 | 20 | Bloodline-ok (mellékvérvonalak) listája | 🔲 Nincs elkezdve | Alacsonyabb prioritás, lásd az eredeti elv 4. pontját |
 
+## Alapmotor — játékvilág-független mechanikai cikkek
+
+Ezek a cikkek a Storyteller/Storytelling rendszer alapmechanikáját írják le, ami minden WoD
+játékvilágban (Vampire, Werewolf, Mage, stb.) ugyanúgy (vagy nagyon hasonlóan) működik — ezért
+külön, szetting-független kategóriaként kezeljük, a `docs/glosszarium/` alatt.
+
+| # | Cikk | Státusz | Megjegyzés |
+|---|---|---|---|
+| E1 | Dobásrendszer (dicepool, siker, Éhség-kockák, kritikus siker) | ✅ Kész | `docs/glosszarium/dobasrendszer.md` |
+| E2 | Attribútumok (9 alaptulajdonság) | 🔲 Nincs elkezdve | |
+| E3 | Képességek (Skills, kb. 27 db) | 🔲 Nincs elkezdve | |
+| E4 | Akaraterő (Willpower) | 🔲 Nincs elkezdve | |
+| E5 | Életerő és Sebzés (Health track, sebzéstípusok) | 🔲 Nincs elkezdve | |
+| E6 | Harc alapjai (kezdeményezés, támadás/védelem) | 🔲 Nincs elkezdve | |
+| E7 | Tapasztalat (Experience Points, karakterfejlődés) | 🔲 Nincs elkezdve | Alacsonyabb prioritás |
+
 **Jelmagyarázat:** ✅ kész · 🟡 stúb (van oldal, bővítésre vár) · 🔲 nincs elkezdve, nincs még oldal
 sem. A friss számokat a kezdőlap [státusz-blokkja](docs/index.md) mutatja automatikusan.
 
