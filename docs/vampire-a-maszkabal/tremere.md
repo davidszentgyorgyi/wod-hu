@@ -32,6 +32,9 @@ A Tremere hierarchikus rendszerében a fiatalabb tagokat gyakran **vérkötelék
 A Tremere a Kamarilla egyik tagklánja, bár történetük miatt a többi klán sosem bízott meg
 igazán bennük.
 
+A klán egyik legbefolyásosabb, hagyományőrző véne **[Karl Schrekt](karl-schrekt.md)**, aki
+hosszú ideig a klán Justicarja volt.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Tremere szócikkének](https://whitewolf.fandom.com/wiki/Tremere_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
