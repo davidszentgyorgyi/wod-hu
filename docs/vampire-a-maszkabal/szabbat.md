@@ -7,6 +7,9 @@ description: >-
 
 # Szabbat
 
+![Szabbat embléma](../assets/logos/szabbat.webp){ width="200" }
+*A Szabbat emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
 A **Szabbat** a World of Darkness második nagy vámpírszektája, amely elutasítja a Kamarilla
 Hagyományait és uralmát. A tagjai hiszik, hogy Káin seregeként egy napon ők fogják elpusztítani az
 Antedeluviánusokat, amikor eljön a **Gehenna** — ezért nevezik magukat **"Káin Kardjának"**

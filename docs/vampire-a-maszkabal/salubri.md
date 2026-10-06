@@ -26,6 +26,13 @@ hovatartozásukat azok előtt, akik tudják, mire figyeljenek.
 Független, rendkívül ritka klán — sem a Kamarillának, sem a Szabbatnak nincs jelentős Salubri
 tagsága, bár elszórt tagjaik mindkét szektában előfordulhatnak.
 
+!!! note "Nem tagja a jelenlegi 13 fő klánnak"
+    A whitewolf.fandom.com szerint a Salubri **ma már nem számít a 13 fő klán egyikének** — a
+    [Tremere](tremere.md) majdnem teljesen kiirtotta őket, és a klán a hagyomány szerint
+    bloodline-státuszra csökkent, miután a Tremere elfoglalta a helyét a 13 között. A klán neve,
+    öröksége és elszórt túlélői továbbra is léteznek, ezért önálló cikke van, de a
+    [Klánok](klanok.md) áttekintő listájában nem szerepel a fő 13 között.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Salubri szócikkének](https://whitewolf.fandom.com/wiki/Salubri)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.

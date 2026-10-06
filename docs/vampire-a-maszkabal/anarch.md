@@ -7,6 +7,9 @@ description: >-
 
 # Anarch Mozgalom
 
+![Anarch Mozgalom embléma](../assets/logos/anarch.webp){ width="280" }
+*Az Anarch Mozgalom emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
 Az **Anarch** (más néven **Elkötelezetlenek**) mozgalom a World of Darkness harmadik nagy
 vámpír-csoportosulása, a Kamarilla és a Szabbat mellett. Tagjai elutasítják a szigorú hierarchiát
 és az Öregek uralmát — azt hirdetik, hogy minden vámpír szabad és egyenlő kellene legyen,

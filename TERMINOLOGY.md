@@ -92,7 +92,10 @@ valódi magyar WoD fan-forrás ellenőrzése után kiderült, hogy a tényleges 
 ## Klánnevek
 
 A klánnevek (Brujah, Toreador, Ventrue, Malkavian, stb.) **tulajdonnevek, nem fordítjuk** őket —
-ez megerősített minden forrásban (Delta Vision kártyajáték, lfg.hu, radavit). Kivétel:
+ez megerősített minden forrásban (Delta Vision kártyajáték, lfg.hu, radavit). Ugyanez vonatkozik
+a **Hecata** és **Ministry** klánokra is (korábban Giovanni/Cappadocian, illetve Followers of
+Set — a whitewolf.fandom.com "Clan (VTM)" szócikke szerint ez a 13 fő klán jelenlegi, V5-kori
+összetétele; a Salubri NEM része a jelenlegi 13-nak, lásd a `salubri.md` cikket). Kivétel:
 
 | Angol | Magyar | Megjegyzés |
 |---|---|---|

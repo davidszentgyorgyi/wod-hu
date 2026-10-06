@@ -7,6 +7,10 @@ description: >-
 
 # Nosferatu
 
+![Nosferatu klán embléma](../assets/logos/nosferatu.webp){ width="280" }
+*Nosferatu klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Nosferatu** a Vampire: The Masquerade talán legszörnyűbb külsejű klánja — az [Ölelés](../glosszarium/index.md)
 során torz, visszataszító alakot nyernek, ami lehetetlenné teszi számukra, hogy emberek között
 észrevétlenül mozogjanak. Ebből a hátrányból erényt kovácsoltak: a csatornákban és a város rejtett

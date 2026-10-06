@@ -7,6 +7,9 @@ description: >-
 
 # Kamarilla
 
+![Kamarilla embléma](../assets/logos/kamarilla.webp){ width="200" }
+*A Kamarilla emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
 A **Kamarilla** a World of Darkness legnagyobb és legszervezettebb vámpírszektája — egy elit
 szövetség, amely a hagyományokat és a halandók feletti, háttérből gyakorolt irányítást részesíti
 előnyben. Fő célja hat alapvető **Hagyomány** (Tradition) betartatása, amelyek közül a legfontosabb

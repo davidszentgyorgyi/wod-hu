@@ -7,6 +7,10 @@ description: >-
 
 # Ravnos
 
+![Ravnos klán embléma](../assets/logos/ravnos.webp){ width="280" }
+*Ravnos klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Ravnos** a klasszikus World of Darkness egyik önálló ("independent") klánja — vándorló,
 illúziókeltő vámpírok, akiket sztereotip módon nomád népekhez kötöttek a korai kiadások. A klán
 Antedeluviánusát a Gehenna eseményei során (klasszikus World of Darkness) diablerizálták, ami

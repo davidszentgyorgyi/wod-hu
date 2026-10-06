@@ -1,0 +1,36 @@
+---
+title: "Ministry klán — Set gyermekei"
+description: >-
+  A Ministry (korábban Followers of Set) a World of Darkness vallásos-okkult klánja, amely
+  Set isten visszatérését és a halandó társadalom korrumpálását szolgálja.
+---
+
+# Ministry
+
+![Ministry klán embléma](../assets/logos/ministry.webp){ width="280" }
+*Ministry klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
+A **Ministry** (korábbi nevén **Followers of Set**, "Set Követői") a World of Darkness
+vallásos-okkult indíttatású klánja. Tagjai egy chtonikus isten, **Set** kultuszát ápolják, és
+magukat **Mesu Bedshet**-nek, "a Lázadás Gyermekeinek" nevezik. Hitük szerint Set egy napon
+visszatér, hogy uralja vagy elnyelje a világot, és a klán ezt a visszatérést készíti elő.
+
+## Jellemzőik
+
+A Ministry függetlenül működik a nagy szektáktól, és a korrupció, csalás és ősi mágia
+mestereiként ismert — a világ titkos helyeit keresik, és ősi relikviákat őriznek. Az 5.
+kiadás idejére a klán jelentős része csatlakozott az **[Anarch Mozgalomhoz](anarch.md)**.
+
+## Diszciplínák
+
+Obfuscate (Rejtőzés), Presence (Jelenlét) és Protean (Átváltozás).
+
+## Szekta-hovatartozás
+
+Hagyományosan független klán, de a klán nagy része az 5. kiadás idejére az Anarch Mozgalomhoz
+csatlakozott.
+
+!!! info "Forrás és licenc"
+    Ez a cikk a [whitewolf.fandom.com The Ministry szócikkének](https://whitewolf.fandom.com/wiki/The_Ministry)
+    magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.

@@ -7,6 +7,10 @@ description: >-
 
 # Tremere
 
+![Tremere klán embléma](../assets/logos/tremere.webp){ width="280" }
+*Tremere klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Tremere** a Vampire: The Masquerade vérmágus klánja — eredetileg halandó boszorkányok/mágusok
 voltak, akik rituális mágiával "bitorolták" a vámpírlétet egy Antedeluviánustól. Klánjuk a legtöbb
 más klántól eltérően szigorú, piramis-szerű hierarchiában él, ahol minden tag a felette állóknak

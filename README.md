@@ -93,6 +93,7 @@ a gépén, itt megtalálja a teljes listát.
 | `check_content_map.py` | Összeveti a `CONTENT_MAP.md` táblázataiban hivatkozott fájlutakat a `docs/` valós tartalmával, jelzi, ha egy sor állapota (✅/🟡/🔲) nem egyezik a fájl létezésével. | Nem módosítja a `CONTENT_MAP.md`-t automatikusan. |
 | `precommit.py` | Egy parancsban lefuttatja a fenti négy ellenőrzést sorban (`check_terminology.py` → `check_content_map.py` → `update_stats.py` → `mkdocs build --strict`), megáll az első hibánál. **Ezt futtasd commit előtt**, ne a négyet külön-külön. | Nem commitol és nem pushol semmit — csak ellenőriz. |
 | `safe_fetch.py` | Lekér egy URL-t sima HTTP GET-tel (böngésző User-Agent-tel), és kiírja/elmenti a **nyers** HTML/szöveg tartalmat, opcionálisan egy `--grep` szűrővel. Azért létezik, hogy kutatás közben ellenőrizhető legyen egy AI-összegzés állítása a tényleges, nyers szerver-válasz ellenében. | Nem rendereli a JavaScript-et (statikus HTML-t lát, nem azt, amit egy böngésző futtatás után mutatna), nem lép be sehova, nem küld semmilyen adatot a megadott URL-en kívül. |
+| `fetch_wiki_image.py` | Megkeresi (`--list-for`) és letölti (`--download` + `--out`) egy whitewolf.fandom.com képfájlt a MediaWiki API-n keresztül. Automatikusan észleli és jelzi, ha a Wikia CDN valójában WebP-t szolgál ki `.png`/`.jpg` néven (ezt mi is megtapasztaltuk), és korrigálja a kiterjesztést. | Nem generál automatikusan attribúciót a cikkbe — a forrás-URL-t és licencet kézzel (vagy AI segítségével) be kell írni a képaláírásba, lásd `STRATEGY.md` fair-use mitigációs szabályait. |
 | `termlib.py` | Nem önálló szkript — a `check_terminology.py` és `lookup_term.py` közös, megosztott kódja (a `TERMINOLOGY.md` táblázat-elemzése). Nincs önálló futtatási módja. | — |
 
 ### Fordítási állapot statisztika
@@ -119,6 +120,8 @@ kontributoroknak is érdemes elolvasni — ugyanaz a munkafolyamat, amit kézzel
 python scripts/lookup_term.py Masquerade        # terminológia gyors kikeresése
 python scripts/fetch_source.py "Camarilla (VTM)" --out scratch/camarilla.txt  # forrás lekérése
 python scripts/safe_fetch.py "https://url" --grep "keresett-szöveg"           # nyers HTML-ellenőrzés
+python scripts/fetch_wiki_image.py --list-for "Brujah"                        # kép-kandidátusok egy cikkhez
+python scripts/fetch_wiki_image.py --download "File:ClanBrujahTitleV5.png" --out docs/assets/logos/brujah.webp
 python scripts/precommit.py                      # minden ellenőrzés egyben, commit előtt
 ```
 

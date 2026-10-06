@@ -1,0 +1,41 @@
+---
+title: "Hecata klán — a halál újraegyesült családja"
+description: >-
+  A Hecata a World of Darkness legújabb vámpírklánja — nekromanciára specializálódott,
+  a Giovanni és a Cappadocian klán maradékaiból egyesült "Halál Klánja".
+---
+
+# Hecata
+
+![Hecata klán embléma](../assets/logos/hecata.webp){ width="280" }
+*Hecata klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
+A **Hecata** a World of Darkness legújabb vámpírklánja — nem egyetlen Antedeluviánustól
+leszármazó, "tiszta" klán, hanem a **Giovanni**, a régi **Cappadocian** klán maradékai és több
+kapcsolódó vérvonal (Harbingers of Skulls, Samedi, Lamia/Gorgons, Nagaraja) egyesüléséből
+született, miután a **Family Reunion** nevű konferencián megegyeztek a korábbi ellenségeskedés
+beszüntetéséről.
+
+## Jellemzőik
+
+A Hecata a "Halál Klánja" — tagjaik a **Feledés** (Oblivion) Diszciplínán keresztül
+nekromanciát gyakorolnak, és erősen családcentrikus kultúrát ápolnak: sok tagjuk halandó
+leszármazottaival is kapcsolatban marad vagyonon, családi hagyományokon és évenkénti
+családi összejöveteleken keresztül.
+
+## Diszciplínák
+
+Auspex, Fortitude (Szívósság) és Oblivion (Feledés) — bár az egyes al-vérvonalak (La Famiglia
+Giovanni, Harbingers of Ashur, Gorgons, Flesh-Eaters) ettől eltérő kombinációkat is
+használhatnak.
+
+## Szekta-hovatartozás
+
+Független klán — azóta, hogy a Banu Haqim a Kamarillához, a Ministry az Anarch Mozgalomhoz
+csatlakozott, és a Ravnos jelentősen meggyengült, a Hecata az utolsó jelentős független klán
+a modern éjszakákban.
+
+!!! info "Forrás és licenc"
+    Ez a cikk a [whitewolf.fandom.com Hecata szócikkének](https://whitewolf.fandom.com/wiki/Hecata)
+    magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.

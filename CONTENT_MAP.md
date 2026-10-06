@@ -101,6 +101,8 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 12 | Tremere (klán) | ✅ Kész | |
 | 13 | Lasombra (klán) | ✅ Kész | |
 | 13b | Banu Haqim (klán) | ✅ Kész | Nem volt az eredeti listán, de a 13 fő klán része |
+| 13c | Hecata (klán) | ✅ Kész | `docs/vampire-a-maszkabal/hecata.md` — hiányzott a 13-ból, a felhasználó észrevétele alapján pótolva |
+| 13d | Ministry (klán) | ✅ Kész | `docs/vampire-a-maszkabal/ministry.md` — hiányzott a 13-ból, a felhasználó észrevétele alapján pótolva |
 | 14 | Ravnos, Salubri, Tzimisce (klánok) | ✅ Kész | Külön cikkenként, nem egy összevont cikkben |
 | 15 | Diszciplínák áttekintő listája | ✅ Kész | `docs/vampire-a-maszkabal/diszciplinak.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |

@@ -7,6 +7,10 @@ description: >-
 
 # Lasombra
 
+![Lasombra klán embléma](../assets/logos/lasombra.webp){ width="280" }
+*Lasombra klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Lasombra** a Szabbat egyik alapító, meghatározó klánja — intrikus, ambiciózus vámpírok, akik
 az árnyak feletti uralmukról ismertek. Klasszikusan nincs tükörképük, és sötét, manipulatív
 politikai játékokban mesterek.

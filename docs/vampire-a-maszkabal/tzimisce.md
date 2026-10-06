@@ -7,6 +7,10 @@ description: >-
 
 # Tzimisce
 
+![Tzimisce klán embléma](../assets/logos/tzimisce.webp){ width="280" }
+*Tzimisce klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Tzimisce** a Szabbat másik alapító klánja — Kelet-Európa, különösen Transylvania ősi
 vámpír-uralkodói, akik feudális, despotikus rendet tartottak fenn évszázadokon át. Képesek saját
 és mások testét, húsát formálni.

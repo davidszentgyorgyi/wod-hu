@@ -12,23 +12,30 @@ Diszciplínáival, kultúrájával és hátrányával.
 
 | Klán | Fő Diszciplínák | Jellemző szekta |
 |---|---|---|
-| [Brujah](brujah.md) | Sebesség, Hatóerő, Jelenlét | Anarch (korábban Kamarilla) |
-| [Ventrue](ventrue.md) | Uralás, Szívósság, Jelenlét | Kamarilla |
-| [Toreador](toreador.md) | Auspex, Sebesség, Jelenlét | Kamarilla |
-| [Nosferatu](nosferatu.md) | Állatiasság, Rejtőzés, Hatóerő | Kamarilla |
-| [Malkavian](malkavian.md) | Auspex, Uralás, Rejtőzés | Kamarilla |
-| [Gangrel](gangrel.md) | Állatiasság, Szívósság, Átváltozás | Független / Anarch |
-| [Tremere](tremere.md) | Auspex, Uralás, Vérmágia | Kamarilla |
-| [Lasombra](lasombra.md) | Uralás, Feledés, Hatóerő | Szabbat (részben Kamarilla) |
-| [Tzimisce](tzimisce.md) | Állatiasság, Uralás, Átváltozás | Szabbat |
 | [Banu Haqim](banu-haqim.md) | Vérmágia, Sebesség, Rejtőzés | Kamarilla (részben független) |
+| [Brujah](brujah.md) | Sebesség, Hatóerő, Jelenlét | Anarch (korábban Kamarilla) |
+| [Gangrel](gangrel.md) | Állatiasság, Szívósság, Átváltozás | Független / Anarch |
+| [Hecata](hecata.md) | Auspex, Szívósság, Feledés | Független |
+| [Lasombra](lasombra.md) | Uralás, Feledés, Hatóerő | Szabbat (részben Kamarilla) |
+| [Malkavian](malkavian.md) | Auspex, Uralás, Rejtőzés | Kamarilla |
+| [Ministry](ministry.md) | Rejtőzés, Jelenlét, Átváltozás | Anarch (korábban független) |
+| [Nosferatu](nosferatu.md) | Állatiasság, Rejtőzés, Hatóerő | Kamarilla |
 | [Ravnos](ravnos.md) | Állatiasság, Szívósság, Rejtőzés | Független |
-| [Salubri](salubri.md) | Szívósság, Auspex, gyógyító ág | Független (ritka) |
+| [Toreador](toreador.md) | Auspex, Sebesség, Jelenlét | Kamarilla |
+| [Tremere](tremere.md) | Auspex, Uralás, Vérmágia | Kamarilla |
+| [Tzimisce](tzimisce.md) | Állatiasság, Uralás, Átváltozás | Szabbat |
+| [Ventrue](ventrue.md) | Uralás, Szívósság, Jelenlét | Kamarilla |
 
-!!! note "Hol a 13. klán?"
-    A hagyomány 13 fő klánt említ, de a tagság és a szekta-hovatartozás kiadásonként (Classic WoD
-    vs. V5) változott — pl. a Ravnos és a Salubri az 5. kiadásban nem alapklán, hanem majdnem
-    kihalt, ritka vérvonal. Lásd az egyes klán-cikkeket a részletekért.
+Ez a 13 klán a whitewolf.fandom.com "Clan (VTM)" szócikke szerint a jelenleg (V5-kor)
+elismert 13 fő klán — ez idővel változott: a **Tremere** és a **Hecata** (korábban Giovanni)
+mindkettő egy-egy korábbi klán (Tremere rend, illetve Cappadocian) kiszorításával nyerte el a
+klán-státuszt az elmúlt évezredben.
+
+!!! note "Hol van a Salubri?"
+    A **[Salubri](salubri.md)** klán **nem** része a jelenlegi 13 fő klánnak — a forrás szerint
+    a Tremere majdnem teljesen kiirtotta őket, így bloodline-státuszra csökkentek, bár a klán
+    neve és öröksége továbbra is létezik. Önálló cikke megmaradt, csak itt, az áttekintő
+    listában nem szerepel a fő 13 között.
 
 Lásd még: [Kamarilla](kamarilla.md) · [Szabbat](szabbat.md) · [Anarch Mozgalom](anarch.md) ·
 [Diszciplínák](diszciplinak.md).

@@ -7,6 +7,10 @@ description: >-
 
 # Malkavian
 
+![Malkavian klán embléma](../assets/logos/malkavian.webp){ width="280" }
+*Malkavian klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Malkavian** (tagjaira gyakran **Malkavita**-ként hivatkoznak) a Vampire: The Masquerade
 legtitokzatosabb klánja — minden tagjukat valamilyen örökletes **elmezavar** kíséri az
 [Ölelés](../glosszarium/index.md) óta. Ez a zavar paradox módon gyakran éles, másoknak rejtett

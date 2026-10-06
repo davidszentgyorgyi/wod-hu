@@ -7,6 +7,10 @@ description: >-
 
 # Toreador
 
+![Toreador klán embléma](../assets/logos/toreador.webp){ width="280" }
+*Toreador klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Toreador** a Vampire: The Masquerade esztéta klánja — a szépség, a művészet és az erős
 érzelmek iránti szenvedély hajtja őket. Tagjaik gyakran művészek, múzsák vagy a halandó
 kulturális élet megfigyelői, akik ihletet keresnek az örök éjszakában.

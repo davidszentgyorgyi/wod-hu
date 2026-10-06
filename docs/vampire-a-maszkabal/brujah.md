@@ -7,6 +7,10 @@ description: >-
 
 # Brujah
 
+![Brujah klán embléma](../assets/logos/brujah.webp){ width="280" }
+*Brujah klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Brujah** a Vampire: The Masquerade egyik fő klánja — szenvedélyes, forradalmi szellemű
 vámpírok, akik gyakran politikai és társadalmi konfliktusokba keverednek. Eredetileg a
 filozófusok és harcos-tudósok klánja volt (Karthágó legendás, elpusztult városában), mára inkább

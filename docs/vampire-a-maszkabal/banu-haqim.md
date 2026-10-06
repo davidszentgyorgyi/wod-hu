@@ -7,6 +7,10 @@ description: >-
 
 # Banu Haqim
 
+![Banu Haqim klán embléma](../assets/logos/banu-haqim.webp){ width="280" }
+*Banu Haqim klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+
+
 A **Banu Haqim** (korábbi nevén **Assamita**) a Vampire: The Masquerade bíró és harcos-mágus
 klánja — igazságosság és rend iránti elkötelezettségük mellett a klánt saját vérszomja hajtja
 más vámpírok vére, akár [**Diabléria**](diableria.md) (egy másik vámpír vérének és lényének
