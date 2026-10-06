@@ -148,6 +148,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 52 | Monomacy, Szabbat párbaj-rituálé | ✅ Kész | `docs/vampire-a-maszkabal/monomacy.md` |
 | 53 | Vinculum, közösségi Vérkötelék | ✅ Kész | `docs/vampire-a-maszkabal/vinculum.md` |
 | 54 | Rezonancia (Blood Resonance) mechanika | ✅ Kész | `docs/vampire-a-maszkabal/rezonancia.md` |
+| 55 | Teremtő és Gyermek (Sire/Childe) kapcsolat | ✅ Kész | `docs/vampire-a-maszkabal/teremto-es-gyermek.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
