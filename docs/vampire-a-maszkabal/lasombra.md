@@ -31,6 +31,9 @@ hátrányt jelent a modern világban.
 Hagyományosan a Szabbat egyik fő klánja, de az 5. kiadás idejére a klán egy része (vezetésével
 együtt) átállt a Kamarillához, váltságdíjat fizetve a belépésért.
 
+A klán jellemző Diszciplínája az **[Obtenebration](obtenebration.md)** — uralom a
+természetfeletti sötétség felett.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Lasombra szócikkének](https://whitewolf.fandom.com/wiki/Lasombra)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
