@@ -228,6 +228,10 @@ jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/V
 | Combination Discipline | Diszciplína-kombináció | Korábbi kiadások elnevezése, V5-ben Amalgam-má alakult |
 | Thin-Blood Alchemy | Hígvérű Alkímia | Közvetlen fordítás, csak Hígvérűek számára elérhető gyakorlat |
 | Formula (Alchemy) | Formula *(fordítatlan)* | A Hígvérű Alkímia "erő-egysége", a Diszciplína-erők analógja |
+| Progeny (Tradition) | Utód | Kamarilla-Hagyomány: csak Herceg-i engedéllyel szabad Ölelni |
+| Accounting (Tradition) | Elszámolás | Kamarilla-Hagyomány: a Teremtő felel Gyermekei tetteiért |
+| Hospitality (Tradition) | Vendéglátás | Kamarilla-Hagyomány: idegennek be kell mutatkoznia a Hercegnél |
+| Destruction (Tradition) | Pusztítás | Kamarilla-Hagyomány: csak Herceg-i engedéllyel szabad Diablériát vagy Végleges Halált végrehajtani |
 | Masquerade Breach | Maszkabál-szegés | A Maszkabál megszegésének ténye/esete |
 | Feeding | Táplálkozás | Általános gyűjtőfogalom a vérszerzésre |
 | Hunting | Vérszerzés | Már használatban: `predator-tipus.md` |

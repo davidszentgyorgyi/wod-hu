@@ -14,8 +14,9 @@ description: >-
 
 A **Kamarilla** a World of Darkness legnagyobb és legszervezettebb vámpírszektája — egy elit
 szövetség, amely a hagyományokat és a halandók feletti, háttérből gyakorolt irányítást részesíti
-előnyben. Fő célja hat alapvető **Hagyomány** (Tradition) betartatása, amelyek közül a legfontosabb
-a **Maszkabál**: a vámpírok létezésének titokban tartása az emberiség elől.
+előnyben. Fő célja [hat alapvető Hagyomány](hagyomanyok.md) (Tradition) betartatása, amelyek
+közül a legfontosabb a **Maszkabál**: a vámpírok létezésének titokban tartása az emberiség
+elől.
 
 ## Története
 
