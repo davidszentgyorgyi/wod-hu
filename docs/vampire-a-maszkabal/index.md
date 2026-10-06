@@ -27,6 +27,8 @@ A vámpírok [**Klánokba**](klanok.md) sorolhatók — lásd a teljes listát m
 
 ## Fő cikkek
 
+- **[Káin](kain.md)** — az első vámpír, akitől minden Vértestvér leszármazik.
+- **[Gehenna](gehenna.md)** — a vámpírok eszkatológiai végítélete.
 - **[Diszciplínák](diszciplinak.md)** — a vámpírok természetfeletti képességei.
 - **[Maszkabál](maszkabal.md)** — a legfontosabb törvény teljes kifejtése.
 - **[Generáció](generacio.md)**, **[Vérkötelék](verkotelek.md)**, **[Diabléria](diableria.md)** —

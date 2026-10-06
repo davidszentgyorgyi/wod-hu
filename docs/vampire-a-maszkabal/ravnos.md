@@ -13,7 +13,7 @@ description: >-
 
 A **Ravnos** a klasszikus World of Darkness egyik önálló ("independent") klánja — vándorló,
 illúziókeltő vámpírok, akiket sztereotip módon nomád népekhez kötöttek a korai kiadások. A klán
-Antedeluviánusát a Gehenna eseményei során (klasszikus World of Darkness) diablerizálták, ami
+Antedeluviánusát a [Gehenna](gehenna.md) eseményei során (klasszikus World of Darkness) diablerizálták, ami
 a klán nagy részét szétzilálta.
 
 ## Diszciplínák

@@ -7,7 +7,7 @@ description: >-
 
 # Generáció
 
-A **Generáció** (Generation) megmutatja, egy vámpír hányadik Ölelés-lánc-szemben áll **Káintól**
+A **Generáció** (Generation) megmutatja, egy vámpír hányadik Ölelés-lánc-szemben áll [**Káintól**](kain.md)
 (az első vámpírtól). Minél alacsonyabb a Generáció száma, annál közelebb áll a vámpír Káinhoz, és
 annál erősebb, "sűrűbb" a vére.
 

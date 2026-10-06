@@ -103,6 +103,8 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 13b | Banu Haqim (klán) | ✅ Kész | Nem volt az eredeti listán, de a 13 fő klán része |
 | 13c | Hecata (klán) | ✅ Kész | `docs/vampire-a-maszkabal/hecata.md` — hiányzott a 13-ból, a felhasználó észrevétele alapján pótolva |
 | 13d | Ministry (klán) | ✅ Kész | `docs/vampire-a-maszkabal/ministry.md` — hiányzott a 13-ból, a felhasználó észrevétele alapján pótolva |
+| 24 | Káin | ✅ Kész | `docs/vampire-a-maszkabal/kain.md` — az első vámpír, korábban csak mellékesen volt említve, sosem volt önálló cikke |
+| 25 | Gehenna | ✅ Kész | `docs/vampire-a-maszkabal/gehenna.md` — a vámpírok világvége, ugyanaz a hiányosság |
 | 14 | Ravnos, Salubri, Tzimisce (klánok) | ✅ Kész | Külön cikkenként, nem egy összevont cikkben |
 | 15 | Diszciplínák áttekintő listája | ✅ Kész | `docs/vampire-a-maszkabal/diszciplinak.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |

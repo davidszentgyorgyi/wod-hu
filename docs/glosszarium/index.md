@@ -61,8 +61,9 @@ létezik, mindegyiknek saját jellemzőivel, Diszciplínáival és kultúrájáv
 
 ### Generáció (Generation)
 
-A **Generáció** (Generation) megmutatja, egy vámpír hányadik Ölelés-lánc-szemben áll Káintól (az
-első vámpírtól) — alacsonyabb generáció erősebb vért és nagyobb természetfeletti erőt jelent.
+A **Generáció** (Generation) megmutatja, egy vámpír hányadik Ölelés-lánc-szemben áll
+[Káintól](../vampire-a-maszkabal/kain.md) (az első vámpírtól) — alacsonyabb generáció erősebb
+vért és nagyobb természetfeletti erőt jelent.
 
 ### Maszkabál (Masquerade)
 

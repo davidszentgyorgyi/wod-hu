@@ -11,9 +11,9 @@ description: >-
 *A Szabbat emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
 
 A **Szabbat** a World of Darkness második nagy vámpírszektája, amely elutasítja a Kamarilla
-Hagyományait és uralmát. A tagjai hiszik, hogy Káin seregeként egy napon ők fogják elpusztítani az
-Antedeluviánusokat, amikor eljön a **Gehenna** — ezért nevezik magukat **"Káin Kardjának"**
-(Sword of Caine) is.
+Hagyományait és uralmát. A tagjai hiszik, hogy [Káin](kain.md) seregeként egy napon ők fogják
+elpusztítani az Antedeluviánusokat, amikor eljön a **[Gehenna](gehenna.md)** — ezért nevezik magukat
+**"Káin Kardjának"** (Sword of Caine) is.
 
 ## Története
 
@@ -62,7 +62,7 @@ A Cardinalok és a Prisci együtt alkotják a **Consistoryt**, amely kiválasztj
 ## Kultúra
 
 A Szabbatnak nincs merev hierarchiája, mint a Kamarillának — a rangot mindenki annyira tarthatja
-meg, amennyi erővel meg tudja védeni. A szekta hisz az **Antedeluviánusokban** és **Káinban**,
+meg, amennyi erővel meg tudja védeni. A szekta hisz az **Antedeluviánusokban** és [**Káinban**](kain.md),
 szemben a Kamarillával, amely ezeket inkább mítosznak tekinti.
 
 A Szabbaton belül több **irányzat** (faction) létezik, amelyek a szekta jövőjéről vitáznak:
