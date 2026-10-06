@@ -23,6 +23,9 @@ Ha a sáv betelik súlyos sebzéssel, a karakter **Végleges Halált** szenved. 
 sebzéssel telik be, a karakter **Torporba** (Torpor) esik — egy halálközeli, mozdulatlan
 álomszerű állapotba, amelyből idővel felébredhet.
 
+Lásd még: [Élet Pírja](../vampire-a-maszkabal/elet-pirja.md) — egy Diszciplína-mellékhatás,
+ami ideiglenesen emberszerű külsőt ad.
+
 !!! warning "Terminológia megjegyzés"
     Ez a fordítás munkafordítás, nincs hivatalos forrással megerősítve. Lásd
     [TERMINOLOGY.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/TERMINOLOGY.md).

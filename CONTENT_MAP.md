@@ -150,6 +150,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 54 | Rezonancia (Blood Resonance) mechanika | ✅ Kész | `docs/vampire-a-maszkabal/rezonancia.md` |
 | 55 | Teremtő és Gyermek (Sire/Childe) kapcsolat | ✅ Kész | `docs/vampire-a-maszkabal/teremto-es-gyermek.md` |
 | 56 | Vérpotenciál (Blood Potency) részletes cikk | ✅ Kész | `docs/vampire-a-maszkabal/verpotencial.md` |
+| 57 | Élet Pírja (Blush of Life) mellékhatás | ✅ Kész | `docs/vampire-a-maszkabal/elet-pirja.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
