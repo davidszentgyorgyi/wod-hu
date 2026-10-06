@@ -223,6 +223,9 @@ jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/V
 | Nagaraja | Nagaraja *(fordítatlan)* | Bloodline-név, tulajdonnévként kezelve |
 | Lamia / Lamiae | Lamia / Lamiák | Bloodline-név, csak magyar többes számmal, a "Gargoyle-ok" mintájára |
 | Blood Brothers | Vérfivérek | Leíró angol kifejezés, ezért lefordítva (nem tulajdonnév, mint a többi bloodline-név) |
+| Loresheet | Loresheet *(fordítatlan)* | V5-specifikus szabály-elnevezés, Előny-altípus |
+| Amalgam | Amalgam *(fordítatlan)* | V5-specifikus szabály-elnevezés, a korábbi "Combination Discipline" utódja |
+| Combination Discipline | Diszciplína-kombináció | Korábbi kiadások elnevezése, V5-ben Amalgam-má alakult |
 | Masquerade Breach | Maszkabál-szegés | A Maszkabál megszegésének ténye/esete |
 | Feeding | Táplálkozás | Általános gyűjtőfogalom a vérszerzésre |
 | Hunting | Vérszerzés | Már használatban: `predator-tipus.md` |

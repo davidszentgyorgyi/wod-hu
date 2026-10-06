@@ -31,3 +31,5 @@ konkrét, V5-ös erőket:
 !!! warning "Terminológia megjegyzés"
     A Diszciplína-nevek fordítása munkafordítás, nincs hivatalos forrással megerősítve. Lásd
     [TERMINOLOGY.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/TERMINOLOGY.md).
+
+Lásd még: [Amalgamok](amalgamok.md) — két Diszciplína ötvözéséből létrejövő ritka erők.
