@@ -169,6 +169,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 73 | Vöröslista, Kamarilla ellenség-jegyzéke | ✅ Kész | `docs/vampire-a-maszkabal/voroslista.md` |
 | 74 | Methuselah, ezer éves vámpír vén | ✅ Kész | `docs/vampire-a-maszkabal/methuselah.md` |
 | 75 | Vérbabák (Blood Doll), önként adott vér | ✅ Kész | `docs/vampire-a-maszkabal/ver-babak.md` |
+| 76 | Vérűzés (Blood Hunt), Kamarilla nyílt üldözés | ✅ Kész | `docs/vampire-a-maszkabal/veruzes.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

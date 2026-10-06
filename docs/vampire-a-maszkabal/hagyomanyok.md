@@ -26,7 +26,8 @@ vonhat maga után.
 | **Vendéglátás** (Hospitality) | Egy idegen Vértestvérnek be kell mutatkoznia a terület
   Hercegénél, mielőtt vadászna vagy cselekedne ott. |
 | **Pusztítás** (Destruction) | Csak a Herceg (vagy az ő engedélyével más) hajthat végre
-  Diablériát vagy ítélhet Végleges Halálra egy Vértestvért. |
+  Diablériát vagy ítélhet Végleges Halálra egy Vértestvért — ennek nyilvános, szervezett
+  formája a **[Vérűzés](veruzes.md)**. |
 
 ## Miért fontosak
 
