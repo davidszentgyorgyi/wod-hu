@@ -64,8 +64,8 @@ Egy karakter alapvetően ebből áll össze:
    a kezdő Diszciplínáidat és néhány Előnyödet/Hátrányodat.
 5. **[Akaraterő](glosszarium/akaratero.md)** és **[Életerő](glosszarium/eletero-es-sebzes.md)** —
    ezek az Attribútumaidból számolt kiegészítő értékek.
-6. Apróbb részletek: név, kinézet, kapcsolatok, hátrányok/előnyök (ezekről a hivatalos
-   szabálykönyvek és a Mesélőd adnak részletes útmutatást).
+6. **[Előnyök és Hátrányok](vampire-a-maszkabal/elonyok-es-hatranyok.md)** — apróbb részletek:
+   kinézet, kapcsolatok, fészek, és egyéb finomítások.
 
 Ezt a lépéssort a Mesélőd jellemzően végigvezeti veled az első alkalommal — nem kell egyedül
 kitalálnod.
