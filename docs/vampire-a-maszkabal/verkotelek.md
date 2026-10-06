@@ -24,6 +24,9 @@ A [Kamarilla](kamarilla.md) és a [Tremere](tremere.md) klán gyakran tudatosan 
 Vérköteléket hűséges szolgák vagy ghoulok létrehozására — ez az egyik oka, amiért a Tremere
 belső hierarchiáját sokan bizalmatlanul szemlélik.
 
+Lásd még: [Ghoul](ghoul-reszletek.md) — gyakran a Vérkötelékkel együtt tartja uralma alatt a
+vámpír a vérét ivó halandót.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Blood Bond szócikkének](https://whitewolf.fandom.com/wiki/Blood_Bond)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
