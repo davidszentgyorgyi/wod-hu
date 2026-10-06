@@ -77,6 +77,60 @@ ez megerősített minden forrásban (Delta Vision kártyajáték, lfg.hu, radavi
 |---|---|---|
 | Malkavian (klán tagja) | Malkavita | A Delta Vision *Riválisok* kártyajáték a klán **tagjára** ezt a demonima-alakot használja; a klán neve magában "Malkavian" marad |
 
+## Attribútumok, Képességek — munkafordítások
+
+Ezek az összes alapmotor-cikkben (Attribútumok, Képességek) használt fordítások — **nincs
+hivatalos forrás**, leíró/közvetlen fordítások, amíg jobb forrás nem kerül elő.
+
+| Angol | Magyar | | Angol | Magyar |
+|---|---|---|---|---|
+| Strength | Erő | | Academics | Tudományok |
+| Dexterity | Ügyesség | | Animal Ken | Állatokkal bánás |
+| Stamina | Állóképesség | | Athletics | Atlétika |
+| Charisma | Charizma | | Awareness | Figyelem |
+| Manipulation | Manipuláció | | Brawl | Verekedés |
+| Composure | Önuralom | | Craft | Kézművesség |
+| Intelligence | Intelligencia | | Drive | Vezetés (jármű) |
+| Wits | Észjárás | | Etiquette | Etikett |
+| Resolve | Határozottság | | Finance | Pénzügyek |
+| | | | Firearms | Lőfegyverek |
+| | | | Insight | Emberismeret |
+| | | | Intimidation | Megfélemlítés |
+| | | | Investigation | Nyomozás |
+| | | | Larceny | Tolvajmesterség |
+| | | | Leadership | Irányítás |
+| | | | Medicine | Orvostudomány |
+| | | | Melee | Közelharc |
+| | | | Occult | Okkultizmus |
+| | | | Performance | Előadás |
+| | | | Persuasion | Rábeszélés |
+| | | | Politics | Politika |
+| | | | Science | Természettudomány |
+| | | | Stealth | Lopakodás |
+| | | | Streetwise | Utcai ismeretek |
+| | | | Subterfuge | Ármány |
+| | | | Survival | Túlélés |
+| | | | Technology | Technológia |
+
+## Diszciplínák — munkafordítások
+
+Nincs hivatalos forrás a Diszciplína-nevek fordítására sem — ezek munkafordítások, figyelve arra,
+hogy ne ütközzenek az Attribútum-nevekkel (pl. Potence ≠ "Erő", mert az Strength foglalja).
+
+| Angol | Magyar |
+|---|---|
+| Animalism | Állatiasság |
+| Auspex | Auspex *(fordítatlan, latin eredetű tulajdonnévként kezelve)* |
+| Blood Sorcery | Vérmágia |
+| Celerity | Sebesség |
+| Dominate | Uralás |
+| Fortitude | Szívósság |
+| Obfuscate | Rejtőzés |
+| Oblivion | Feledés |
+| Potence | Hatóerő |
+| Presence | Jelenlét |
+| Protean | Átváltozás |
+
 ## Alapmechanika (Dobásrendszer)
 
 | Angol | Magyar | Megbízhatóság | Megjegyzés |

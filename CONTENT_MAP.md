@@ -90,18 +90,19 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 1 | Glosszárium alapfogalmak (Ölelés, Emberség, Őrjöngés, Éhség, Vértestvér, Klán, Diszciplína, Generáció) | ✅ Elkészült | `docs/glosszarium/index.md` |
 | 2 | Kamarilla (szekta áttekintő) | ✅ Kész | `docs/vampire-a-maszkabal/kamarilla.md` — whitewolf.fandom.com alapján |
 | 3 | Szabbat (szekta áttekintő) | ✅ Kész | `docs/vampire-a-maszkabal/szabbat.md` — whitewolf.fandom.com alapján |
-| 4 | Anarch mozgalom | 🔲 Nincs elkezdve | |
-| 5 | A 13 fő klán áttekintő listája | 🔲 Nincs elkezdve | Egy index-cikk, ami linkel az egyes klán-stúbokra |
-| 6 | Brujah (klán) | 🟡 Stúb elkészült | `docs/vampire-a-maszkabal/brujah.md` — bővítésre vár, első klán-cikk mintaként |
-| 7 | Ventrue (klán) | 🔲 Nincs elkezdve | |
-| 8 | Toreador (klán) | 🔲 Nincs elkezdve | |
-| 9 | Nosferatu (klán) | 🔲 Nincs elkezdve | |
-| 10 | Malkavian (klán) | 🔲 Nincs elkezdve | Figyelem: a klán TAGJÁT "Malkavita"-nak hívjuk, lásd TERMINOLOGY.md |
-| 11 | Gangrel (klán) | 🔲 Nincs elkezdve | |
-| 12 | Tremere (klán) | 🔲 Nincs elkezdve | |
-| 13 | Lasombra (klán) | 🔲 Nincs elkezdve | |
-| 14 | Ravnos, Salubri, Tzimisce (klánok) | 🔲 Nincs elkezdve | A Bővítmények kézikönyvében szerepelnek elsőként |
-| 15 | Diszciplínák áttekintő listája | 🔲 Nincs elkezdve | Egy index-cikk az összes Diszciplína rövid leírásával |
+| 4 | Anarch mozgalom | ✅ Kész | `docs/vampire-a-maszkabal/anarch.md` |
+| 5 | A 13 fő klán áttekintő listája | ✅ Kész | `docs/vampire-a-maszkabal/klanok.md` |
+| 6 | Brujah (klán) | ✅ Kész | |
+| 7 | Ventrue (klán) | ✅ Kész | |
+| 8 | Toreador (klán) | ✅ Kész | |
+| 9 | Nosferatu (klán) | ✅ Kész | |
+| 10 | Malkavian (klán) | ✅ Kész | Figyelem: a klán TAGJÁT "Malkavita"-nak hívjuk, lásd TERMINOLOGY.md |
+| 11 | Gangrel (klán) | ✅ Kész | |
+| 12 | Tremere (klán) | ✅ Kész | |
+| 13 | Lasombra (klán) | ✅ Kész | |
+| 13b | Banu Haqim (klán) | ✅ Kész | Nem volt az eredeti listán, de a 13 fő klán része |
+| 14 | Ravnos, Salubri, Tzimisce (klánok) | ✅ Kész | Külön cikkenként, nem egy összevont cikkben |
+| 15 | Diszciplínák áttekintő listája | 🔲 Nincs elkezdve | Minden klán-cikk hivatkozza a saját Diszciplínáit, de nincs külön, részletes áttekintő cikk |
 | 16 | Maszkabál (a szabály részletes kifejtése) | 🔲 Nincs elkezdve | A Glosszáriumban csak rövid definíció van, ez a teljes cikk |
 | 17 | Hígvérű (Thin-Blooded) | 🔲 Nincs elkezdve | |
 | 18 | Caitiff | 🔲 Nincs elkezdve | |
@@ -117,12 +118,12 @@ külön, szetting-független kategóriaként kezeljük, a `docs/glosszarium/` al
 | # | Cikk | Státusz | Megjegyzés |
 |---|---|---|---|
 | E1 | Dobásrendszer (dicepool, siker, Éhség-kockák, kritikus siker) | ✅ Kész | `docs/glosszarium/dobasrendszer.md` |
-| E2 | Attribútumok (9 alaptulajdonság) | 🔲 Nincs elkezdve | |
-| E3 | Képességek (Skills, kb. 27 db) | 🔲 Nincs elkezdve | |
-| E4 | Akaraterő (Willpower) | 🔲 Nincs elkezdve | |
-| E5 | Életerő és Sebzés (Health track, sebzéstípusok) | 🔲 Nincs elkezdve | |
-| E6 | Harc alapjai (kezdeményezés, támadás/védelem) | 🔲 Nincs elkezdve | |
-| E7 | Tapasztalat (Experience Points, karakterfejlődés) | 🔲 Nincs elkezdve | Alacsonyabb prioritás |
+| E2 | Attribútumok (9 alaptulajdonság) | ✅ Kész | `docs/glosszarium/attributumok.md` |
+| E3 | Képességek (Skills, kb. 27 db) | ✅ Kész | `docs/glosszarium/kepessegek.md` |
+| E4 | Akaraterő (Willpower) | ✅ Kész | `docs/glosszarium/akaratero.md` |
+| E5 | Életerő és Sebzés (Health track, sebzéstípusok) | ✅ Kész | `docs/glosszarium/eletero-es-sebzes.md` |
+| E6 | Harc alapjai (kezdeményezés, támadás/védelem) | ✅ Kész | `docs/glosszarium/harc-alapjai.md` |
+| E7 | Tapasztalat (Experience Points, karakterfejlődés) | ✅ Kész | `docs/glosszarium/tapasztalat.md` |
 
 **Jelmagyarázat:** ✅ kész · 🟡 stúb (van oldal, bővítésre vár) · 🔲 nincs elkezdve, nincs még oldal
 sem. A friss számokat a kezdőlap [státusz-blokkja](docs/index.md) mutatja automatikusan.

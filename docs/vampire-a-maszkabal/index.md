@@ -14,7 +14,10 @@ Maszkabál*) a World of Darkness legismertebb játékvilága, amelyben a játék
 titokban kell tartaniuk létezésüket az emberiség elől.
 
 A fő szekták a **[Kamarilla](kamarilla.md)** (a hagyományokat és a Maszkabál betartását védő, elit
-szekta) és a **[Szabbat](szabbat.md)** (a Kamarillával szemben álló, erőszakosabb szekta).
+szekta), a **[Szabbat](szabbat.md)** (a Kamarillával szemben álló, erőszakosabb szekta) és az
+**[Anarch Mozgalom](anarch.md)** (a szigorú hierarchiát elutasító, szabadságpárti vámpírok).
+
+A vámpírok [**Klánokba**](klanok.md) sorolhatók — lásd a teljes listát mind a 13 fő klánról.
 
 !!! info "Terminológia forrása"
     A fenti fordítások a [Delta Vision](https://www.deltavision.hu) hivatalos magyar kiadásán
@@ -24,10 +27,9 @@ szekta) és a **[Szabbat](szabbat.md)** (a Kamarillával szemben álló, erősza
 
 ## Tartalom állapota
 
-Ez a szekció most épül fel. Az első lépés a [Glosszárium](../glosszarium/index.md) alapfogalmainak
-lefordítása, majd a 13 fő klán leírása következik, elsőként a [Brujah](brujah.md)-val — lásd a
-priorizálást a
-[CONTENT_MAP.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTENT_MAP.md)-ban.
+A szekták és mind a 13 fő klán áttekintő cikke elkészült. A részletesebb mélységi tartalom
+(Bloodline-ok, Diszciplínák teljes listája, egyes klánok bővebb története) még hátravan — lásd a
+priorizálást a [CONTENT_MAP.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTENT_MAP.md)-ban.
 
 Ha szeretnél csatlakozni a fordításhoz, nézd meg a
 [CONTRIBUTING.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/CONTRIBUTING.md) útmutatót.
