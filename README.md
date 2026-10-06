@@ -76,70 +76,51 @@ Ha csak egy cikket szeretnél szerkeszteni vagy hozzáadni, **nem kötelező** l
 szervert — a GitHub-on keresztül, böngészőből is szerkeszthetsz egy Markdown fájlt és nyithatsz
 Pull Requestet. Részletek: [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Szkriptek
+
+A projekt minden automatizálása a `scripts/` mappában van, sima Python szkriptként — nincs
+rejtett lépés, nincs külső szolgáltatás, amit meg kellene bízni. Ez a lista **minden** szkriptet
+felsorol, amit a projekt használ, azzal, hogy pontosan mit csinál és mit **nem** csinál — ez a
+közösségi transzparencia miatt fontos: bárki, aki kontribúció előtt ellenőrizni akarja, mit futtat
+a gépén, itt megtalálja a teljes listát.
+
+| Szkript | Mit csinál | Mit NEM csinál |
+|---|---|---|
+| `update_stats.py` | Megszámolja a kész/stúb cikkeket és a hiányzó belső linkeket a `docs/`-ban, beírja a kezdőlap `<!-- STATS:START/END -->` blokkjába. | Nem ír semmilyen más fájlt, nem küld adatot sehova. |
+| `fetch_source.py` | Lekéri egy whitewolf.fandom.com cikk nyers wikitext-jét a MediaWiki API-n, és megtisztítja sablonoktól/galériáktól/hivatkozásoktól. | Nem módosít semmit a whitewolf.fandom.com-on (csak olvas), nem ment semmit automatikusan a `docs/`-ba. |
+| `lookup_term.py` | A `TERMINOLOGY.md` táblázataiban keres egy szóra (angolul vagy `--hu` kapcsolóval magyarul), kiírja a teljes találati sort forrással. | Nem módosítja a `TERMINOLOGY.md`-t, csak olvas. |
+| `check_terminology.py` | Minden `docs/` cikkben megnézi, szerepel-e egy `TERMINOLOGY.md`-ben rögzített angol szó anélkül, hogy a magyar megfelelője is előfordulna a fájlban — ez heurisztika, nem szigorú szabály (márkanevek, tulajdonnevek, duális alakok ki vannak zárva, és automatikusan felismeri az "X: The Y" játékcím-mintát is). | Nem módosít semmit automatikusan — az eredmény emberi átnézésre szánt munkalista. Nincs beépítve a Netlify build-be, mert a hamis pozitívjai blokkolnák a deploy-t. |
+| `check_content_map.py` | Összeveti a `CONTENT_MAP.md` táblázataiban hivatkozott fájlutakat a `docs/` valós tartalmával, jelzi, ha egy sor állapota (✅/🟡/🔲) nem egyezik a fájl létezésével. | Nem módosítja a `CONTENT_MAP.md`-t automatikusan. |
+| `precommit.py` | Egy parancsban lefuttatja a fenti négy ellenőrzést sorban (`check_terminology.py` → `check_content_map.py` → `update_stats.py` → `mkdocs build --strict`), megáll az első hibánál. **Ezt futtasd commit előtt**, ne a négyet külön-külön. | Nem commitol és nem pushol semmit — csak ellenőriz. |
+| `safe_fetch.py` | Lekér egy URL-t sima HTTP GET-tel (böngésző User-Agent-tel), és kiírja/elmenti a **nyers** HTML/szöveg tartalmat, opcionálisan egy `--grep` szűrővel. Azért létezik, hogy kutatás közben ellenőrizhető legyen egy AI-összegzés állítása a tényleges, nyers szerver-válasz ellenében. | Nem rendereli a JavaScript-et (statikus HTML-t lát, nem azt, amit egy böngésző futtatás után mutatna), nem lép be sehova, nem küld semmilyen adatot a megadott URL-en kívül. |
+| `termlib.py` | Nem önálló szkript — a `check_terminology.py` és `lookup_term.py` közös, megosztott kódja (a `TERMINOLOGY.md` táblázat-elemzése). Nincs önálló futtatási módja. | — |
+
 ### Fordítási állapot statisztika
 
 A kezdőlapon (`docs/index.md`) egy automatikusan generált blokk mutatja, hány cikk van kész, hány
 stúb, és hány belső link mutat még nem létező cikkre. Ez minden Netlify deploy előtt automatikusan
-frissül (`netlify.toml`), de lokálisan is futtathatod:
-
-```bash
-python scripts/update_stats.py
-```
-
-Új stúb cikk létrehozásakor tedd be a `status: stub` mezőt a front matterbe — lásd
+frissül (`netlify.toml`), de lokálisan is futtathatod `python scripts/update_stats.py`-vel. Új stúb
+cikk létrehozásakor tedd be a `status: stub` mezőt a front matterbe — lásd
 [CONTRIBUTING.md — Kereszthivatkozások](CONTRIBUTING.md#kereszthivatkozások-stúb-konvenció).
 
 ### Claude Code skill a fordításhoz
 
 A `.claude/skills/wod-forditas/SKILL.md` egy Claude Code skill, amely automatikusan betöltődik,
 amikor Claude Code-dal (vagy más Claude-alapú eszközzel) cikket fordítasz vagy írsz a `docs/`
-mappában. Kodifikálja a terminológiai kutatási protokollt: előbb a `TERMINOLOGY.md`-t nézd át,
-új fogalomnál kövesd a megadott forráskeresési sorrendet (hivatalos kiadás → valódi magyar
-fan-közösség → jelölt, forrás nélküli munkafordítás), és soha ne fogadj el egy AI-összegzést
-bejelentkezés-védett vagy üres oldalról ellenőrzés nélkül. Emberi kontributoroknak is érdemes
-elolvasni — ugyanaz a munkafolyamat, amit kézzel is követnünk kell.
+mappában. Kodifikálja a terminológiai kutatási protokollt: előbb a `TERMINOLOGY.md`-t nézd át
+(`lookup_term.py`-vel), új fogalomnál kövesd a megadott forráskeresési sorrendet (hivatalos kiadás
+→ valódi magyar fan-közösség → jelölt, forrás nélküli munkafordítás), és soha ne fogadj el egy
+AI-összegzést bejelentkezés-védett vagy üres oldalról `safe_fetch.py`-s ellenőrzés nélkül. Emberi
+kontributoroknak is érdemes elolvasni — ugyanaz a munkafolyamat, amit kézzel is követnünk kell.
 
-### Terminológia gyors kikeresése
-
-A `scripts/lookup_term.py` egy angol (vagy magyar) szóra megmondja, szerepel-e már a
-`TERMINOLOGY.md`-ben, és ha igen, milyen megbízhatósági szinttel és forrással:
+### Gyors parancsok
 
 ```bash
-python scripts/lookup_term.py Masquerade
-python scripts/lookup_term.py --hu Maszkabál   # fordított irányban
+python scripts/lookup_term.py Masquerade        # terminológia gyors kikeresése
+python scripts/fetch_source.py "Camarilla (VTM)" --out scratch/camarilla.txt  # forrás lekérése
+python scripts/safe_fetch.py "https://url" --grep "keresett-szöveg"           # nyers HTML-ellenőrzés
+python scripts/precommit.py                      # minden ellenőrzés egyben, commit előtt
 ```
-
-Ha nincs találat, a szkript jelzi, hogy a fogalomhoz előbb a kutatási protokollt kell
-lefuttatni — lásd `.claude/skills/wod-forditas/SKILL.md`.
-
-### Forrás lekérése fordításhoz
-
-A `scripts/fetch_source.py` lekéri egy whitewolf.fandom.com cikk szövegét és eltávolítja belőle a
-sablonokat, hivatkozásokat és galériákat — így a fordításhoz jóval rövidebb, tisztább szöveget
-kapunk, mint a nyers wikitext:
-
-```bash
-python scripts/fetch_source.py "Camarilla (VTM)" --out scratch/camarilla.txt
-```
-
-Ha a megadott cím átirányítás (redirect), a szkript kiírja a célcímet — próbáld meg azzal újra.
-
-### Terminológiai konzisztencia ellenőrzése
-
-A `scripts/check_terminology.py` beolvassa a `TERMINOLOGY.md` táblázatait, és minden cikkben
-jelzi, ha egy angol szakszó szerepel, de a hozzá rögzített magyar megfelelő nem fordul elő
-sehol a fájlban — ez tipikusan azt jelzi, hogy valaki (ember vagy AI) elfelejtett lefordítani
-egy visszatérő fogalmat.
-
-```bash
-python scripts/check_terminology.py
-```
-
-Ez egy **heurisztika, nem szigorú szabály** — márkanevek, tulajdonnevek és szándékosan duális
-alakok (pl. "Anarch / Elkötelezetlenek") ki vannak zárva a listából, mert ott a találat általában
-zajt jelent, nem hibát. Az eredményt emberi átnézésre szánt munkalistaként kezeld, ne automatikus
-javításként. Nincs beépítve a Netlify build-be, mert hamis pozitívjai blokkolnák a deploy-t —
-kontribúció/review közben futtasd manuálisan.
 
 ## Csatlakozás, kontribúció
 

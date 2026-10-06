@@ -49,14 +49,15 @@ Ne találj ki fordítást megerősítés nélkül. Kövesd ezt a sorrendet:
    - Ha ezek nem elegendők, végezz új keresést hasonló magyar RPG-fórumokra, blogokra.
 3. **KRITIKUS SZABÁLY — sose bízz AI-összegzésben bejelentkezés-védett vagy üres oldalról.**
    Ha egy forrás (pl. fórum-alkategória) tartalmát WebFetch-csel kéred le, és az eredmény
-   gyanúsan részletes vagy "túl jó", **ellenőrizd nyers HTTP-kéréssel** (`curl` vagy a Bash
-   eszköz), hogy a tartalom valóban létezik, nem pedig az összegző modell találta ki. Ez már
-   egyszer megtörtént ezen a projekten (lásd TERMINOLOGY.md figyelmeztetését) — egy
+   gyanúsan részletes vagy "túl jó", **ellenőrizd a `scripts/safe_fetch.py`-vel**, hogy a
+   tartalom valóban létezik, nem pedig az összegző modell találta ki. Ez már egyszer
+   megtörtént ezen a projekten (lásd TERMINOLOGY.md figyelmeztetését) — egy
    bejelentkezés-képernyőt mutató oldalról a modell részletes alkategória-listát "olvasott ki",
    amit nem is látott. Minta ellenőrzésre:
    ```bash
-   curl -sL -A "Mozilla/5.0" "https://forum-url/" | grep -oE '.{0,40}keresett-szlug.{0,40}'
+   python scripts/safe_fetch.py "https://forum-url/" --grep "keresett-szlug"
    ```
+   Ha nincs találat, az erős jel, hogy az AI-összegzés hallucinált.
 4. **Legalább 2 egymástól független forrás egyezése esetén** jelöld a fordítást
    **"Megerősített"**-ként a `TERMINOLOGY.md`-ben, idézettel és linkkel.
 5. **Ha nincs forrás, vagy csak egy van:** jelöld **"Döntés, nincs közvetlen forrás"**-ként —
@@ -149,17 +150,21 @@ Kövesd a `CONTRIBUTING.md` cikk-sablonját:
    használtál, konzisztens a `TERMINOLOGY.md`-vel, és hogy nem csúszott-e be bare angol szó
    magyar megfelelő nélkül (ez a leggyakoribb hiba, amit a szkript is keres, de az emberi/AI
    átolvasás korábban kifoghatja).
-2. Futtasd le ezt a hármat, és javítsd, amit jeleznek, **mielőtt** commitolsz:
+2. Futtasd le ezt az egy parancsot, és javítsd, amit jelez, **mielőtt** commitolsz:
 
 ```bash
-python scripts/check_terminology.py   # terminológiai konzisztencia (angol szó magyar nélkül)
-python scripts/update_stats.py        # kész/stúb/hiányzó-link statisztika frissítése
-mkdocs build --strict                 # build-hiba és hiányzó nav-bejegyzés ellenőrzése
+python scripts/precommit.py
 ```
 
-A `check_terminology.py` heurisztika — minden találatot nézz át emberi szemmel, mielőtt
-javítasz vagy elvet veted. Ha egy találat hamis pozitív (márkanév, tulajdonnév, duális alak),
-vedd fel az `IGNORE_ENGLISH_TERMS` listára a szkriptben, ne hagyd figyelmen kívül némán.
+Ez sorban lefuttatja a `check_terminology.py`, `check_content_map.py`, `update_stats.py` és a
+`mkdocs build --strict` ellenőrzéseket, és megáll az első hibánál — nem kell négy parancsot
+külön megjegyezni.
+
+A `check_terminology.py` és a `check_content_map.py` heurisztikák — minden találatot nézz át
+emberi szemmel, mielőtt javítasz vagy elvet veted. Ha egy találat hamis pozitív (márkanév,
+tulajdonnév, duális alak), vedd fel az `IGNORE_ENGLISH_TERMS` listára a `check_terminology.py`-ban
+— az "X: The Y" mintájú játékcímeket (pl. egy új, jövőbeli játékvonalat) a szkript automatikusan
+felismeri, azokhoz nem kell manuálisan bővíteni a listát.
 
 ## 9. Ha új fordítást rögzítesz
 

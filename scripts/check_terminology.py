@@ -34,6 +34,22 @@ IGNORE_ENGLISH_TERMS = {
     "demon",  # "Demon: The Fallen"/"Demon: A Bukottak" title
 }
 
+# Auto-detect "X: The Y" game-line titles (e.g. "Mummy: The Resurrection") and
+# treat the creature word X as a brand term automatically, so a *new* game
+# line added later doesn't need a manual entry above like the ones blamed on
+# Wraith/Hunter/Demon did. Static IGNORE_ENGLISH_TERMS above stays for
+# genuinely ambiguous/generic words (shadow, tradition) that this pattern
+# can't catch.
+GAME_TITLE_RE = re.compile(r"\b([A-Z][a-zA-Z]+): [Tt]he [A-Z][a-zA-Z]+")
+
+
+def detect_game_title_brand_words(docs_dir) -> set:
+    words = set()
+    for path in docs_dir.rglob("*.md"):
+        for match in GAME_TITLE_RE.finditer(path.read_text(encoding="utf-8")):
+            words.add(match.group(1).lower())
+    return words
+
 
 def main() -> None:
     pairs = [(e, h) for e, h, _ctx in extract_pairs()]
@@ -49,13 +65,15 @@ def main() -> None:
     # and should never count as "prose used the English term".
     link_target_re = re.compile(r"\[([^\]]*)\]\([^)]*\)")
 
+    ignore_terms = IGNORE_ENGLISH_TERMS | detect_game_title_brand_words(DOCS_DIR)
+
     findings = []
     for path in sorted(DOCS_DIR.rglob("*.md")):
         text = attribution_re.sub("", path.read_text(encoding="utf-8"))
         text = link_target_re.sub(r"\1", text)
         rel = path.relative_to(ROOT)
         for english, hungarian in pairs:
-            if english.lower() in IGNORE_ENGLISH_TERMS:
+            if english.lower() in ignore_terms:
                 continue
             if word_present(text, english) and not word_present(text, hungarian):
                 findings.append((rel, english, hungarian))
