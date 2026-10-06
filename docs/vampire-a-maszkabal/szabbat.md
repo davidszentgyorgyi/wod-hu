@@ -82,6 +82,9 @@ Kéz** (Black Hand) egy félig önálló, katonai szárnyként működik.
 Sok Szabbat-tag az Emberség helyett [A Megvilágosodás egy Útját](megvilagosodas-utjai.md)
 követi, saját, nem-emberi erkölcsi logikával.
 
+A szekta alapvető társadalmi egysége a **[Falka](falka.md)** — egy kisebb, Vaulderie által
+összekötött Vértestvér-csoport.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Sabbat szócikkének](https://whitewolf.fandom.com/wiki/Sabbat)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt. A terminológia forrása:
