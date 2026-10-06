@@ -17,6 +17,14 @@ Az Avatar nem egyszerűen egy "erőforrás" — sok mágus számára saját cél
 álmokon, jelzéseken keresztül irányt mutathat a mágusnak. Egy mágus halála után az Avatar
 visszatérhet egy másik, új felébredő lélekbe.
 
+## Avatar-küldetések
+
+Sok mágus számol be arról, hogy visioni álmok vagy szimbolikus víziók formájában kap
+üzeneteket saját Avatarjától — ezeket **Avatar-küldetéseknek** (Seekings) nevezik. Egy
+Avatar-küldetés jellemzően egy belső, szimbolikus próbatételt jelent, ahol a mágus saját
+lelkének egy rejtett aspektusával néz szembe; ezek teljesítése gyakran az **[Arete](arete.md)**
+(a mágus megvilágosodásának mélysége) növekedésével jár.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Avatar szócikkének](https://whitewolf.fandom.com/wiki/Avatar)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
