@@ -34,6 +34,9 @@ választása jelentett — így a létrehozott lények húséhséggel születtek
     A "Nagaraja", "Chakravanti", "Idran" és "Tal'Mahe'Ra" nevek fordítatlanul, tulajdonnévként
     szerepelnek. Lásd [TERMINOLOGY.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/TERMINOLOGY.md).
 
+A bloodline egyedi Diszciplínája a **[Nihilistics](nihilistics.md)** — áthatol a Fátylon,
+és a Feledés erejét csatornázza a fizikai világba.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Nagaraja (VTM) szócikkének](https://whitewolf.fandom.com/wiki/Nagaraja_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
