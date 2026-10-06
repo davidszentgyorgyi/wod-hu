@@ -7,8 +7,10 @@ description: >-
 
 # Ministry
 
-![Ministry klán embléma](../assets/logos/ministry.webp){ width="280" }
-*Ministry klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+<figure markdown>
+![Ministry klán embléma](../assets/logos/ministry.webp){ .clan-logo }
+<figcaption>Forrás: <a href="https://whitewolf.fandom.com">whitewolf.fandom.com</a> · © Paradox Interactive / White Wolf Entertainment</figcaption>
+</figure>
 
 
 A **Ministry** (korábbi nevén **Followers of Set**, "Set Követői") a World of Darkness

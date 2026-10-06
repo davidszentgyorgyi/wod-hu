@@ -7,8 +7,10 @@ description: >-
 
 # Banu Haqim
 
-![Banu Haqim klán embléma](../assets/logos/banu-haqim.webp){ width="280" }
-*Banu Haqim klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+<figure markdown>
+![Banu Haqim klán embléma](../assets/logos/banu-haqim.webp){ .clan-logo }
+<figcaption>Forrás: <a href="https://whitewolf.fandom.com">whitewolf.fandom.com</a> · © Paradox Interactive / White Wolf Entertainment</figcaption>
+</figure>
 
 
 A **Banu Haqim** (korábbi nevén **Assamita**) a Vampire: The Masquerade bíró és harcos-mágus

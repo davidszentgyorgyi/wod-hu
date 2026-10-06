@@ -7,8 +7,10 @@ description: >-
 
 # Malkavian
 
-![Malkavian klán embléma](../assets/logos/malkavian.webp){ width="280" }
-*Malkavian klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+<figure markdown>
+![Malkavian klán embléma](../assets/logos/malkavian.webp){ .clan-logo }
+<figcaption>Forrás: <a href="https://whitewolf.fandom.com">whitewolf.fandom.com</a> · © Paradox Interactive / White Wolf Entertainment</figcaption>
+</figure>
 
 
 A **Malkavian** (tagjaira gyakran **Malkavita**-ként hivatkoznak) a Vampire: The Masquerade

@@ -7,8 +7,10 @@ description: >-
 
 # Szabbat
 
-![Szabbat embléma](../assets/logos/szabbat.webp){ width="200" }
-*A Szabbat emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+<figure markdown>
+![Szabbat embléma](../assets/logos/szabbat.webp){ .clan-logo }
+<figcaption>Forrás: <a href="https://whitewolf.fandom.com">whitewolf.fandom.com</a> · © Paradox Interactive / White Wolf Entertainment</figcaption>
+</figure>
 
 A **Szabbat** a World of Darkness második nagy vámpírszektája, amely elutasítja a Kamarilla
 Hagyományait és uralmát. A tagjai hiszik, hogy [Káin](kain.md) seregeként egy napon ők fogják

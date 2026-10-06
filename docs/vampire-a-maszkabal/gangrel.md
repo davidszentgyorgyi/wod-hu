@@ -7,8 +7,10 @@ description: >-
 
 # Gangrel
 
-![Gangrel klán embléma](../assets/logos/gangrel.webp){ width="280" }
-*Gangrel klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+<figure markdown>
+![Gangrel klán embléma](../assets/logos/gangrel.webp){ .clan-logo }
+<figcaption>Forrás: <a href="https://whitewolf.fandom.com">whitewolf.fandom.com</a> · © Paradox Interactive / White Wolf Entertainment</figcaption>
+</figure>
 
 
 A **Gangrel** a Vampire: The Masquerade legtermészet-közelibb klánja — vándorló túlélők, akik

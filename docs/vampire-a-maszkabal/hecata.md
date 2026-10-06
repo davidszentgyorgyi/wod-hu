@@ -7,8 +7,10 @@ description: >-
 
 # Hecata
 
-![Hecata klán embléma](../assets/logos/hecata.webp){ width="280" }
-*Hecata klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+<figure markdown>
+![Hecata klán embléma](../assets/logos/hecata.webp){ .clan-logo }
+<figcaption>Forrás: <a href="https://whitewolf.fandom.com">whitewolf.fandom.com</a> · © Paradox Interactive / White Wolf Entertainment</figcaption>
+</figure>
 
 
 A **Hecata** a World of Darkness legújabb vámpírklánja — nem egyetlen Antedeluviánustól

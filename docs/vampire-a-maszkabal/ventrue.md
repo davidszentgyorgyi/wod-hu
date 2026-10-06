@@ -7,8 +7,10 @@ description: >-
 
 # Ventrue
 
-![Ventrue klán embléma](../assets/logos/ventrue.webp){ width="280" }
-*Ventrue klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+<figure markdown>
+![Ventrue klán embléma](../assets/logos/ventrue.webp){ .clan-logo }
+<figcaption>Forrás: <a href="https://whitewolf.fandom.com">whitewolf.fandom.com</a> · © Paradox Interactive / White Wolf Entertainment</figcaption>
+</figure>
 
 
 A **Ventrue** a Vampire: The Masquerade vezető klánja — arisztokratikus, hatalomra és irányításra

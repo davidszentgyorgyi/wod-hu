@@ -7,8 +7,10 @@ description: >-
 
 # Nosferatu
 
-![Nosferatu klán embléma](../assets/logos/nosferatu.webp){ width="280" }
-*Nosferatu klán emblémája — forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com), © Paradox Interactive / White Wolf Entertainment*
+<figure markdown>
+![Nosferatu klán embléma](../assets/logos/nosferatu.webp){ .clan-logo }
+<figcaption>Forrás: <a href="https://whitewolf.fandom.com">whitewolf.fandom.com</a> · © Paradox Interactive / White Wolf Entertainment</figcaption>
+</figure>
 
 
 A **Nosferatu** a Vampire: The Masquerade talán legszörnyűbb külsejű klánja — az [Ölelés](../glosszarium/index.md)

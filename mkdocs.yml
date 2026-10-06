@@ -13,6 +13,9 @@ copyright: >
   A tartalom a World of Darkness Wiki (whitewolf.fandom.com) fordítása/adaptációja,
   CC BY-SA 4.0 licenc alatt. World of Darkness és kapcsolódó márkanevek a Paradox Interactive tulajdonát képezik.
 
+extra_css:
+  - assets/css/extra.css
+
 theme:
   name: material
   language: hu

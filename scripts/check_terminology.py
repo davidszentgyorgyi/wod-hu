@@ -64,6 +64,10 @@ def main() -> None:
     # paths/slugs (often English-derived, e.g. hunter-a-leszamolas/index.md)
     # and should never count as "prose used the English term".
     link_target_re = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+    # attr_list / markdown-attributes blocks, e.g. ![alt](img){ .clan-logo }
+    # or { width="280" } - CSS class names here (like "clan-logo") are not
+    # prose and shouldn't count as an English word usage.
+    attr_list_re = re.compile(r"\{[^{}]*\}")
 
     ignore_terms = IGNORE_ENGLISH_TERMS | detect_game_title_brand_words(DOCS_DIR)
 
@@ -71,6 +75,7 @@ def main() -> None:
     for path in sorted(DOCS_DIR.rglob("*.md")):
         text = attribution_re.sub("", path.read_text(encoding="utf-8"))
         text = link_target_re.sub(r"\1", text)
+        text = attr_list_re.sub("", text)
         rel = path.relative_to(ROOT)
         for english, hungarian in pairs:
             if english.lower() in ignore_terms:

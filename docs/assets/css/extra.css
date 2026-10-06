@@ -1,0 +1,20 @@
+/* Clan/sect logo images: these are official banner/badge graphics with wildly
+   varying native aspect ratios (some are wide wordmarks, some are tall
+   portrait badges). A fixed width looked inconsistent - illegible slivers for
+   the wide ones, oversized for the tall ones - so we fix the HEIGHT instead
+   and let width scale naturally per image. */
+.clan-logo {
+  display: block;
+  height: 90px;
+  width: auto;
+  max-width: 100%;
+  margin: 0.5rem auto 0.25rem auto;
+}
+
+/* figcaption styling tweak: slightly smaller and muted, matches Material's
+   own caption conventions but centers it under the logo. */
+figure > figcaption {
+  text-align: center;
+  font-size: 0.75rem;
+  opacity: 0.75;
+}
