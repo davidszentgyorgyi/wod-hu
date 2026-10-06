@@ -69,6 +69,11 @@ Egy karakter alapvetően ebből áll össze:
 7. **[Kapaszkodók és Hitvallások](vampire-a-maszkabal/kapaszkodok-es-hitvallasok.md)** — a
    karakter emberi kötődései, amik az Emberségét tartják fenn.
 
+Ha szeretnéd látni, hogy ez mind hogyan áll össze egy konkrét karakterben, nézd meg a
+**[Példakarakter](vampire-a-maszkabal/pelda-karakter.md)** cikket — egy teljesen kész, azonnal
+játszható figura. Az első esti játékhoz pedig a Mesélő elkezdheti a
+**[Kezdő Kaland](vampire-a-maszkabal/kezdo-kaland.md)** vázlatával.
+
 Ezt a lépéssort a Mesélőd jellemzően végigvezeti veled az első alkalommal — nem kell egyedül
 kitalálnod.
 

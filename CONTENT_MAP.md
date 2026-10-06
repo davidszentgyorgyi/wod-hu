@@ -128,6 +128,8 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 32 | Tyler, Anarch Forradalmat elindító NPC | ✅ Kész | `docs/vampire-a-maszkabal/tyler.md` |
 | 33 | Helena, Toreador methuselah NPC | ✅ Kész | `docs/vampire-a-maszkabal/helena.md` |
 | 34 | Succubus Club, chicagói Elysium | ✅ Kész | `docs/vampire-a-maszkabal/succubus-club.md` |
+| 35 | Példakarakter (teljesen eredeti, kész V5 karakter) | ✅ Kész | `docs/vampire-a-maszkabal/pelda-karakter.md` |
+| 36 | Kezdő Kaland (teljesen eredeti egy-estés kalandvázlat) | ✅ Kész | `docs/vampire-a-maszkabal/kezdo-kaland.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
