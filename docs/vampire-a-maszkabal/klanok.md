@@ -27,9 +27,9 @@ Diszciplínáival, kultúrájával és hátrányával.
 | [Ventrue](ventrue.md) | Uralás, Szívósság, Jelenlét | Kamarilla |
 
 Ez a 13 klán a whitewolf.fandom.com "Clan (VTM)" szócikke szerint a jelenleg (V5-kor)
-elismert 13 fő klán — ez idővel változott: a **Tremere** és a **Hecata** (korábban Giovanni)
-mindkettő egy-egy korábbi klán (Tremere rend, illetve Cappadocian) kiszorításával nyerte el a
-klán-státuszt az elmúlt évezredben.
+elismert 13 fő klán — ez idővel változott: a **Tremere** a **Salubri** klán majdnem teljes
+kiirtásával szorította ki a helyét, a **Hecata** (korábban Giovanni) pedig a **Cappadocian**
+klán kiszorításával nyerte el a klán-státuszt az elmúlt évezredben.
 
 !!! note "Hol van a Salubri?"
     A **[Salubri](salubri.md)** klán **nem** része a jelenlegi 13 fő klánnak — a forrás szerint
