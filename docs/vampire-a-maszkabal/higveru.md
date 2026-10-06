@@ -23,6 +23,9 @@ enni/inni emberi ételt, italt.
 A Kamarilla hagyományosan lenézi és kirekeszti a Hígvérűeket — az 5. kiadás szabályai szerint
 sok Kamarilla-irányítású területen kifejezetten tilos a létezésük.
 
+A Hígvérűek egyedi, saját gyakorlata a **[Hígvérű Alkímia](higveru-alkimia.md)** — ez
+helyettesíti náluk a hagyományos Diszciplína-erőket.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Thin-blooded szócikkének](https://whitewolf.fandom.com/wiki/Thin-blooded)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.

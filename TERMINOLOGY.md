@@ -226,6 +226,8 @@ jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/V
 | Loresheet | Loresheet *(fordítatlan)* | V5-specifikus szabály-elnevezés, Előny-altípus |
 | Amalgam | Amalgam *(fordítatlan)* | V5-specifikus szabály-elnevezés, a korábbi "Combination Discipline" utódja |
 | Combination Discipline | Diszciplína-kombináció | Korábbi kiadások elnevezése, V5-ben Amalgam-má alakult |
+| Thin-Blood Alchemy | Hígvérű Alkímia | Közvetlen fordítás, csak Hígvérűek számára elérhető gyakorlat |
+| Formula (Alchemy) | Formula *(fordítatlan)* | A Hígvérű Alkímia "erő-egysége", a Diszciplína-erők analógja |
 | Masquerade Breach | Maszkabál-szegés | A Maszkabál megszegésének ténye/esete |
 | Feeding | Táplálkozás | Általános gyűjtőfogalom a vérszerzésre |
 | Hunting | Vérszerzés | Már használatban: `predator-tipus.md` |
