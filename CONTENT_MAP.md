@@ -154,6 +154,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 58 | Fekete Kéz (Black Hand), Szabbat katonai rend | ✅ Kész | `docs/vampire-a-maszkabal/fekete-kez.md` |
 | 59 | Inconnu, titkos szekta | ✅ Kész | `docs/vampire-a-maszkabal/inconnu.md` |
 | 60 | Örök Szenátus, ókori római Vértestvér-önkormányzat | ✅ Kész | `docs/vampire-a-maszkabal/orok-szenatus.md` |
+| 61 | Chantry, Tremere klán városi bázisa | ✅ Kész | `docs/vampire-a-maszkabal/chantry.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

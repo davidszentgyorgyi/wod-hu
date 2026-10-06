@@ -32,6 +32,9 @@ A Tremere hierarchikus rendszerében a fiatalabb tagokat gyakran **vérkötelék
 A Tremere a Kamarilla egyik tagklánja, bár történetük miatt a többi klán sosem bízott meg
 igazán bennük.
 
+A klán városi bázisát **[Chantry](chantry.md)**-nak hívják — ez egyszerre erőd, laboratórium
+és közösségi fészek.
+
 A klán egyik legbefolyásosabb, hagyományőrző véne **[Karl Schrekt](karl-schrekt.md)**, aki
 hosszú ideig a klán Justicarja volt — vele szemben áll **[Carna](carna.md)**, aki megtörte a
 klán feletti Vérköteléket, és saját, Anarch-szimpatizáns frakciót alapított.
