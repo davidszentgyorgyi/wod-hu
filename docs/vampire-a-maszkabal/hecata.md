@@ -38,6 +38,9 @@ Független klán — azóta, hogy a Banu Haqim a Kamarillához, a Ministry az An
 csatlakozott, és a Ravnos jelentősen meggyengült, a Hecata az utolsó jelentős független klán
 a modern éjszakákban.
 
+A klán jellemző ereje a **[Nekromancia](nekromancia.md)** — a holtak világával foglalkozó
+vérmágia-forma.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Hecata szócikkének](https://whitewolf.fandom.com/wiki/Hecata)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
