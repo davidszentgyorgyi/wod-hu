@@ -17,6 +17,9 @@ fenyegetést jelent a vámpír-társadalom egészére.
 A [Kamarilla](kamarilla.md) és a [Szabbat](szabbat.md) ritkán egyeznek bármiben, de a Baali
 kiirtásának szükségességében mindkét szekta osztja a nézetet.
 
+A bloodline jellemző Diszciplínája a **[Daimonion](daimonion.md)** — pokoli, démoni
+eredetű erő.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Baali szócikkének](https://whitewolf.fandom.com/wiki/Baali)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
