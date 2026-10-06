@@ -219,6 +219,10 @@ jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/V
 | Methuselah | Methuselah | Fordítatlan — rendkívül idős Vértestvér rangja |
 | Antediluvian | Antediluvianus | Fordítatlan — a klánalapító, özönvíz előtti vámpírok rangja |
 | Bloodline | Bloodline *(fordítatlan, "mellékvérvonal" glosszával első előfordulásnál)* | Már használatban: `bloodline-ok.md` és a klán-cikkek — Caitiff/Ghoul-mintára kezelve |
+| Kiasyd | Kiasyd *(fordítatlan)* | Bloodline-név, tulajdonnévként kezelve |
+| Nagaraja | Nagaraja *(fordítatlan)* | Bloodline-név, tulajdonnévként kezelve |
+| Lamia / Lamiae | Lamia / Lamiák | Bloodline-név, csak magyar többes számmal, a "Gargoyle-ok" mintájára |
+| Blood Brothers | Vérfivérek | Leíró angol kifejezés, ezért lefordítva (nem tulajdonnév, mint a többi bloodline-név) |
 | Masquerade Breach | Maszkabál-szegés | A Maszkabál megszegésének ténye/esete |
 | Feeding | Táplálkozás | Általános gyűjtőfogalom a vérszerzésre |
 | Hunting | Vérszerzés | Már használatban: `predator-tipus.md` |

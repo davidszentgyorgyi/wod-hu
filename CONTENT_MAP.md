@@ -111,6 +111,10 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 15c | Ragadozó-típus (Predator Type) karakteralkotási mechanika | ✅ Kész | `docs/vampire-a-maszkabal/predator-tipus.md` — a "milyen tartalom kell a játszhatósághoz" bővítés része |
 | 15d | Előnyök és Hátrányok (Merits & Flaws) áttekintő | ✅ Kész | `docs/vampire-a-maszkabal/elonyok-es-hatranyok.md` |
 | 15e | Kapaszkodók és Hitvallások (Touchstones & Convictions) | ✅ Kész | `docs/vampire-a-maszkabal/kapaszkodok-es-hitvallasok.md` |
+| 21 | Kiasyd bloodline | ✅ Kész | `docs/vampire-a-maszkabal/kiasyd.md` — Vampire-mélyítés, "csináld" bővítés része |
+| 22 | Nagaraja bloodline | ✅ Kész | `docs/vampire-a-maszkabal/nagaraja.md` |
+| 23 | Lamiák bloodline | ✅ Kész | `docs/vampire-a-maszkabal/lamiak.md` |
+| 24b | Vérfivérek (Blood Brothers) bloodline | ✅ Kész | `docs/vampire-a-maszkabal/verfiverek.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

@@ -20,6 +20,13 @@ különleges eseményt vagy mutációt követően, és saját egyedi vonásokkal
   szolgák.
 - **[Salubri antitribu](salubri-antitribu.md)**: a Szabbaton belüli Salubri-ág, akik elvetették
   az eredeti klán gyógyító filozófiáját.
+- **[Kiasyd](kiasyd.md)**: a Lasombrából ágazott le egy tündérekkel való végzetes találkozás
+  után — magányos, tündér-vérű tudósok.
+- **[Nagaraja](nagaraja.md)**: húsevő nekromanták, akik nem Öleléssel, hanem mágusi
+  rituáléval születtek.
+- **[Lamiák](lamiak.md)**: a Cappadocian klán (a Hecata elődje) kihalt harcos-őrzői.
+- **[Vérfivérek](verfiverek.md)**: a Szabbat mesterségesen létrehozott, megosztott tudatú
+  harci egységei.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Bloodline szócikkének](https://whitewolf.fandom.com/wiki/Bloodline)
