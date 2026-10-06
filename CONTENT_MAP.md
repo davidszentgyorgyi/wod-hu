@@ -117,6 +117,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 24b | Vérfivérek (Blood Brothers) bloodline | ✅ Kész | `docs/vampire-a-maszkabal/verfiverek.md` |
 | 25b | Loresheet-ek mechanika | ✅ Kész | `docs/vampire-a-maszkabal/loresheet-ek.md` |
 | 25c | Amalgamok (Combination Disciplines) mechanika | ✅ Kész | `docs/vampire-a-maszkabal/amalgamok.md` |
+| 25d | Vérmágia Rituálék (Blood Sorcery Rituals) | ✅ Kész | `docs/vampire-a-maszkabal/vermagia-ritualek.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

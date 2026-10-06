@@ -24,6 +24,9 @@ Tremere, Banu Haqim, Hecata.
 | 5 | Baal's Caress | Vérét halálos méreggé alakítja, ami vámpírra és halandóra egyaránt hat |
 | 5 | Cauldron of Blood | Felforralja egy áldozat vérét az ereiben |
 
+A Vérmágia ezen kívül **[Rituálékat](vermagia-ritualek.md)** is megnyit — ezek a fenti
+azonnali erőktől eltérő, lassabb, de tartósabb hatású szertartások.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Blood Sorcery (VTM 5e) szócikkének](https://whitewolf.fandom.com/wiki/Blood_Sorcery_(VTM_5e))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt. A diszciplína-nevek
