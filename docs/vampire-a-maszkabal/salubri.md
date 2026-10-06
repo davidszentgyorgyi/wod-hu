@@ -26,6 +26,9 @@ hovatartozásukat azok előtt, akik tudják, mire figyeljenek.
 Független, rendkívül ritka klán — sem a Kamarillának, sem a Szabbatnak nincs jelentős Salubri
 tagsága, bár elszórt tagjaik mindkét szektában előfordulhatnak.
 
+A klán jellemző Diszciplínája a **[Valeren](valeren.md)** — a Harcos Útja, Gyógyító
+testvérágával (Obeah) együtt.
+
 !!! note "Nem tagja a jelenlegi 13 fő klánnak"
     A whitewolf.fandom.com szerint a Salubri **ma már nem számít a 13 fő klán egyikének** — a
     [Tremere](tremere.md) majdnem teljesen kiirtotta őket, és a klán a hagyomány szerint
