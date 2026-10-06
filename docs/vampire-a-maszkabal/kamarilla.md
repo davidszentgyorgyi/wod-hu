@@ -71,6 +71,9 @@ Az 5. kiadás (V5) idejére a tagság megváltozott: a Brujah és a Gangrel töb
 és csatlakozott az Anarch Mozgalomhoz, míg a Banu Haqim (korábban Assamita) és a Lasombra egy része
 belépett a Kamarillába.
 
+A Kamarilla mai struktúráját (Justicarok, Archonok, Hagyományok) a [Thorni
+Egyezmény](thorni-egyezmeny.md) alapozta meg, 1493-ban.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Camarilla (VTM) szócikkének](https://whitewolf.fandom.com/wiki/Camarilla_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt. A terminológia forrása:

@@ -119,6 +119,8 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 25c | Amalgamok (Combination Disciplines) mechanika | ✅ Kész | `docs/vampire-a-maszkabal/amalgamok.md` |
 | 25d | Vérmágia Rituálék (Blood Sorcery Rituals) | ✅ Kész | `docs/vampire-a-maszkabal/vermagia-ritualek.md` |
 | 25e | Hígvérű Alkímia (Thin-Blood Alchemy) | ✅ Kész | `docs/vampire-a-maszkabal/higveru-alkimia.md` |
+| 26 | Anarch Forradalom (Anarch Revolt), történelmi esemény | ✅ Kész | `docs/vampire-a-maszkabal/anarch-forradalom.md` |
+| 27 | Thorni Egyezmény (Convention of Thorns), történelmi esemény | ✅ Kész | `docs/vampire-a-maszkabal/thorni-egyezmeny.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
