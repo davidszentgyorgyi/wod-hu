@@ -31,7 +31,9 @@ pihenjenek — ha ettől távol vannak, a nappali pihenésük kevésbé hatékon
 A Szabbat egyik alapító és vezető klánja, a Lasombrával együtt.
 
 A klán jellemző, hírhedt ereje a **[Vicissitude](vicissitude.md)** — a hús és csont
-formálásának tudománya, amiért a Tzimisce a "Fiend" becenevet kapta.
+formálásának tudománya, amiért a Tzimisce a "Fiend" becenevet kapta. A legősibb klántagok
+emellett a **[Koldunikus Boszorkányságot](koldunikus-boszorkanysag.md)** is gyakorolhatják —
+egy a földhöz és szellemekhez kötött, ősi vérmágia-formát.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Tzimisce szócikkének](https://whitewolf.fandom.com/wiki/Tzimisce)

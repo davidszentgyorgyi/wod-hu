@@ -174,6 +174,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 78 | Dementation, Malkavian őrület-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/dementation.md` |
 | 79 | Quietus, Banu Haqim vér feletti hatalma | ✅ Kész | `docs/vampire-a-maszkabal/quietus.md` |
 | 80 | Obtenebration, Lasombra árny-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/obtenebration.md` |
+| 81 | Koldunikus Boszorkányság, ősi Tzimisce föld-mágia | ✅ Kész | `docs/vampire-a-maszkabal/koldunikus-boszorkanysag.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
