@@ -17,6 +17,14 @@ A modern világ — bürokráciájával, cinizmusával és "varázstalanított" 
 magasabb Banalitás-szintet gerjeszt, amely fenyegeti a Kithain létezését. Egy tündért, akinek a
 Banalitása túl magasra nő, végül **Undoing** (a tündérlét teljes elvesztése) fenyegeti.
 
+## Autumn People és Dauntain
+
+A legtöbb halandó öntudatlanul magas Banalitással él — ők az **Autumn People**, akik nem
+rosszindulatúak, csak elvesztették a gyermeki képzelet képességét. Jóval ijesztőbbek azok a
+tündérek, akik tudatosan a Banalitás szolgálatába álltak — ezeket **Dauntain**-nek hívják, és
+ők a Kithain legveszélyesebb, legszervezettebb ellenségei, mert pontosan ismerik a
+tündérvilág gyengepontjait.
+
 ## Ellenpólusa: a Glamour
 
 A Banalitással szemben áll a **[Glamour](glamour.md)** — a képzelet és az álmok tiszta mágikus
