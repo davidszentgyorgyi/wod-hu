@@ -7,6 +7,9 @@
 secrets.yml
 secrets.yaml
 
+# --- Belső üzleti/stratégiai dokumentumok — nem a publikus közösségre tartozik ---
+STRATEGY.md
+
 # --- Python / MkDocs build ---
 __pycache__/
 *.pyc

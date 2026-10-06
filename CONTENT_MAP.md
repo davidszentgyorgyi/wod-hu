@@ -88,8 +88,8 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | # | Cikk | Státusz | Megjegyzés |
 |---|---|---|---|
 | 1 | Glosszárium alapfogalmak (Ölelés, Emberség, Őrjöngés, Éhség, Vértestvér, Klán, Diszciplína, Generáció) | ✅ Elkészült | `docs/glosszarium/index.md` |
-| 2 | Kamarilla (szekta áttekintő) | 🟡 Stúb elkészült | `docs/vampire-a-maszkabal/kamarilla.md` — bővítésre vár |
-| 3 | Szabbat (szekta áttekintő) | 🟡 Stúb elkészült | `docs/vampire-a-maszkabal/szabbat.md` — bővítésre vár |
+| 2 | Kamarilla (szekta áttekintő) | ✅ Kész | `docs/vampire-a-maszkabal/kamarilla.md` — whitewolf.fandom.com alapján |
+| 3 | Szabbat (szekta áttekintő) | ✅ Kész | `docs/vampire-a-maszkabal/szabbat.md` — whitewolf.fandom.com alapján |
 | 4 | Anarch mozgalom | 🔲 Nincs elkezdve | |
 | 5 | A 13 fő klán áttekintő listája | 🔲 Nincs elkezdve | Egy index-cikk, ami linkel az egyes klán-stúbokra |
 | 6 | Brujah (klán) | 🟡 Stúb elkészült | `docs/vampire-a-maszkabal/brujah.md` — bővítésre vár, első klán-cikk mintaként |

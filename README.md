@@ -24,9 +24,10 @@ GitHub-on keresztül.
   felület, maga a git repó a "CMS".
 - A site generátor a **[MkDocs Material](https://squidfunk.github.io/mkdocs-material/)**, ami a
   Markdown fájlokból statikus HTML oldalakat épít.
-- A hosting **[Netlify](https://netlify.com)** — minden `main` branch-re történő push automatikusan
-  újra deployolja az élő site-ot, és minden Pull Request kap egy saját preview linket, hogy a
-  reviewer megnézhesse a végeredményt kattogás előtt.
+- A hosting **[Netlify](https://netlify.com)**. Ha kódot pusholunk a `main` branch-re, Netlify
+  automatikusan újraépíti és frissíti az élő site-ot. Emellett minden Pull Requesthez külön,
+  ideiglenes előnézeti linket (preview) is generál, így a reviewer megnézheti a kész, renderelt
+  eredményt a böngészőben, mielőtt jóváhagyná és mergelné a változást.
 - A fordítási munka **GitHub Issues és Pull Requestek** keretében zajlik — lásd [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Projekt felépítése
@@ -45,7 +46,6 @@ WOD/
 ├── mkdocs.yml                  # Site konfiguráció (navigáció, SEO beállítások, téma)
 ├── netlify.toml                 # Netlify build konfiguráció
 ├── requirements.txt             # Python függőségek (mkdocs, mkdocs-material)
-├── STRATEGY.md                  # Stratégiai döntések és háttér (platform, licenc, monetizáció)
 ├── CONTENT_MAP.md                # A forrás wiki (whitewolf.fandom.com) feltérképezése, priorizálás
 ├── TERMINOLOGY.md                 # Kötelező terminológiai táblázat — hivatalos magyar fordítások forrásokkal
 └── CONTRIBUTING.md                # Kontribútor útmutató — ERRE KATTINTS, HA SEGÍTENI SZERETNÉL
@@ -84,6 +84,18 @@ python scripts/update_stats.py
 Új stúb cikk létrehozásakor tedd be a `status: stub` mezőt a front matterbe — lásd
 [CONTRIBUTING.md — Kereszthivatkozások](CONTRIBUTING.md#kereszthivatkozások-stúb-konvenció).
 
+### Forrás lekérése fordításhoz
+
+A `scripts/fetch_source.py` lekéri egy whitewolf.fandom.com cikk szövegét és eltávolítja belőle a
+sablonokat, hivatkozásokat és galériákat — így a fordításhoz jóval rövidebb, tisztább szöveget
+kapunk, mint a nyers wikitext:
+
+```bash
+python scripts/fetch_source.py "Camarilla (VTM)" --out scratch/camarilla.txt
+```
+
+Ha a megadott cím átirányítás (redirect), a szkript kiírja a célcímet — próbáld meg azzal újra.
+
 ## Csatlakozás, kontribúció
 
 Minden segítség jól jön: fordítás, lektorálás, terminológiai egységesítés, technikai fejlesztés.
@@ -113,7 +125,6 @@ A projekt verziótörténete. Formátum: [Keep a Changelog](https://keepachangel
 
 #### Added
 - Projekt alapstruktúra felépítve: MkDocs Material konfiguráció, Netlify build pipeline.
-- `STRATEGY.md` — platform-, licenc- és monetizációs döntések dokumentálva.
 - `CONTENT_MAP.md` — forrás wiki (whitewolf.fandom.com) feltérképezve, kategória-struktúra és
   fordítási priorizálási elv rögzítve.
 - Kezdő tartalmi sablonok: kezdőlap, glosszárium, Vampire: A Maszkabál szekció.
@@ -136,7 +147,6 @@ A projekt verziótörténete. Formátum: [Keep a Changelog](https://keepachangel
 - Forrás: [whitewolf.fandom.com](https://whitewolf.fandom.com) (nem a worldofdarkness.fandom.com —
   lásd `CONTENT_MAP.md` indoklást).
 - Platform: MkDocs Material (Docusaurus helyett — egynyelvű projektnél alacsonyabb belépési küszöb).
-- Monetizáció: hirdetés/donation most, prémium (nem-WoD-IP) eszközök később — részletek `STRATEGY.md`.
 - Terminológia: ahol van hivatalos magyar kiadás (Delta Vision), azt követjük saját fordítás helyett.
 - "Setting" → "játékvilág" (nem "szetting") — a magyar RPG-közösség natív szóhasználatát követve.
 
@@ -151,3 +161,10 @@ A projekt verziótörténete. Formátum: [Keep a Changelog](https://keepachangel
 - Három valódi stúb oldal elkészült mintaként: Kamarilla, Szabbat, Brujah (klán).
 - `scripts/update_stats.py`: automatikusan generált fordítási állapot statisztika (kész cikkek,
   stúbok, hiányzó belső linkek száma) a kezdőlapon — minden Netlify deploy előtt frissül.
+- `scripts/fetch_source.py`: whitewolf.fandom.com cikkek lekérése és sablon-/hivatkozás-mentes
+  megtisztítása fordításhoz, token-/idő-takarékosabb munkafolyamathoz.
+- A Kamarilla és a Szabbat cikkek elkészültek teljes terjedelemben (történet, felépítés, kultúra),
+  forrás: whitewolf.fandom.com, CC BY-SA attribúcióval.
+- `TERMINOLOGY.md`: megerősítve, hogy a "Sect" fogalomra a valódi magyar WoD fan-közösség (két
+  független forrás: wodhu.blogspot.com, worldofdarkness.hungarianforum.net) a **"szekta"** szót
+  használja — a korábban megfontolt "frakció" saját következtetés volt, nem közösségi forrás.

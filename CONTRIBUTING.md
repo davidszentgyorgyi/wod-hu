@@ -144,7 +144,7 @@ A tartalom logikus alcímekre bontva, nem egy hosszú szövegfolyam.
 - Táblázatot használj összehasonlításhoz (pl. klánok diszciplínái), nem hosszú felsorolást.
 - Minden képhez adj `alt` szöveget, ami leírja a kép tartalmát.
 - Hivatkozz a forrásra, ha egy állítás a whitewolf.fandom.com-ról származik (licenc miatt is
-  kötelező, lásd [STRATEGY.md](STRATEGY.md)).
+  kötelező, lásd [LICENSE.md](LICENSE.md)).
 
 ## Kereszthivatkozások — stúb-konvenció
 
