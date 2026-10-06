@@ -80,6 +80,12 @@ git push origin forditas/vampire-klanok
 
 ## Terminológiai konvenciók
 
+!!! tip "Claude Code / Claude skill"
+    Ha Claude Code-dal (vagy más Claude-alapú eszközzel) dolgozol ebben a repóban, a
+    `.claude/skills/wod-forditas/SKILL.md` automatikusan betöltődik, amikor cikket fordítasz —
+    ez kodifikálja az alábbi szabályokat és a kutatási protokollt, hogy az AI se találjon ki
+    terminológiát megerősítés nélkül.
+
 A World of Darkness tele van visszatérő szakszavakkal, és **van hivatalos magyar kiadása** —
 a [Delta Vision](https://www.deltavision.hu) *"Vámpír: A Maszkabál"* címmel jelentette meg a Vampire:
 The Masquerade szabálykönyvét (2010, 2023). **Elsődlegesen ezt a hivatalos fordítást követjük**, nem

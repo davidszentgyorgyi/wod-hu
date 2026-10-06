@@ -34,6 +34,10 @@ GitHub-on keresztül.
 
 ```
 WOD/
+├── .claude/
+│   └── skills/
+│       └── wod-forditas/        # Claude Code skill: terminológia-kutatási protokoll fordításhoz
+│           └── SKILL.md
 ├── docs/                       # A wiki tartalma — ide kerülnek a Markdown cikkek
 │   ├── index.md                # Kezdőlap
 │   ├── robots.txt              # Keresőmotor/AI-bot crawler szabályok
@@ -43,6 +47,7 @@ WOD/
 │   ├── mage-az-eksztazis/
 │   ├── wraith-a-feledes/
 │   └── changeling-az-almok/
+├── scripts/                     # update_stats.py, check_terminology.py, fetch_source.py
 ├── mkdocs.yml                  # Site konfiguráció (navigáció, SEO beállítások, téma)
 ├── netlify.toml                 # Netlify build konfiguráció
 ├── requirements.txt             # Python függőségek (mkdocs, mkdocs-material)
@@ -83,6 +88,16 @@ python scripts/update_stats.py
 
 Új stúb cikk létrehozásakor tedd be a `status: stub` mezőt a front matterbe — lásd
 [CONTRIBUTING.md — Kereszthivatkozások](CONTRIBUTING.md#kereszthivatkozások-stúb-konvenció).
+
+### Claude Code skill a fordításhoz
+
+A `.claude/skills/wod-forditas/SKILL.md` egy Claude Code skill, amely automatikusan betöltődik,
+amikor Claude Code-dal (vagy más Claude-alapú eszközzel) cikket fordítasz vagy írsz a `docs/`
+mappában. Kodifikálja a terminológiai kutatási protokollt: előbb a `TERMINOLOGY.md`-t nézd át,
+új fogalomnál kövesd a megadott forráskeresési sorrendet (hivatalos kiadás → valódi magyar
+fan-közösség → jelölt, forrás nélküli munkafordítás), és soha ne fogadj el egy AI-összegzést
+bejelentkezés-védett vagy üres oldalról ellenőrzés nélkül. Emberi kontributoroknak is érdemes
+elolvasni — ugyanaz a munkafolyamat, amit kézzel is követnünk kell.
 
 ### Forrás lekérése fordításhoz
 
