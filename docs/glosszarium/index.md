@@ -80,6 +80,13 @@ betartását és a hagyományos vámpír-társadalmi rendet védi.
 A **Szabbat** (Sabbat) a Kamarillával szemben álló szekta, amely elveti a Maszkabál sok elemét és
 agresszívabb, háborúsabb filozófiát követ.
 
+### Vérpotenciál (Blood Potency)
+
+A **Vérpotenciál** (Blood Potency) egy érték, amely megmutatja, mennyire "sűrű" és erős egy
+vámpír vére — ezt elsősorban a [Generáció](../vampire-a-maszkabal/generacio.md) határozza meg.
+Magasabb Vérpotenciál erősebb Diszciplína-használatot, de nagyobb Éhséget és nehezebb
+emberi-vérrel való táplálkozást is jelent.
+
 ## Játékmechanika
 
 A dobások, az Éhség-kockák és a kritikus sikerek részletes mechanikáját a

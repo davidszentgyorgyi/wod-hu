@@ -12,11 +12,10 @@ mint az Akaraterő a vámpíroknál, de kifejezetten a harci agresszióhoz és a
 kapcsolódik. Rage-pontok elkölthetők extra cselekedetekre harc közben, vagy az ember-alakból a
 harci Crinos-alakba váltáshoz.
 
-## Frenzy veszélye
+## Őrjöngés veszélye
 
-Magas Rage mellett a Garou könnyebben esik **Frenzybe** (itt is [Őrjöngés](../glosszarium/index.md)
-a magyar munkaterminus) — ilyenkor elveszti az irányítást, és csak a legközelebbi ellenséget vagy
-veszélyforrást látja.
+Magas Rage mellett a Garou könnyebben esik [**Őrjöngésbe**](../glosszarium/index.md) (Frenzy) —
+ilyenkor elveszti az irányítást, és csak a legközelebbi ellenséget vagy veszélyforrást látja.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Rage szócikkének](https://whitewolf.fandom.com/wiki/Rage)

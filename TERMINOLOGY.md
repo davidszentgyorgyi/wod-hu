@@ -44,6 +44,24 @@ terminusokat, ami megerősíti a megbízhatóságukat.
 | Blood Bond | Vérkötelék | Megerősített | lfg.hu + radavit |
 | Thin-Blooded | Hígvérű | Megerősített | lfg.hu + radavit |
 | Caitiff | Caitiff | Megerősített | radavit — fordítatlan, tulajdonnévként kezelve |
+| Elder | Öreg | Döntés, nincs közvetlen forrás | Közvetlen fordítás; használva a Kamarilla és Második Inkvizíció cikkekben |
+
+### Szervezeti címek (Kamarilla/Szabbat tisztségek) — következetes kezelési szabály
+
+Döntés: a szervezeti címeket **fordítatlanul, tulajdonnévként** hagyjuk (hasonlóan a Caitiff/
+Ghoul mintához), **kivéve** ha van egy nagyon egyértelmű, rövid magyar megfelelő — ott zárójelben
+glosszázzuk első előfordulásnál.
+
+| Angol | Kezelés | Használva |
+|---|---|---|
+| Prince | Fordítatlan, glossza: "(Herceg)" | kamarilla.md, ventrue.md |
+| Primogen, Justicar, Archon | Fordítatlan | kamarilla.md |
+| Inner Circle | Lefordítva: "Belső Kör" | kamarilla.md |
+| ductus, Regent, Cardinal, Priscus/Prisci, Consistory | Fordítatlan | szabbat.md |
+| Archbishop | Lefordítva: "Érsek" | szabbat.md |
+| Bishop, pack priest | Lefordítva: "pap" (pack priest esetén) | szabbat.md |
+| regnant | Fordítatlan | verkotelek.md |
+| antitribu | Fordítatlan (latin eredetű szakszó) | bloodline-ok.md |
 | Ghoul | Ghoul | Megerősített | radavit — fordítatlan |
 | Coterie | Kotéria | Megerősített | lfg.hu + radavit |
 | Compulsion | Kényszerviselkedés | Megerősített | lfg.hu |
