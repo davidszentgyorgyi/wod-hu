@@ -60,7 +60,8 @@ Egy karakter alapvetően ebből áll össze:
 3. **[Képességek](glosszarium/kepessegek.md)** — a 27 tanult készség (Verekedés, Nyomozás, stb.)
    elosztása.
 4. **Játékvilág-specifikus választások** — pl. Vampire esetén egy [Klán](vampire-a-maszkabal/klanok.md)
-   kiválasztása, ami meghatározza a kezdő Diszciplínáidat.
+   és egy [Ragadozó-típus](vampire-a-maszkabal/predator-tipus.md) kiválasztása, ami meghatározza
+   a kezdő Diszciplínáidat és néhány Előnyödet/Hátrányodat.
 5. **[Akaraterő](glosszarium/akaratero.md)** és **[Életerő](glosszarium/eletero-es-sebzes.md)** —
    ezek az Attribútumaidból számolt kiegészítő értékek.
 6. Apróbb részletek: név, kinézet, kapcsolatok, hátrányok/előnyök (ezekről a hivatalos
