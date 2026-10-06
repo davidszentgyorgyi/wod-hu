@@ -138,6 +138,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 42 | Rudi, Gangrel Anarch NPC | ✅ Kész | `docs/vampire-a-maszkabal/rudi.md` |
 | 43 | Ambrus Maropis, Nosferatu NPC | ✅ Kész | `docs/vampire-a-maszkabal/ambrus-maropis.md` |
 | 44 | Carmelita Neillson, Toreador NPC | ✅ Kész | `docs/vampire-a-maszkabal/carmelita-neillson.md` |
+| 45 | Fiorenza Savona, Ventrue NPC | ✅ Kész | `docs/vampire-a-maszkabal/fiorenza-savona.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

@@ -30,6 +30,9 @@ A Ventrue válogatós étkezők — csak egy általuk korábban meghatározott t
 
 A Ventrue a Kamarilla egyik oszlopos ("pillar") klánja, a szekta vezető rétegének gyakori tagjai.
 
+A klán egy feltörekvő modern alakja **[Fiorenza Savona](fiorenza-savona.md)**, Mexikóváros
+Ventrue Premierje.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Ventrue szócikkének](https://whitewolf.fandom.com/wiki/Ventrue_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
