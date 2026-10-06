@@ -32,7 +32,7 @@ közösségi fordítását és leírását gyűjti egy helyre.
 
 ## Glosszárium
 
-A **[Glosszárium](glosszarium/index.md)** gyűjti az alapfogalmakat (pl. Embrace, Humanity, Frenzy),
+A **[Glosszárium](glosszarium/index.md)** gyűjti az alapfogalmakat (pl. Ölelés, Emberség, Őrjöngés),
 amelyek az összes játékvilágban visszatérnek — érdemes itt kezdeni az olvasást.
 
 ## Hogyan segíthetsz?

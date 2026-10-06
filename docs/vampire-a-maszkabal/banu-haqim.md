@@ -2,15 +2,15 @@
 title: "Banu Haqim klán — a bírák és vérmágus harcosok"
 description: >-
   A Banu Haqim (korábban Assamita) a Vampire: The Masquerade bíró és harcos-mágus klánja, akit
-  a saját vérszomja a diablerie felé hajt.
+  a saját vérszomja a diabléria felé hajt.
 ---
 
 # Banu Haqim
 
 A **Banu Haqim** (korábbi nevén **Assamita**) a Vampire: The Masquerade bíró és harcos-mágus
 klánja — igazságosság és rend iránti elkötelezettségük mellett a klánt saját vérszomja hajtja
-más vámpírok vére, akár **diablerie** (egy másik vámpír vérének és lényének teljes elnyelése)
-felé is.
+más vámpírok vére, akár [**Diabléria**](diableria.md) (egy másik vámpír vérének és lényének
+teljes elnyelése) felé is.
 
 ## Diszciplínák
 
@@ -19,7 +19,7 @@ Blood Sorcery (Vérmágia), Celerity (Sebesség) és Obfuscate (Rejtőzés).
 ## Klán-hátrány
 
 A Banu Haqim tagjait erős, nehezen kontrollálható vonzódás húzza más vámpírok vére felé — minél
-erősebb a vámpír, akit megízlelnek, annál nehezebb nekik megállni a diablerie-nél.
+erősebb a vámpír, akit megízlelnek, annál nehezebb nekik megállni a Diabléria-nál.
 
 ## Szekta-hovatartozás
 

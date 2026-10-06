@@ -20,7 +20,7 @@ az alacsonyabb Generációjú (ősibb) vámpírok rendkívül ritkák és veszé
 
 ## Generáció csökkentése
 
-Egy vámpír Generációja csökkenhet **Diablerie** (egy másik, alacsonyabb Generációjú vámpír
+Egy vámpír Generációja csökkenhet [**Diabléria**](diableria.md) (egy másik, alacsonyabb Generációjú vámpír
 vérének és lényének elnyelése) révén — ez azonban a Kamarillában a legsúlyosabb bűnök közé
 tartozik.
 

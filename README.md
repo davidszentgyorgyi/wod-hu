@@ -96,6 +96,23 @@ python scripts/fetch_source.py "Camarilla (VTM)" --out scratch/camarilla.txt
 
 Ha a megadott cím átirányítás (redirect), a szkript kiírja a célcímet — próbáld meg azzal újra.
 
+### Terminológiai konzisztencia ellenőrzése
+
+A `scripts/check_terminology.py` beolvassa a `TERMINOLOGY.md` táblázatait, és minden cikkben
+jelzi, ha egy angol szakszó szerepel, de a hozzá rögzített magyar megfelelő nem fordul elő
+sehol a fájlban — ez tipikusan azt jelzi, hogy valaki (ember vagy AI) elfelejtett lefordítani
+egy visszatérő fogalmat.
+
+```bash
+python scripts/check_terminology.py
+```
+
+Ez egy **heurisztika, nem szigorú szabály** — márkanevek, tulajdonnevek és szándékosan duális
+alakok (pl. "Anarch / Elkötelezetlenek") ki vannak zárva a listából, mert ott a találat általában
+zajt jelent, nem hibát. Az eredményt emberi átnézésre szánt munkalistaként kezeld, ne automatikus
+javításként. Nincs beépítve a Netlify build-be, mert hamis pozitívjai blokkolnák a deploy-t —
+kontribúció/review közben futtasd manuálisan.
+
 ## Csatlakozás, kontribúció
 
 Minden segítség jól jön: fordítás, lektorálás, terminológiai egységesítés, technikai fejlesztés.

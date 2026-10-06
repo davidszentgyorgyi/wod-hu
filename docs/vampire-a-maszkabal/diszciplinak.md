@@ -8,7 +8,8 @@ description: >-
 # Diszciplínák
 
 A **Diszciplínák** a vámpírok természetfeletti képességeinek gyűjtőneve — minden klánnak saját
-jellemző Diszciplínái vannak, amelyeket a Vér ereje (Blood Potency) és a gyakorlás fejleszt.
+jellemző Diszciplínái vannak, amelyeket a [Vérpotenciál](../glosszarium/index.md) és a gyakorlás
+fejleszt.
 
 | Diszciplína | Jellemző hatása | Fő klánjai |
 |---|---|---|
