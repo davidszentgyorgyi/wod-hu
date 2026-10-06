@@ -17,8 +17,8 @@ halandó korában.
 
 ## Hatalma és tanácsadói
 
-A Hercegeket jellemzően egy **Primogen**-tanács segíti, amelyben a Domain fő klánjainak
-vénjei ülnek. A Herceg további tisztségeket is kioszthat — **[Scourge](scourge.md)** (a gyenge vérvonalak
+A Hercegeket jellemzően egy **[Primogen](primogen.md)**-tanács segíti, amelyben a Domain fő
+klánjainak vénjei ülnek. A Herceg további tisztségeket is kioszthat — **[Scourge](scourge.md)** (a gyenge vérvonalak
 kivégzője), **[Sheriff](sheriff.md)** (a rend fenntartója), vagy a
 [Elysium](elysium.md) Felügyelője. A
 Herceg egyben a Kamarilla legfontosabb helyi kapcsolattartója is — segítenie kell az

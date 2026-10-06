@@ -159,6 +159,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 63 | Herceg (Prince), Domain vezetői tisztség | ✅ Kész | `docs/vampire-a-maszkabal/herceg.md` |
 | 64 | Sheriff, Herceg jogi végrehajtója | ✅ Kész | `docs/vampire-a-maszkabal/sheriff.md` |
 | 65 | Scourge, gyenge vérvonalak kivégzője | ✅ Kész | `docs/vampire-a-maszkabal/scourge.md` |
+| 66 | Primogen, klán-képviselő tanács | ✅ Kész | `docs/vampire-a-maszkabal/primogen.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
