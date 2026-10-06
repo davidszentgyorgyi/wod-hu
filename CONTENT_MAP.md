@@ -142,6 +142,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 46 | Golconda, mitikus megvilágosodási állapot | ✅ Kész | `docs/vampire-a-maszkabal/golconda.md` |
 | 47 | Magas Klánok (High Clan) | ✅ Kész | `docs/vampire-a-maszkabal/magas-klanok.md` |
 | 48 | Alacsony Klánok (Low Clan) | ✅ Kész | `docs/vampire-a-maszkabal/alacsony-klanok.md` |
+| 49 | Antedeluviánusok, a 13 klán alapítói | ✅ Kész | `docs/vampire-a-maszkabal/antedeluvianusok.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

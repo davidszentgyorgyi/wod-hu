@@ -36,6 +36,9 @@ leszámolásban. A **[Kamarilla](kamarilla.md)** ezzel szemben tagadja Káin lé
 tudatosan elfojtja vagy elpusztítja a rá vonatkozó szövegeket, hogy szkepticizmust tartson
 fenn a modern Vértestvérek között.
 
+Közvetlen Gyermekei és korai leszármazottai váltak a 13 klán **[Antedeluviánus](antedeluvianusok.md)**
+alapítóivá.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Caine szócikkének](https://whitewolf.fandom.com/wiki/Caine)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
