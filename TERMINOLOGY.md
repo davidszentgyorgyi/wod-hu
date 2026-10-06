@@ -71,6 +71,12 @@ cikkben jelezzük a "Terminológia megjegyzés" admonitionnal, de itt egy helyen
 | Prestation | Prestation | Döntés, nincs forrás | Kerestünk, nem találtunk se angol, se magyar forrásban — fordítatlan, tulajdonnévként kezelve |
 | Vaulderie | Vaulderie | Döntés, nincs forrás | Jelentése megerősített (angol forrásból), magyar fordítás nem — fordítatlan |
 | Jyhad | Jyhad | Döntés, nincs forrás | Jelentése megerősített (angol forrásból), magyar fordítás nem — fordítatlan |
+| Predator Type | Ragadozó-típus | Döntés, nincs közvetlen forrás | V5-ös karakteralkotási mechanika; a konkrét típusneveket (Alleycat, Siren, stb.) fordítatlanul, tulajdonnévként hagyjuk, ahogy a Diszciplína-erőneveket is |
+| Merit | Előny | Döntés, nincs közvetlen forrás | Általánosan elterjedt magyar szerepjátékos szakszó (Előnyök és Hátrányok páros) |
+| Flaw | Hátrány | Döntés, nincs közvetlen forrás | Lásd Merit — páros fogalom |
+| Background | Háttér | Döntés, nincs közvetlen forrás | Közvetlen, egyértelmű fordítás (karakteralkotási kategória, pl. Contacts, Resources) |
+| Touchstone | Kapaszkodó | Döntés, nincs közvetlen forrás | V5 fogalom — az a halandó/emberi kötődés, ami a karakter Emberségét tartja fenn |
+| Conviction | Hitvallás | Döntés, nincs közvetlen forrás | V5 fogalom — a karakter személyes erkölcsi elve, a Touchstone-okhoz kapcsolódva |
 
 ### Szervezeti címek (Kamarilla/Szabbat tisztségek) — következetes kezelési szabály
 
