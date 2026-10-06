@@ -22,6 +22,15 @@ amelyek kombinálásával a mágusok ("Awakened") megváltoztatják a valóságo
 | Spirit | Az Umbra szellemvilága feletti hatalom |
 | Time | Idő feletti hatalom |
 
+## Rangok és kombinálás
+
+Minden Szférában 1–5 fokozatú jártasság érhető el — egy mágus ritkán fejleszt egyenlő
+mértékben minden Szférát, inkább kialakul egy "erős oldala" (pl. egy Life- és Mind-specialista
+gyógyító, vagy egy Forces- és Prime-specialista pusztító mágus). A legtöbb valódi mágikus
+hatás nem egyetlen Szférát használ, hanem kettő-három kombinációját — egy tűzgolyó
+elhajítása például Forces (az energia létrehozása) és Correspondence (a célba irányítás)
+együttes alkalmazása.
+
 ## A Paradox kockázata
 
 Minél "feltűnőbb" vagy a konszenzus-valósággal ellentétesebb egy mágikus hatás, annál nagyobb
