@@ -58,6 +58,7 @@ extra:
 plugins:
   - search:
       lang: hu
+  - awesome-pages  # .pages fájlokból vezérelt, de automatikusan bővülő navigáció
 # A sitemap.xml generálása beépített mkdocs funkció, külön plugin nem kell.
 # TODO: "social" plugin (OG/Twitter kártya automatikus generálás) később bekapcsolható,
 # de natív Cairo-függőséget igényel (mkdocs-material[imaging]) — Netlify build image-en
@@ -77,13 +78,7 @@ markdown_extensions:
   - pymdownx.highlight
   - def_list
 
-nav:
-  - Kezdőlap: index.md
-  - Glosszárium: glosszarium/index.md
-  - "Vampire: A Maszkabál": vampire-a-maszkabal/index.md
-  - "Werewolf: Az Apokalipszis": werewolf-az-apokalipszis/index.md
-  - "Mage: Az Eksztázis": mage-az-eksztazis/index.md
-  - "Wraith: A Feledés": wraith-a-feledes/index.md
-  - "Changeling: Az Álmok": changeling-az-almok/index.md
-  - "Hunter: A Leszámolás": hunter-a-leszamolas/index.md
-  - "Demon: A Bukottak": demon-a-bukottak/index.md
+# A nav szekció szándékosan hiányzik — a mkdocs automatikusan generálja a menüt
+# a docs/ mappastruktúrából és a fájlok H1 címéből. Ez azt jelenti, hogy egy új
+# cikk automatikusan megjelenik a navigációban, mihelyt létrejön, nincs manuális
+# lépés. Lásd scripts/check_content_map.py és a README "Szkriptek" szekcióját.

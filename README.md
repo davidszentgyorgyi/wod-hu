@@ -122,6 +122,33 @@ python scripts/safe_fetch.py "https://url" --grep "keresett-szöveg"           #
 python scripts/precommit.py                      # minden ellenőrzés egyben, commit előtt
 ```
 
+### Automatikus ellenőrzés minden commit előtt (ajánlott, egyszeri beállítás)
+
+A `.githooks/pre-commit` automatikusan lefuttatja a `precommit.py`-t minden commit előtt, ha
+`docs/`, `TERMINOLOGY.md` vagy `CONTENT_MAP.md` változott — így nem kell emlékezni rá. Mivel a
+git alapértelmezés szerint nem használja a repóban lévő hook-okat, egyszer be kell kapcsolni
+(klónozás után):
+
+```bash
+git config core.hooksPath .githooks
+```
+
+Ezután minden commit előtt automatikusan lefut a terminológia-, `CONTENT_MAP.md`- és build-
+ellenőrzés, és megállítja a commitot, ha valami nincs rendben (vagy ha a `check_content_map.py`
+automatikusan javított valamit — ilyenkor `git add`-old a módosítást és commitolj újra).
+
+### Mi automatizált, és mi nem (őszintén)
+
+- **Automatikus, build-enként**: a kezdőlap státusz-blokkja (`update_stats.py`), és a
+  navigáció (mkdocs most a `docs/` mappastruktúrából generálja, `.pages` fájllal vezérelt
+  sorrendben — új cikk automatikusan megjelenik, nincs manuális `mkdocs.yml` szerkesztés).
+- **Automatikusan ellenőrzött és részben auto-javított, ha bekapcsolod a git hook-ot**: a
+  `CONTENT_MAP.md` állapot-oszlopa (🔲 → ✅ irányban auto-javítva, ✅ → 🔲 irányban csak jelezve,
+  sosem auto-javítva — egy hiányzó fájl lehet véletlen törlés, azt ember nézze át).
+- **Sosem lesz teljesen automatikus, mert ítélet/kutatás kell hozzá**: a `TERMINOLOGY.md` új
+  sorai (egy fogalom fordítását és megbízhatósági szintjét nem lehet a fájlrendszerből
+  levezetni), és a `CONTENT_MAP.md` priorizálási megjegyzései.
+
 ## Csatlakozás, kontribúció
 
 Minden segítség jól jön: fordítás, lektorálás, terminológiai egységesítés, technikai fejlesztés.

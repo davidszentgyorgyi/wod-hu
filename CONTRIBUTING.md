@@ -63,6 +63,9 @@ python -m venv .venv
 .venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 
+# 3b. Automatikus commit-előtti ellenőrzés bekapcsolása (egyszeri lépés)
+git config core.hooksPath .githooks
+
 # 4. Dev szerver — élőben látod a változást böngészőben
 mkdocs serve
 # → http://127.0.0.1:8000

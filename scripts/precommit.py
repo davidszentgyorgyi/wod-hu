@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 STEPS = [
     ("Terminológia-konzisztencia", [sys.executable, "scripts/check_terminology.py"]),
-    ("CONTENT_MAP.md állapot-ellenőrzés", [sys.executable, "scripts/check_content_map.py"]),
+    ("CONTENT_MAP.md állapot-ellenőrzés (auto-fix)", [sys.executable, "scripts/check_content_map.py", "--fix"]),
     ("Statisztika frissítése", [sys.executable, "scripts/update_stats.py"]),
     ("MkDocs build (strict)", ["mkdocs", "build", "--strict"]),
 ]
