@@ -243,7 +243,7 @@ egyértelmű fordítások, "Döntés, nincs közvetlen forrás" jelöléssel.
 | Methuselah's Thirst | Methuselah-szomj | Vérszerzés |
 | Prey Exclusion | Préda-kizárás | Vérszerzés |
 | Blood Hound | Vérkopó | Vérszerzés |
-| Iron Gullet | Vasgyomor | Vérszerzés |
+| Iron Gullet | Iron Gullet *(fordítatlan)* | Vérszerzés — már használatban: `predator-tipus.md`, `elonyok-es-hatranyok.md`, Merit-névként tulajdonnévként kezelve, mint a Diszciplína-erőnevek |
 | Baneful Blood | Átkos Vér | Ghoul-specifikus |
 | Crone's Curse | Vénasszony-átok | Ghoul-specifikus |
 | Distressing Fangs | Nyugtalanító Agyarak | Ghoul-specifikus |
