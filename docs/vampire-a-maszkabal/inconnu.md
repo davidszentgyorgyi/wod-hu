@@ -12,7 +12,7 @@ lehet tudni róluk. A legelterjedtebb elméletek szerint vagy egy ősi methusela
 amely a háttérből manipulálja a [Kamarillát](kamarilla.md) és a [Szabbatot](szabbat.md),
 vagy egy olyan vének csoportja, akik felhagytak a Jyhaddal, hogy a
 [Golcondát](golconda.md) keressék. Még a szekta kora is bizonytalan — egyesek szerint az
-ókori Rómáig visszanyúlik.
+ókori Rómáig, akár az **[Örök Szenátusig](orok-szenatus.md)** visszanyúlik.
 
 ## Monitorok
 
