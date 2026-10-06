@@ -30,6 +30,9 @@ elvonja a figyelmét a környezetéről, akár veszélyes helyzetben is.
 
 A Toreador a Kamarilla egyik oszlopos ("pillar") klánja.
 
+A klán egyik ismert alakja **[Carmelita Neillson](carmelita-neillson.md)**, régész, aki a
+Vértestvérek történelmét kutatja.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Toreador szócikkének](https://whitewolf.fandom.com/wiki/Toreador_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
