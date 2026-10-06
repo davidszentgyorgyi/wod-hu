@@ -33,6 +33,9 @@ Keresztes Hadjárat") azt hívén, hogy ők Káin kardjaként segítik a végső
 **[Kamarilla](kamarilla.md)** ezzel szemben hivatalosan tagadja vagy elfojtja a Gehennáról
 szóló tanításokat, hogy megőrizze a modern vámpír-társadalom stabilitását.
 
+A Gehenna egyik előjele **[A Hívás](hivas.md)**, ami a legidősebb Vértestvéreket a Közel-Kelet
+felé szólítja.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Gehenna szócikkének](https://whitewolf.fandom.com/wiki/Gehenna_(event))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
