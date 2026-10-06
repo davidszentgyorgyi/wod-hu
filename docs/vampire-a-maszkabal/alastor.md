@@ -7,9 +7,9 @@ description: >-
 
 # Alastor
 
-Az **Alastor** a [Kamarilla](kamarilla.md) ügynöke, akinek feladata a **Vöröslistás**
-Anathemák — a szekta számára különösen veszélyesnek ítélt, teljes szekta által üldözendő
-Vértestvérek — felkutatása és megsemmisítése. Ha az [Archonok](archon.md) és
+Az **Alastor** a [Kamarilla](kamarilla.md) ügynöke, akinek feladata a
+**[Vöröslistás](voroslista.md)** Anathemák — a szekta számára különösen veszélyesnek
+ítélt, teljes szekta által üldözendő Vértestvérek — felkutatása és megsemmisítése. Ha az [Archonok](archon.md) és
 [Justicarok](justicar.md) a Kamarilla rendőrsége, az Alastorok a titkosszolgálata — észrevétlenül
 mozognak, és a [Belső Kör](belso-kor.md) közvetlen parancsára dolgoznak, nem a Justicaroknak.
 

@@ -166,6 +166,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 70 | Alastor, Kamarilla titkos rendőrsége | ✅ Kész | `docs/vampire-a-maszkabal/alastor.md` |
 | 71 | Autarkis, szekta-politikán kívül élő Vértestvér | ✅ Kész | `docs/vampire-a-maszkabal/autarkis.md` |
 | 72 | Ghoul, vámpírvér szolgái (részletes cikk) | ✅ Kész | `docs/vampire-a-maszkabal/ghoul-reszletek.md` |
+| 73 | Vöröslista, Kamarilla ellenség-jegyzéke | ✅ Kész | `docs/vampire-a-maszkabal/voroslista.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
