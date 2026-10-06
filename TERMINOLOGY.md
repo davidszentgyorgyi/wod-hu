@@ -77,6 +77,8 @@ cikkben jelezzük a "Terminológia megjegyzés" admonitionnal, de itt egy helyen
 | Background | Háttér | Döntés, nincs közvetlen forrás | Közvetlen, egyértelmű fordítás (karakteralkotási kategória, pl. Contacts, Resources) |
 | Touchstone | Kapaszkodó | Döntés, nincs közvetlen forrás | V5 fogalom — az a halandó/emberi kötődés, ami a karakter Emberségét tartja fenn |
 | Conviction | Hitvallás | Döntés, nincs közvetlen forrás | V5 fogalom — a karakter személyes erkölcsi elve, a Touchstone-okhoz kapcsolódva |
+| Degeneration | Degeneráció | Döntés, nincs közvetlen forrás | Közvetlen fordítás; az Emberség-vesztés folyamata |
+| Path of Enlightenment | A Megvilágosodás Útja | Döntés, nincs közvetlen forrás | Az Emberség alternatívája bizonyos klánoknál/karaktereknél; közvetlen fordítás |
 
 ### Szervezeti címek (Kamarilla/Szabbat tisztségek) — következetes kezelési szabály
 
@@ -98,7 +100,7 @@ glosszázzuk első előfordulásnál.
 | Coterie | Kotéria | Megerősített | lfg.hu + radavit |
 | Compulsion | Kényszerviselkedés | Megerősített | lfg.hu |
 | Messy Critical | Piszkos kritikus siker | Megerősített | lfg.hu |
-| Stain | Folt | Megerősített | radavit |
+| Stain | Folt | Megerősített | radavit — V5-ben az Emberség-romlás jele, ha a karakter megszegi egy Hitvallását vagy súlyos tettet követ el |
 | Second Inquisition | Második Inkvizíció | Megerősített | lfg.hu + radavit |
 | Domain | Domain / Vadászterület | Megerősített, kettős alak | lfg.hu — kontextustól függ, melyiket használjuk |
 | Setting | Játékvilág | Megerősített | lfg.hu a "világ" szót használja a WoD leírására (nem "szettinget") — a projektben a "játékvilág" alakot használjuk az egyértelműség kedvéért |
@@ -183,6 +185,43 @@ hogy ne ütközzenek az Attribútum-nevekkel (pl. Potence ≠ "Erő", mert az St
 | Potence | Hatóerő |
 | Presence | Jelenlét |
 | Protean | Átváltozás |
+
+## Vampire V5 — további mechanikai és generációs fogalmak (munkafordítások)
+
+Ezek mind közvetlen, egyértelmű jelentésű fogalmak, amelyekhez nem találtunk külön magyar
+közösségi forrást — a kutatási protokoll 5. pontja szerint "Döntés, nincs közvetlen forrás"
+jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/Vérvonal alakokkal.
+
+| Angol | Magyar | Megjegyzés |
+|---|---|---|
+| Willpower | Akaraterő | Már használatban: `glosszarium/akaratero.md` |
+| Health | Életerő | Már használatban: `glosszarium/eletero-es-sebzes.md` |
+| Superficial Damage | Felületi sebzés | `eletero-es-sebzes.md` párja |
+| Aggravated Damage | Súlyos sebzés | `eletero-es-sebzes.md` párja |
+| Torpor | Kábulat | A vámpírok kényszerű hibernációs állapota |
+| Final Death | Végső Halál | A vámpír valódi, visszafordíthatatlan halála |
+| Daysleep | Nappali álom | A nappali kényszerű alvás ténye (nem azonos a Torporral) |
+| Blush of Life | Élet Pírja | Discipline-mellékhatás, ami emberszerűvé teszi a vámpírt |
+| Vinculum | Vinculum | Fordítatlan, latin eredetű szakszó — a Vérkötelék egy szála |
+| Resonance | Rezonancia | A vér halandó-emberi "íze", ami Diszkráziát okozhat |
+| Dyscrasia | Diszkrázia | Rezonancia-többlet mellékhatása |
+| Kine | Kine | Fordítatlan — vámpír szleng a halandókra |
+| Vessel | Edény | A vérszerzés célpontja, "forrás" értelemben |
+| Scene | Jelenet | Játékmenet-egység |
+| Session | Játékalkalom | Már használatban: `hogyan-kezdj.md` |
+| Blood Surge | Vérlökés | Rouse Check-kel aktivált ideiglenes Attribútum-bónusz |
+| Sire | Teremtő | Az a Vértestvér, aki az Ölelést adta |
+| Childe | Gyermek | A Teremtő által Ölelt új Vértestvér |
+| Progeny | Utód | Gyűjtőfogalom egy Teremtő összes Gyermekére |
+| Fledgling | Fiók | Generációs rang — a legfiatalabb Vértestvérek |
+| Neonate | Neonátus | Generációs rang, Fiók után |
+| Ancilla | Ancilla | Fordítatlan — generációs rang, Neonátus és Öreg között |
+| Methuselah | Methuselah | Fordítatlan — rendkívül idős Vértestvér rangja |
+| Antediluvian | Antediluvianus | Fordítatlan — a klánalapító, özönvíz előtti vámpírok rangja |
+| Bloodline | Vérvonal | Már használatban: `bloodline-ok.md` |
+| Masquerade Breach | Maszkabál-szegés | A Maszkabál megszegésének ténye/esete |
+| Feeding | Táplálkozás | Általános gyűjtőfogalom a vérszerzésre |
+| Hunting | Vérszerzés | Már használatban: `predator-tipus.md` |
 
 ## Alapmechanika (Dobásrendszer)
 

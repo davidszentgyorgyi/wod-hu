@@ -66,6 +66,8 @@ Egy karakter alapvetően ebből áll össze:
    ezek az Attribútumaidból számolt kiegészítő értékek.
 6. **[Előnyök és Hátrányok](vampire-a-maszkabal/elonyok-es-hatranyok.md)** — apróbb részletek:
    kinézet, kapcsolatok, fészek, és egyéb finomítások.
+7. **[Kapaszkodók és Hitvallások](vampire-a-maszkabal/kapaszkodok-es-hitvallasok.md)** — a
+   karakter emberi kötődései, amik az Emberségét tartják fenn.
 
 Ezt a lépéssort a Mesélőd jellemzően végigvezeti veled az első alkalommal — nem kell egyedül
 kitalálnod.
