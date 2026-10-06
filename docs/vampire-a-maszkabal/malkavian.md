@@ -32,6 +32,9 @@ viselkedését és döntéseit.
 
 A Malkavian a Kamarilla egyik tagklánja.
 
+A klán egyik legismertebb modern alakja **[a Voerman Nővérek](voerman-nover.md)** — egy
+testben élő két tudat, Santa Monica Bárói.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Malkavian szócikkének](https://whitewolf.fandom.com/wiki/Malkavian_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.

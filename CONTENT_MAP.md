@@ -133,6 +133,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 37 | Karl Schrekt, Tremere Justicar NPC | ✅ Kész | `docs/vampire-a-maszkabal/karl-schrekt.md` |
 | 38 | Theo Bell, Brujah Archon NPC | ✅ Kész | `docs/vampire-a-maszkabal/theo-bell.md` |
 | 39 | Carna, Tremere-ellenes NPC | ✅ Kész | `docs/vampire-a-maszkabal/carna.md` |
+| 40 | A Voerman Nővérek, Malkavian NPC-pár | ✅ Kész | `docs/vampire-a-maszkabal/voerman-nover.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
