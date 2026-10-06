@@ -19,6 +19,13 @@ Mennyből, és a Teremtés előtti idők óta a Föld alatti Pokolban szenvedtek
 visszatérhettek, mindegyiküknek döntenie kell: bosszút állnak az emberiségen, próbálnak
 megváltást találni, vagy valahol a kettő között keresik a helyüket.
 
+## Faj és Torzult Forma
+
+Minden Bukott egy bizonyos angyali "fajhoz" (House) tartozik, amely meghatározza jellemző
+erejét és szakterületét (pl. háború, csábítás, tudás). Erős emóciók vagy végveszély hatására
+egy Bukott képes **Torzult Formát** (Apocalyptic Form) felvenni — valódi, démoni alakját,
+amely hatalmas erőt ad, de egyúttal leleplezi a halandó világ előtt, hogy mi is valójában.
+
 ## Viszonyuk a többi természetfeletti lényhez
 
 A Bukottak ereje és céljai gyakran összeütközésbe kerülnek más World of Darkness lényekkel —
