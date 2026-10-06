@@ -38,4 +38,4 @@ klán kiszorításával nyerte el a klán-státuszt az elmúlt évezredben.
     listában nem szerepel a fő 13 között.
 
 Lásd még: [Kamarilla](kamarilla.md) · [Szabbat](szabbat.md) · [Anarch Mozgalom](anarch.md) ·
-[Diszciplínák](diszciplinak.md).
+[Diszciplínák](diszciplinak.md) · [Magas Klánok és Alacsony Klánok](magas-klanok.md).

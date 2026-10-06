@@ -140,6 +140,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 44 | Carmelita Neillson, Toreador NPC | ✅ Kész | `docs/vampire-a-maszkabal/carmelita-neillson.md` |
 | 45 | Fiorenza Savona, Ventrue NPC | ✅ Kész | `docs/vampire-a-maszkabal/fiorenza-savona.md` |
 | 46 | Golconda, mitikus megvilágosodási állapot | ✅ Kész | `docs/vampire-a-maszkabal/golconda.md` |
+| 47 | Magas Klánok és Alacsony Klánok (High/Low Clan) | ✅ Kész | `docs/vampire-a-maszkabal/magas-klanok.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
