@@ -32,6 +32,9 @@ sikerül elrejtőzniük vagy álcázniuk magukat.
 A Nosferatu a Kamarilla tagja, de a klán inkább a háttérből, információs hatalmon keresztül
 működik, mint nyílt politikai szerepvállalással.
 
+A klán egyik legbefolyásosabb, sosem mutatkozó alakja **[Ambrus Maropis](ambrus-maropis.md)**,
+a Kamarilla informális digitális biztonsági guruja.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Nosferatu szócikkének](https://whitewolf.fandom.com/wiki/Nosferatu_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.

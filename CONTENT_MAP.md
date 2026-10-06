@@ -136,6 +136,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 40 | A Voerman Nővérek, Malkavian NPC-pár | ✅ Kész | `docs/vampire-a-maszkabal/voerman-nover.md` |
 | 41 | A Tömegrohajárások Hete (Week of Nightmares), történelmi esemény | ✅ Kész | `docs/vampire-a-maszkabal/tomegrohajarasok-hete.md` |
 | 42 | Rudi, Gangrel Anarch NPC | ✅ Kész | `docs/vampire-a-maszkabal/rudi.md` |
+| 43 | Ambrus Maropis, Nosferatu NPC | ✅ Kész | `docs/vampire-a-maszkabal/ambrus-maropis.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
