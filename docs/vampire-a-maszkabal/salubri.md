@@ -33,6 +33,9 @@ tagsága, bár elszórt tagjaik mindkét szektában előfordulhatnak.
     öröksége és elszórt túlélői továbbra is léteznek, ezért önálló cikke van, de a
     [Klánok](klanok.md) áttekintő listájában nem szerepel a fő 13 között.
 
+A klán alapítója, Saulot, legendásan elérte a **[Golcondát](golconda.md)** — ezért a klán
+öröksége és a Golconda tanítása szorosan összekapcsolódik a vámpírok történelmében.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Salubri szócikkének](https://whitewolf.fandom.com/wiki/Salubri)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
