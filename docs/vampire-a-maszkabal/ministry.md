@@ -33,6 +33,9 @@ Obfuscate ([Rejtőzés](diszciplina-rejtozes.md)), Presence ([Jelenlét](diszcip
 Hagyományosan független klán, de a klán nagy része az 5. kiadás idejére az Anarch Mozgalomhoz
 csatlakozott.
 
+A klán jellemző Diszciplínája a **[Serpentis](serpentis.md)** — alakváltó és korrupciós
+kígyó-hatalom.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com The Ministry szócikkének](https://whitewolf.fandom.com/wiki/The_Ministry)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.

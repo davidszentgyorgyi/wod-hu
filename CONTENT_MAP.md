@@ -176,6 +176,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 80 | Obtenebration, Lasombra árny-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/obtenebration.md` |
 | 81 | Koldunikus Boszorkányság, ősi Tzimisce föld-mágia | ✅ Kész | `docs/vampire-a-maszkabal/koldunikus-boszorkanysag.md` |
 | 82 | Nekromancia, Hecata holtak-mágiája | ✅ Kész | `docs/vampire-a-maszkabal/nekromancia.md` |
+| 83 | Serpentis, Ministry kígyó-hatalma | ✅ Kész | `docs/vampire-a-maszkabal/serpentis.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
