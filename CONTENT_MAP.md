@@ -172,6 +172,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 76 | Vérűzés (Blood Hunt), Kamarilla nyílt üldözés | ✅ Kész | `docs/vampire-a-maszkabal/veruzes.md` |
 | 77 | Vicissitude, Tzimisce húsformáló hatalma | ✅ Kész | `docs/vampire-a-maszkabal/vicissitude.md` |
 | 78 | Dementation, Malkavian őrület-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/dementation.md` |
+| 79 | Quietus, Banu Haqim vér feletti hatalma | ✅ Kész | `docs/vampire-a-maszkabal/quietus.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
