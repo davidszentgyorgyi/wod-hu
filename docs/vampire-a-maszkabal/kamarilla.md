@@ -75,6 +75,9 @@ belépett a Kamarillába.
 A Kamarilla mai struktúráját (Justicarok, Archonok, Hagyományok) a [Thorns-i
 Egyezmény](thorni-egyezmeny.md) alapozta meg, 1493-ban.
 
+Minden Kamarilla-irányítású városban van egy **[Elysium](elysium.md)** — a Vértestvérek
+neutrális, erőszak-mentes találkozóhelye.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Camarilla (VTM) szócikkének](https://whitewolf.fandom.com/wiki/Camarilla_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt. A terminológia forrása:
