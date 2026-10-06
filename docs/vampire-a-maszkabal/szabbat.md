@@ -78,6 +78,9 @@ A Szabbaton belül több **irányzat** (faction) létezik, amelyek a szekta jöv
 A Szabbat Inkvizíciója a szektán belüli eretnekséget (pl. Infernalizmust) üldözi, míg a **Fekete
 Kéz** (Black Hand) egy félig önálló, katonai szárnyként működik.
 
+Sok Szabbat-tag az Emberség helyett [A Megvilágosodás egy Útját](megvilagosodas-utjai.md)
+követi, saját, nem-emberi erkölcsi logikával.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Sabbat szócikkének](https://whitewolf.fandom.com/wiki/Sabbat)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt. A terminológia forrása:

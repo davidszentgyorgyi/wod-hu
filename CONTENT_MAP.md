@@ -122,6 +122,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 26 | Anarch Forradalom (Anarch Revolt), történelmi esemény | ✅ Kész | `docs/vampire-a-maszkabal/anarch-forradalom.md` |
 | 27 | Thorns-i Egyezmény (Convention of Thorns), történelmi esemény | ✅ Kész | `docs/vampire-a-maszkabal/thorni-egyezmeny.md` |
 | 28 | A Hat Hagyomány (Kamarilla Traditions) részletes cikk | ✅ Kész | `docs/vampire-a-maszkabal/hagyomanyok.md` |
+| 29 | A Megvilágosodás Útjai (Paths of Enlightenment) | ✅ Kész | `docs/vampire-a-maszkabal/megvilagosodas-utjai.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
