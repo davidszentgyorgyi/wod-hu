@@ -152,6 +152,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 56 | Vérpotenciál (Blood Potency) részletes cikk | ✅ Kész | `docs/vampire-a-maszkabal/verpotencial.md` |
 | 57 | Élet Pírja (Blush of Life) mellékhatás | ✅ Kész | `docs/vampire-a-maszkabal/elet-pirja.md` |
 | 58 | Fekete Kéz (Black Hand), Szabbat katonai rend | ✅ Kész | `docs/vampire-a-maszkabal/fekete-kez.md` |
+| 59 | Inconnu, titkos szekta | ✅ Kész | `docs/vampire-a-maszkabal/inconnu.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

@@ -23,7 +23,8 @@ tudása nagyrészt elveszett, és a mai Vértestvérek többsége puszta mítosz
 ## Az út
 
 A Golconda elérésének módja homályos — a kevés fennmaradt forrás szerint a karakternek
-előbb meg kell találnia egy ritka, nehezen elérhető tanítót (gyakran egy Inconnu-t), majd
+előbb meg kell találnia egy ritka, nehezen elérhető tanítót (gyakran egy
+[Inconnu](inconnu.md)-t), majd
 hosszú időn át vissza kell szereznie Emberségét, és valódi megbánást kell mutatnia korábbi
 tettei miatt. A hagyomány szerint a Golconda eléréséhez a karakternek magas Emberséget kell
 fenntartania — a Megvilágosodás Útjai általában nem vezetnek el hozzá.
