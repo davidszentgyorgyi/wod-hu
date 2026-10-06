@@ -35,7 +35,6 @@ theme:
         icon: material/weather-sunny
         name: Váltás sötét módra
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.top
     - navigation.indexes
