@@ -17,6 +17,15 @@ A két Udvar hatalma az évszakok váltásával mozog — hagyományosan a Seeli
 az Unseelie Udvar ősztől tavaszig uralja a tündérpolitikát, bár ez modern korban sok helyen már
 kevésbé szigorúan érvényesül.
 
+## Nem jó és rossz
+
+Fontos leszögezni: a Seelie és Unseelie megnevezés nem jelent erkölcsi "jó" és "rossz"
+felosztást — inkább két eltérő értékrendet. A Seelie híve becsületesnek, nyíltnak és
+hűségesnek próbál lenni, míg az Unseelie híve a szabadságot, a szenvedélyt és a saját akarat
+követését helyezi előtérbe, akár a hagyomány felrúgása árán is. Egy Kithain élete során akár
+váltogathatja is Udvar-hűségét, ha belső értékrendje megváltozik — ez komoly, akár
+drámai társadalmi következményekkel járhat a tündérközösségben.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Seelie és Unseelie Court szócikkeinek](https://whitewolf.fandom.com/wiki/Seelie_Court)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
