@@ -338,7 +338,7 @@ hozzá. A konkrét típusneveket ugyanúgy fordítatlanul, tulajdonnévként hag
 | Success | Siker | Döntés, nincs közvetlen forrás | Közvetlen, egyértelmű fordítás |
 | Difficulty | Nehézség | Döntés, nincs közvetlen forrás | Közvetlen, egyértelmű fordítás |
 | Critical success | Kritikus siker | Döntés, nincs közvetlen forrás | Közvetlen fordítás, konzisztens a "Messy Critical" megerősített alakjával |
-| Bestial Failure | *(nincs rögzítve)* | **Nyitott** | Lásd lent — nem találtunk forrást |
+| Bestial Failure | Bestiális kudarc | Döntés, nincs közvetlen forrás | Közvetlen fordítás, konzisztens a "Messy Critical" → "Piszkos kritikus siker" megerősített mintájával |
 
 ## Még nyitott / tisztázandó terminusok
 
@@ -346,8 +346,6 @@ Ezeket a hivatalos kiadásból vagy közösségi forrásból **nem sikerült meg
 hozzáfér a nyomtatott könyvhöz vagy a beleolvasó PDF-hez, kérünk, nyisson egy `terminológia` Issue-t
 a megerősítéshez:
 
-- Bestial Failure (teljes kudarc Éhség-kockán dobott 1-essel) — nincs forrás, nincs javaslat sem.
-- Mortal — valószínűleg "halandó", nincs közvetlen forrás.
 - A Hunter: The Reckoning és Demon: The Fallen mélyebb fogalmai (Imbue, Edges, Creed, Faction,
   Lore, Torment) — csak a kreatúra-nevek (Vadász, Bukott) megerősítettek, a mélyebb mechanika
   nem forrásolt.

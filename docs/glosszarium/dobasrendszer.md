@@ -27,19 +27,15 @@ különleges szabályokat hoznak:
 - **Kritikus siker**: ha két 10-es jön ki a dobásban, az 4 sikert ad (a szokásos 2 helyett).
 - **Piszkos kritikus siker** (Messy Critical): ha a kritikus sikerben Éhség-kocka is 10-est mutat,
   a cselekedet sikerül, de egy vérszomjas, kontrollvesztéssel járó szövődmény kíséri.
-- Ha a dobás **nem** ér el elég sikert, és egy Éhség-kockán 1-es van, a karakter különösen súlyos,
-  bestiális kudarcot szenved (a magyar terminus ide még nincs megerősítve, lásd lejjebb).
+- Ha a dobás **nem** ér el elég sikert, és egy Éhség-kockán 1-es van, a karakter
+  **Bestiális kudarcot** (Bestial Failure) szenved — a sikertelenség mellé a Bestia valamilyen
+  durva, kontrollálhatatlan megnyilvánulása is társul.
 
 ## Éhségpróba (Rouse Check)
 
 Az **Éhségpróba** egyetlen d10 dobása, amit a karakter bizonyos képességek használatakor vagy
 egyszerű túléléshez végez. Siker (6+) esetén nem történik semmi; kudarc esetén a karakter Éhsége
 egy szinttel nő.
-
-!!! warning "Nyitott terminológia"
-    A "Bestial Failure" (teljes, bestiális kudarc) magyar fordítása még nincs megerősítve közösségi
-    forrásból — lásd [TERMINOLOGY.md](https://github.com/davidszentgyorgyi/wod-hu/blob/main/TERMINOLOGY.md)
-    nyitott kérdések szekcióját.
 
 !!! info "Forrás"
     Ez a cikk a Vampire: The Masquerade 5th Edition nyilvánosan dokumentált alapszabályainak magyar
