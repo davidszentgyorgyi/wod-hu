@@ -13,9 +13,26 @@ dimenzióba, ahol szellemekkel (totemekkel, Wyrm-szolgákkal, és egyéb entitá
 
 ## Rétegei
 
-Az Umbra több rétegből áll, a materiális világhoz közeli **Közeli Umbrától** (Near Umbra) az
-egyre egzotikusabb, távolabbi régiókig. A két világ közötti "árnyékhatárt" **Gauntlet**-nek
-nevezik — ennek vastagsága helyszínről helyszínre változik.
+Az Umbra nem egyetlen, egységes hely, hanem egymásba ágyazott rétegek rendszere:
+
+- **Penumbra** — a Föld "árnyékmása", ahol minden materiális helynek megvan a szellemi
+  tükörképe is; a leggyakrabban megjárt réteg.
+- **Közeli Umbra** (Near Umbra) — a Penumbrától kifelé terjedő, de még a Föld "hatáskörén"
+  belüli régiók.
+- **Mély Umbra** (Deep Umbra) — a bolygón túli, egzotikus, kevésbé feltérképezett
+  tartományok.
+
+A másik nagy World of Darkness-vonalak saját neveket használnak a materiális világra és a
+Gauntlet mögötti rétegekre: a [Wraith](../wraith-a-feledes/index.md) karakterek számára ez a
+**Shroud**, a mágusok pedig az Astral Plane-ről beszélnek — mindegyik ugyanannak a
+kozmológiának más nézőpontból látott szelete.
+
+## Gauntlet — a határ a két világ között
+
+A két világ közötti "árnyékhatárt" **Gauntlet**-nek nevezik — ennek vastagsága helyszínről
+helyszínre változik. Egy kísértetjárta temetőben vagy érintetlen vadonban a Gauntlet
+vékonyabb, könnyebben átléphető; egy laboratóriumban vagy bevásárlóközpontban jóval
+vastagabb. A Garou, aki átlép a Gauntleten, "oldalra lép" (step sideways) a szellemvilágba.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Umbra szócikkének](https://whitewolf.fandom.com/wiki/Umbra)
