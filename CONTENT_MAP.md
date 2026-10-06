@@ -145,6 +145,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 49 | Antedeluviánusok, a 13 klán alapítói | ✅ Kész | `docs/vampire-a-maszkabal/antedeluvianusok.md` |
 | 50 | A Hívás (The Beckoning) mechanika | ✅ Kész | `docs/vampire-a-maszkabal/hivas.md` |
 | 51 | Falka (Pack), Szabbat társadalmi egység | ✅ Kész | `docs/vampire-a-maszkabal/falka.md` |
+| 52 | Monomacy, Szabbat párbaj-rituálé | ✅ Kész | `docs/vampire-a-maszkabal/monomacy.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

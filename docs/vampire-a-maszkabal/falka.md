@@ -26,6 +26,9 @@ világi, taktikai ügyeket irányítja.
 - **Kamut** — kizárólag Fekete Kéz tagokból álló, jellemzően rövid életű, egy konkrét
   küldetésre összeálló Falka; a tartósan együtt maradó kamutot "column"-nak hívják.
 
+Egy Falkán belüli, feloldhatatlan sérelmet gyakran **[Monomacy](monomacy.md)**-val, szent
+párbajjal oldanak meg.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Pack (VTM) szócikkének](https://whitewolf.fandom.com/wiki/Pack_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
