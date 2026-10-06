@@ -18,6 +18,14 @@ A Vadászok nem választják a szerepüket — egy **Üzenet** (Imbue) nevű pil
 magasabb erő (gyakran egy angyalszerű entitás) ébreszti fel bennük a képességet, hogy lássák
 és leküzdjék a természetfelettit. Ezután már nem tudnak visszatérni a tudatlanság állapotába.
 
+## Edge-ek és Creed-ek
+
+Az Üzenet nem csak látást ad — a Vadászok **Edge**-nek nevezett, korlátozott
+természetfeletti képességekkel is felruházódnak, amivel kompenzálhatják, hogy halandó
+testben kell szembenézniük szörnyekkel. A Vadászokat tovább csoportosítja a **Creed** —
+egy archetipikus hivatás-szerep (pl. védelmező, bosszúálló, mártír), amely meghatározza,
+milyen Edge-eket fejleszthetnek, és milyen belső hajtóerő mozgatja a harcukat.
+
 ## Kapcsolat a Második Inkvizícióval
 
 A Vadászok tevékenysége rokon a [Második Inkvizícióéval](../vampire-a-maszkabal/masodik-inkvizicio.md),
