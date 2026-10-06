@@ -18,7 +18,7 @@ jelenet erejéig.
 Az Élet Pírja gyakorlati szempontból létfontosságú lehet olyan helyzetekben, ahol a
 karakternek embernek kell látszania — orvosi vizsgálaton, közeli, intim kapcsolatban, vagy
 egyszerűen azért, hogy a Maszkabál ne sérüljön egy véletlen érintés során. Ára van: a
-karakternek vért kell "feláldoznia" rá (Rouse Check vagy hasonló mechanika formájában), és a
+karakternek vért kell "feláldoznia" rá (egy Éhségpróba vagy hasonló mechanika formájában), és a
 hatás csak ideiglenes.
 
 !!! info "Forrás és licenc"
