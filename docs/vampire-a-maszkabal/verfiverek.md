@@ -15,7 +15,8 @@ kántoriumokban.
 
 ## Jellemzők
 
-A Vérfivérek egy "körön" (circle) belül megosztott tudattal rendelkeznek — valódi
+A Vérfivérek egyedi Diszciplínája a **[Sanguinus](sanguinus.md)**, amely egy "körön"
+(circle) belül megosztott tudatot ad tagjainak — valódi
 csoport-elmeként működnek a saját körükkel, miközben a körön kívüli Vértestvérekkel semmilyen
 hasonló kapcsolatuk nincs. A Tzimisce gyakran testükben is azonossá formálja egy kör tagjait,
 ami kifelé is kifejezi egyéniségük hiányát.

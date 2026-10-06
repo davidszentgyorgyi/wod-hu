@@ -182,6 +182,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 86 | Mortis, Cappadocian halál-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/mortis.md` |
 | 87 | Striga, infernalista boszorkány-Diszciplína | ✅ Kész | `docs/vampire-a-maszkabal/striga.md` |
 | 88 | Nihilistics, Nagaraja Fátyol-áthatoló Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/nihilistics.md` |
+| 89 | Sanguinus, Vérfivérek megosztott test-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/sanguinus.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
