@@ -11,8 +11,9 @@ helyette. Új, még nem szereplő fogalom esetén nyiss egy `terminológia` Issu
 
 ## Miért ezek a fordítások?
 
-A World of Darkness-nek **van hivatalos magyar kiadása**: a **[Delta Vision](https://www.deltavision.hu)**
-kiadó jelentette meg *"Vámpír: A Maszkabál"* címmel (Revised, 2010; 5. kiadás, 2023). Ahol lehetett,
+A World of Darkness-nek **van hivatalos magyar kiadása, de csak a Vampire-vonalhoz**: "Vámpír: A
+Maszkabál" címmel jelent meg először **1999-ben a Benefícium** kiadónál (Revised), majd újra a
+**[Delta Vision](https://www.deltavision.hu)**-nál (Revised, 2010; 5. kiadás, 2023). Ahol lehetett,
 ebből a hivatalos fordításból indultunk ki, nem saját/kitalált megoldásból — ez a konzisztencia és a
 hitelesség miatt fontos.
 
@@ -20,6 +21,25 @@ Ahol a hivatalos kiadás szövege nem volt közvetlenül elérhető kutatás sor
 (lfg.hu, radavit.blogspot.com) olyan recenzióit használtuk forrásként, amelyek szó szerint idézik a
 hivatalos magyar fordítást — ezek a források egymástól függetlenül, egyezően adták vissza a
 terminusokat, ami megerősíti a megbízhatóságukat.
+
+## Játékvilág-cím fordítások — mi a valódi könyvcím, mi a saját munkafordítás?
+
+**Fontos, átlátható megkülönböztetés**: a [Magyar nyelven megjelent szerepjátékok listája
+(Wikipédia)](https://hu.wikipedia.org/wiki/Magyar_nyelven_megjelent_szerepj%C3%A1t%C3%A9kok_list%C3%A1ja)
+szerint **kizárólag a Vampire: The Masquerade-nek van hivatalos magyar kiadása** — a Werewolf,
+Mage, Wraith, Changeling, Hunter és Demon vonalaknak **sosem jelent meg magyar kiadása**. Ezek
+cím-fordításai tehát **saját munkafordításaink, nem valódi, kiadott könyvcímek** — ezt minden
+cikkben jelezzük a "Terminológia megjegyzés" admonitionnal, de itt egy helyen is összegyűjtve:
+
+| Angol cím | Magyar fordításunk | Hivatalos kiadás? |
+|---|---|---|
+| Vampire: The Masquerade | Vámpír: A Maszkabál | **Igen** — Benefícium (1999), Delta Vision (2010, 2023) |
+| Werewolf: The Apocalypse | Vérfarkas: Az Apokalipszis | Nincs — munkafordítás |
+| Mage: The Ascension | Mágus: A Felemelkedés | Nincs — munkafordítás. **Javítva**: korábban hibásan "Az Eksztázis"-t használtunk ("ecstasy"), de az "Ascension" jelentése "felemelkedés", nem "eksztázis" — ez egy valódi fordítási hibánk volt, 2026-10-06-án javítva. |
+| Wraith: The Oblivion | Lidérc: A Feledés | Nincs — munkafordítás |
+| Changeling: The Dreaming | Tündér: Az Álmok | Nincs — munkafordítás. Megjegyzés: a "Dreaming" szót itt "Álmok"-nak fordítjuk, de a `dreaming-hely.md` cikkben magát a helyet (Dreaming, a tündék otthona) tudatosan fordítatlanul hagyjuk, tulajdonnévként — ez szándékos, nem hiba, de érdemes észben tartani, hogy a cím és a hely-név különböző kezelést kap. |
+| Hunter: The Reckoning | Hunter: A Leszámolás | Nincs — munkafordítás |
+| Demon: The Fallen | Demon: A Bukottak | Nincs — munkafordítás |
 
 ## Alapfogalmak
 

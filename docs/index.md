@@ -22,11 +22,11 @@ közösségi fordítását és leírását gyűjti egy helyre.
 
 <!-- STATS:END -->
 
-## Fő játékvilágok
+## Játékvilágok
 
 - **[Vampire: A Maszkabál](vampire-a-maszkabal/index.md)** — vámpírklánok, a Maszkabál szabálya, Kamarilla és Szabbat.
 - **[Werewolf: Az Apokalipszis](werewolf-az-apokalipszis/index.md)** — vérfarkas-törzsek, Gaia harcosai, a Wyrm ellen.
-- **[Mage: Az Eksztázis](mage-az-eksztazis/index.md)** — mágusrendek, a valóság megváltoztatásának tudománya.
+- **[Mage: A Felemelkedés](mage-az-eksztazis/index.md)** — mágusrendek, a valóság megváltoztatásának tudománya.
 - **[Wraith: A Feledés](wraith-a-feledes/index.md)** — a holtak birodalma, az Árnyék és a Labirintus.
 - **[Changeling: Az Álmok](changeling-az-almok/index.md)** — tündérek emberi testben, a Banalitás ellensége.
 - **[Hunter: A Leszámolás](hunter-a-leszamolas/index.md)** — halandó Vadászok a természetfeletti ellen.

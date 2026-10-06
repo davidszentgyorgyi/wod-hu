@@ -1,4 +1,4 @@
-# Tartalom feltérképezés — forrás wiki
+﻿# Tartalom feltérképezés — forrás wiki
 
 Utolsó frissítés: 2026-10-06
 
@@ -151,7 +151,7 @@ A többi négy játékvilághoz is elkészült egy első kör alapfogalom-cikk, 
 | Játékvilág | Cikkek |
 |---|---|
 | Werewolf: Az Apokalipszis | Garou, Törzsek, Gaia, A Wyrm, Ajándékok, Rage, Umbra |
-| Mage: Az Eksztázis | Mágusrendek, Szférák, Paradox, Arete, Technokrácia, Avatar |
+| Mage: A Felemelkedés | Mágusrendek, Szférák, Paradox, Arete, Technokrácia, Avatar |
 | Wraith: A Feledés | Árnyék, Labirintus, Legiók, Kötelékek és Szenvedélyek |
 | Changeling: Az Álmok | Kith, Banalitás, Glamour, Seelie/Unseelie Udvarok |
 
@@ -176,7 +176,7 @@ antitribu) is önálló cikket kapott.
 | Játékvilág | Új cikkek |
 |---|---|
 | Werewolf: Az Apokalipszis | Auspice-ok, Totem, Kinfolk, Litánia, Delirium, Wyld, Black Spiral Dancers |
-| Mage: Az Eksztázis | Ébredés, Konszenzus, Quintessence, Node, Marginálisok, Nephandik, Rote |
+| Mage: A Felemelkedés | Ébredés, Konszenzus, Quintessence, Node, Marginálisok, Nephandik, Rote |
 | Wraith: A Feledés | Arcanoi, Pathos/Corpus/Angst, Céhek, Risen, Spectre, Renegátok |
 | Changeling: Az Álmok | Chimera, Dreaming, Autumn People, Nemesi Házak, Redcap, Nunnehi |
 | Vampire: A Maszkabál | True Brujah, Baali, Gargoyle-ok, Salubri antitribu |

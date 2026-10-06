@@ -1,13 +1,13 @@
----
-title: "Mage: Az Eksztázis — mágusrendek, valóságformálás"
+﻿---
+title: "Mage: A Felemelkedés — mágusrendek, valóságformálás"
 description: >-
-  A Mage: The Ascension (Mágus: Az Eksztázis) magyar nyelvű áttekintése — mágusrendek
+  A Mage: The Ascension (Mágus: A Felemelkedés) magyar nyelvű áttekintése — mágusrendek
   (Traditions), a valóság megváltoztatásának tudománya és filozófiája.
 ---
 
-# Mage: Az Eksztázis
+# Mage: A Felemelkedés
 
-A **Mage: The Ascension** (magyarul: *Mágus: Az Eksztázis*) játékvilágban a játékosok mágusokat
+A **Mage: The Ascension** (magyarul: *Mágus: A Felemelkedés*) játékvilágban a játékosok mágusokat
 irányítanak, akik hiedelmeik erejével képesek megváltoztatni a valóság szabályait.
 
 ## Fő cikkek
