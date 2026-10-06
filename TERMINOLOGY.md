@@ -198,8 +198,8 @@ jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/V
 | Health | Életerő | Már használatban: `glosszarium/eletero-es-sebzes.md` |
 | Superficial Damage | Felületi sebzés | `eletero-es-sebzes.md` párja |
 | Aggravated Damage | Súlyos sebzés | `eletero-es-sebzes.md` párja |
-| Torpor | Kábulat | A vámpírok kényszerű hibernációs állapota |
-| Final Death | Végső Halál | A vámpír valódi, visszafordíthatatlan halála |
+| Torpor | Torpor *(fordítatlan)* | Már használatban: `glosszarium/eletero-es-sebzes.md` — a vámpírok kényszerű hibernációs állapota |
+| Final Death | Végleges Halál | Már használatban: `glosszarium/eletero-es-sebzes.md` — a vámpír valódi, visszafordíthatatlan halála |
 | Daysleep | Nappali álom | A nappali kényszerű alvás ténye (nem azonos a Torporral) |
 | Blush of Life | Élet Pírja | Discipline-mellékhatás, ami emberszerűvé teszi a vámpírt |
 | Vinculum | Vinculum | Fordítatlan, latin eredetű szakszó — a Vérkötelék egy szála |
