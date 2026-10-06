@@ -27,8 +27,8 @@ hosszú távon a [Szabbat](szabbat.md) is kinőtt.
 
 1493-ban, a [Thorns-i Egyezmény](thorni-egyezmeny.md) idején Patricia még egyszer próbát tett
 — ezúttal Hardestadt az Ifjabb ellen, de kudarcot szenvedett, és menekülnie kellett. A dél-
-amerikai Cartagenában a methuselah Helena rátalált, és évtizedekig tartó manipulációval végül
-Vérkötelékbe kényszerítette. Amikor a Kamarilla nyomára bukkant Cartagenában, az angol
+amerikai Cartagenában a methuselah [Helena](helena.md) rátalált, és évtizedekig tartó
+manipulációval végül Vérkötelékbe kényszerítette. Amikor a Kamarilla nyomára bukkant Cartagenában, az angol
 gyarmatokra, majd a 20. század elején Chicagóba menekült — itt vette fel korábbi halandó
 szeretője után a "Tyler" nevet, azt hitte, senki sem ismeri régi, Szabbat-alapító múltját.
 

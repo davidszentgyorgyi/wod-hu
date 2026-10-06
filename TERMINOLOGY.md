@@ -232,6 +232,7 @@ jelöléssel vesszük fel, konzisztensen a már meglévő Akaraterő/Életerő/V
 | Accounting (Tradition) | Elszámolás | Kamarilla-Hagyomány: a Teremtő felel Gyermekei tetteiért |
 | Hospitality (Tradition) | Vendéglátás | Kamarilla-Hagyomány: idegennek be kell mutatkoznia a Hercegnél |
 | Destruction (Tradition) | Pusztítás | Kamarilla-Hagyomány: csak Herceg-i engedéllyel szabad Diablériát vagy Végleges Halált végrehajtani |
+| The Beckoning | A Hívás | V5-specifikus jelenség: a legősibb vének misztikus hívást érzenek dél felé, és elhagyják a modern világot |
 | Masquerade Breach | Maszkabál-szegés | A Maszkabál megszegésének ténye/esete |
 | Feeding | Táplálkozás | Általános gyűjtőfogalom a vérszerzésre |
 | Hunting | Vérszerzés | Már használatban: `predator-tipus.md` |
