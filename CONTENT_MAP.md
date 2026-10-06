@@ -180,6 +180,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 84 | Daimonion, Baali pokoli Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/daimonion.md` |
 | 85 | Melpominee, Cacophony Lányai hang-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/melpominee.md` |
 | 86 | Mortis, Cappadocian halál-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/mortis.md` |
+| 87 | Striga, infernalista boszorkány-Diszciplína | ✅ Kész | `docs/vampire-a-maszkabal/striga.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
