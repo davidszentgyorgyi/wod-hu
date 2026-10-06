@@ -17,6 +17,8 @@ A folyamat két lépésből áll:
 
 1. **Lepárlás** — a Hígvérű saját vérét, megfelelő Rezonanciájú halandó vért, és a Formulától
    függő egyéb alapanyagokat kombinál, egy alkimista "kemence" (athanor) valamilyen formájában.
+   A felhasznált vér **[Rezonanciája](rezonancia.md)** határozza meg, melyik Formulák
+   készíthetők el belőle.
 2. **Aktiválás** — a kész főzetet megissza, és ezzel előhívja a Formula hatását.
 
 A lepárláshoz három módszer létezik: a saját test használata kemenceként (**Athanor
