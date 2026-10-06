@@ -11,6 +11,13 @@ A **Legiók** (Legions) a **[Labirintus](labirintus.md)** holtak birodalmának b
 hierarchikus kormányzati rendszere — a Lidércek társadalmát szervezik különböző funkciók
 (pl. igazságszolgáltatás, határőrség, archívum) szerint szétosztott csoportokba.
 
+## A Hierarchia
+
+A Legiók rendszerének összefoglaló neve a **Hierarchia** — egy piramis-szerű rangrendszer,
+aminek csúcsán a legbefolyásosabb vének állnak, és amely minden Lidérctől azt várja, hogy
+elfoglalja a kijelölt helyét és feladatát. Sokan ezt a hazai, halandó korukból ismert
+bürokrácia folytatásának, vagy éppen annak ironikus tükörképének élik meg.
+
 ## Hanyatlás
 
 A Legiók rendszere az idő múlásával egyre korruptabbá és működésképtelenebbé vált, ami sok
