@@ -8,7 +8,7 @@ description: >-
 # Justicar
 
 A **Justicarok** a [Kamarilla](kamarilla.md) legerősebb, nyilvánosan is ismert
-tisztviselői — a Belső Kör szemei, fülei és keze a világban, akik a
+tisztviselői — a **[Belső Kör](belso-kor.md)** szemei, fülei és keze a világban, akik a
 [Hagyományok](hagyomanyok.md) nagy horderejű megsértését ítélik el. Minden klánnak van
 egy saját Justicarja, akit [Archonok](archon.md) csapata segít — ezek a kémei, végrehajtói
 és képviselői szerte a világon.

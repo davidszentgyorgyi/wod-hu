@@ -162,6 +162,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 66 | Primogen, klán-képviselő tanács | ✅ Kész | `docs/vampire-a-maszkabal/primogen.md` |
 | 67 | Archon, Justicar megbízott ügynöke | ✅ Kész | `docs/vampire-a-maszkabal/archon.md` |
 | 68 | Justicar, Kamarilla legfélelmetesebb bírája | ✅ Kész | `docs/vampire-a-maszkabal/justicar.md` |
+| 69 | Belső Kör, Kamarilla rejtett irányító testülete | ✅ Kész | `docs/vampire-a-maszkabal/belso-kor.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
