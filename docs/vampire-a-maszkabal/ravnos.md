@@ -32,6 +32,9 @@ A Ravnos kényszeresen csalnak és hazudnak — ez beépült természetükbe, m�
 
 Független klán, nem tagja sem a Kamarillának, sem a Szabbatnak.
 
+A klán sorsát örökre megváltoztatta **[A Tömegrohajárások Hete](tomegrohajarasok-hete.md)** —
+az Antedeluvianusuk felébredése és halála, ami a tagság nagy részét elpusztította.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Ravnos szócikkének](https://whitewolf.fandom.com/wiki/Ravnos)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
