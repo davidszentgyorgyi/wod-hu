@@ -18,6 +18,21 @@ Egyes Ajándékok minden Garou számára elérhetők, mások kizárólag egy ado
 vagy egy adott **Auspice**-hoz (a Garou holdfázis szerinti "hivatásához", pl. Ahroun =
 harcos) kötöttek.
 
+## Rangok
+
+Az Ajándékok, a Diszciplínákhoz hasonlóan, 1–5 rangra oszlanak — egy fiatal Garou csak az
+alacsonyabb rangú Ajándékokat ismerheti, a legmagasabb rangúakat jellemzően csak a legidősebb,
+legtiszteltebb vének birtokolják. Minél magasabb egy Ajándék rangja, annál nagyobb erejű
+szellemmel kell kapcsolatba kerülnie a tanulni kívánó Garou-nak, és annál bonyolultabb,
+veszélyesebb lehet a tanító-rituálé is.
+
+## Hogyan tanulják
+
+A Garou nem könyvből vagy tanárból, hanem egy szellemmel való személyes találkozás és
+alkudozás révén tanul meg egy Ajándékot. A szellem gyakran próbát (küldetést, feladatot,
+áldozatot) kér a tanítás fejében — ez sokszor önmagában egy egész történet alapja lehet egy
+Krónikában.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Gift szócikkének](https://whitewolf.fandom.com/wiki/Gift)
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
