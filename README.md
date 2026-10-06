@@ -1,6 +1,6 @@
 ﻿# World of Darkness Wiki Magyarul
 
-[![Netlify Status](https://img.shields.io/badge/deploy-netlify-00C7B7)](https://wod-wiki-hu.netlify.app/)
+[![Netlify Status](https://img.shields.io/badge/deploy-netlify-00C7B7)](https://wod-hu.netlify.app/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/content-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 A **World of Darkness** (Vampire: The Masquerade, Werewolf: The Apocalypse, Mage: The Ascension
@@ -8,7 +8,7 @@ A **World of Darkness** (Vampire: The Masquerade, Werewolf: The Apocalypse, Mage
 [whitewolf.fandom.com](https://whitewolf.fandom.com) tartalmának strukturált, priorizált fordítása,
 amibe bárki csatlakozhat kontributorként.
 
-🔗 **Élő site:** https://wod-wiki-hu.netlify.app/ *(véglegesítés után cserélendő)*
+🔗 **Élő site:** https://wod-hu.netlify.app/
 
 ---
 

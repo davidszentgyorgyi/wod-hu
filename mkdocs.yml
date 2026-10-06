@@ -3,7 +3,7 @@ site_description: >-
   A World of Darkness (Vampire: The Masquerade, Werewolf: The Apocalypse, Mage: The Ascension
   és a többi WoD-játékvilág) közösségi, magyar nyelvű enciklopédiája. Klánok, diszciplínák,
   frakciók és alapfogalmak fordítása közösségi fordítók munkájával.
-site_url: https://wod-wiki-hu.netlify.app/ # cseréld le a végleges domainre, ha lesz saját
+site_url: https://wod-hu.netlify.app/
 site_author: WoD Wiki Magyar közösség
 repo_url: https://github.com/davidszentgyorgyi/wod-hu # TODO: tényleges repo URL beillesztése
 repo_name: WoD Wiki HU

@@ -27,4 +27,4 @@ Allow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://wod-wiki-hu.netlify.app/sitemap.xml
+Sitemap: https://wod-hu.netlify.app/sitemap.xml
