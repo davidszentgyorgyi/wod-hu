@@ -16,10 +16,18 @@ rendkívüli hatalmat ad nekik, egyúttal rendkívüli módon ki is szolgáltatj
 
 A legtöbb Antedeluviánus évszázadok, akár évezredek óta Kábulatban fekszik, elrejtve a
 világ elől — részben azért, mert annyira hatalmasak, hogy minden más Vértestvér fél a
-felébredésüktől, részben mert ők maguk is tartanak a saját Gyermekeik árulásától. Sok klán
-mítosza és félelme az Antedeluviánusa körül forog: a Tremere évszázadokig kutatta, hol
-rejtőzik a saját klánjuk alapítója, miközben rémálmai mindenkit elkerülnek, aki túl közel
-kerül az igazsághoz.
+felébredésüktől, részben mert ők maguk is tartanak a saját Gyermekeik árulásától. Egy
+Antedeluviánus számára a legnagyobb veszélyt pont azok jelentik, akiket ő maga teremtett:
+saját klánja legidősebb, legravaszabb tagjai, akik generációkon át várták a pillanatot,
+amikor elég erősek lesznek hozzá, hogy diablériával magukba szívják alapítójuk vérét és
+erejét. Ez a kölcsönös gyanakvás az egyik oka annak, hogy a legtöbb Antedeluviánus inkább a
+rejtőzést választja a nyílt uralom helyett.
+
+Sok klán mítosza és félelme az Antedeluviánusa körül forog: a [Tremere](tremere.md)
+évszázadokig kutatta, hol rejtőzik a saját klánjuk alapítója, miközben rémálmai mindenkit
+elkerülnek, aki túl közel kerül az igazsághoz — mintha magának az Antedeluviánusnak a tudata
+nyúlna ki, és törölné ki azt, ami a nyomára vezethetne. Más klánok, mint a
+[Ravnos](ravnos.md), már megtapasztalták, mi történik, ha ez a félelem valósággá válik.
 
 ## Kapcsolat a Gehennával
 

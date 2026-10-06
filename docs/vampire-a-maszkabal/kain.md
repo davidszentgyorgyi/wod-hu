@@ -37,7 +37,8 @@ tudatosan elfojtja vagy elpusztítja a rá vonatkozó szövegeket, hogy szkeptic
 fenn a modern Vértestvérek között.
 
 Közvetlen Gyermekei és korai leszármazottai váltak a 13 klán **[Antedeluviánus](antedeluvianusok.md)**
-alapítóivá.
+alapítóivá, akik közül a legidősebbek, a **[Methuselah-k](methuselah.md)**, a mai napig
+élő legendaként kísértik a vámpírtársaságot.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Caine szócikkének](https://whitewolf.fandom.com/wiki/Caine)
