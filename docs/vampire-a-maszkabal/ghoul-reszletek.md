@@ -27,6 +27,8 @@ A klánok különbözőképp bánnak Ghouljaikkal: a [Ventrue](ventrue.md) kiter
 formálva belőlük. Állatok is válhatnak Ghoullá — ezt főleg a [Nosferatu](nosferatu.md) és
 más Állatiasság-használók alkalmazzák, néha ijesztő, megváltozott lényeket létrehozva.
 
+Lásd még: [Vérbabák](ver-babak.md) — önként adott vér, Ghoul-státusz nélkül.
+
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Ghoul (VTM) szócikkének](https://whitewolf.fandom.com/wiki/Ghoul_(VTM))
     magyar nyelvű, rövidített adaptációja, **CC BY-SA** licenc alatt.
