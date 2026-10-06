@@ -51,8 +51,8 @@ Okkultizmus 1.
 
 - **Előny**: Vagyon 1 (a Ragadozó-típusból)
 - **Előny**: Kapcsolatok 2 (régi sajtó-kontaktjai)
-- **Hátrány**: Dark Secret — tudja, mit fényképezett le Ölelése éjszakáján, és ez veszélyes
-  titok.
+- **Hátrány**: Sötét Titok (Dark Secret) — tudja, mit fényképezett le Ölelése éjszakáján, és
+  ez veszélyes titok.
 
 ## Kapaszkodó és Hitvallás
 
