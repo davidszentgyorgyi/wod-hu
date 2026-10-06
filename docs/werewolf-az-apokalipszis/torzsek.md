@@ -7,7 +7,16 @@ description: >-
 # Törzsek
 
 A [Garou](garou.md) társadalom 13 **Törzsre** (Tribe) oszlik, mindegyiknek saját kultúrájával,
-filozófiájával és kapcsolatával Gaiához.
+filozófiájával és kapcsolatával Gaiához. A törzsi hovatartozás nem öröklődik automatikusan —
+egy fiatal Garou saját First Change-e (Első Változása) után, egy avatási szertartás
+keretében csatlakozik egy törzshöz, amely jellemzően illik a személyiségéhez és
+kultúrájához, de nem feltétlenül a vérvonalához.
+
+A törzsek közötti viszony sosem volt egységes: a Silver Fangs hagyományos vezető szerepe mára
+meggyengült, a Red Talons egyenesen megveti az emberi formát és az emberiséget, míg a
+Children of Gaia igyekszik békítő szerepet játszani a feszültségek között. Ez a belső
+sokszínűség és feszültség önmagában is bőséges forrása a Krónika-konfliktusoknak, a
+[Wyrm](wyrm.md) elleni közös harc mellett.
 
 | Törzs | Jellemzés |
 |---|---|
