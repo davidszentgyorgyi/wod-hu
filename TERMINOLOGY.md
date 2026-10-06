@@ -65,6 +65,9 @@ cikkben jelezzük a "Terminológia megjegyzés" admonitionnal, de itt egy helyen
 | Thin-Blooded | Hígvérű | Megerősített | lfg.hu + radavit |
 | Caitiff | Caitiff | Megerősített | radavit — fordítatlan, tulajdonnévként kezelve |
 | Elder | Öreg | Döntés, nincs közvetlen forrás | Közvetlen fordítás; használva a Kamarilla és Második Inkvizíció cikkekben |
+| Storyteller | Mesélő | Nagyon valószínű, de nem közvetlenül idézett forrás | Általánosan elterjedt magyar szerepjátékos szakszó (D&D, MAGUS, stb.) — hálózati hiba miatt nem tudtuk élőben ellenőrizni ehhez a projekthez, de a megbízhatóság magas |
+| Character sheet | Karakterlap | Megerősített | Általánosan használt, széles körben dokumentált magyar kifejezés |
+| Chronicle | Krónika | Döntés, nincs közvetlen forrás | Közvetlen, egyértelmű fordítás |
 | Prestation | Prestation | Döntés, nincs forrás | Kerestünk, nem találtunk se angol, se magyar forrásban — fordítatlan, tulajdonnévként kezelve |
 | Vaulderie | Vaulderie | Döntés, nincs forrás | Jelentése megerősített (angol forrásból), magyar fordítás nem — fordítatlan |
 | Jyhad | Jyhad | Döntés, nincs forrás | Jelentése megerősített (angol forrásból), magyar fordítás nem — fordítatlan |

@@ -15,12 +15,17 @@ közösségi fordítását és leírását gyűjti egy helyre.
 <!-- STATS:START -->
 
 !!! abstract "Fordítási állapot"
-    - **Kész cikkek:** 99
+    - **Kész cikkek:** 100
     - **Stúbok (bővítésre várnak):** 0
-    - **Összes cikk:** 99
+    - **Összes cikk:** 100
     - **Hiányzó célra mutató linkek:** 0
 
 <!-- STATS:END -->
+
+!!! tip "Új vagy itt?"
+    Ha most találkozol először a World of Darkness-szel, kezdd a
+    **[Hogyan kezdj neki?](hogyan-kezdj.md)** útmutatóval — lépésről lépésre elvezet odáig, hogy
+    megértsd és játszani tudd bármelyik játékvilágot.
 
 ## Játékvilágok
 
