@@ -1,15 +1,15 @@
----
-title: "Nemesi Házak — a Sidhe tündék arisztokrata családjai"
+﻿---
+title: "Nemesi Házak — a Sidhe tündérek arisztokrata családjai"
 description: >-
-  A Nemesi Házak (Noble Houses) a Changeling: The Dreaming Sidhe tündenemességének arisztokrata
+  A Nemesi Házak (Noble Houses) a Changeling: The Dreaming Sidhe tündérnemességének arisztokrata
   családi szervezetei.
 ---
 
 # Nemesi Házak
 
-A **Nemesi Házak** (Noble Houses) a **Sidhe** tündenemesség arisztokrata családi szervezetei —
+A **Nemesi Házak** (Noble Houses) a **Sidhe** tündérnemesség arisztokrata családi szervezetei —
 mindegyiknek saját színe, szimbóluma és politikai filozófiája van. A Házak folyamatos, gyakran
-feszült versengésben állnak egymással a tündepolitikai befolyásért.
+feszült versengésben állnak egymással a tündérpolitikai befolyásért.
 
 ## Kapcsolat az Udvarokkal
 

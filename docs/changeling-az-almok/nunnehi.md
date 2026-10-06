@@ -1,13 +1,13 @@
----
-title: "Nunnehi — az amerikai őslakos tündelények"
+﻿---
+title: "Nunnehi — az amerikai őslakos tündérlények"
 description: >-
-  A Nunnehi a Changeling: The Dreaming amerikai őslakos eredetű tündelényei, akik saját,
+  A Nunnehi a Changeling: The Dreaming amerikai őslakos eredetű tündérlényei, akik saját,
   Kithain-tól független hagyományt követnek.
 ---
 
 # Nunnehi
 
-A **Nunnehi** az amerikai őslakos (Native American) mitológiából eredő tündelények a
+A **Nunnehi** az amerikai őslakos (Native American) mitológiából eredő tündérlények a
 Changeling: The Dreaming-ben — saját, a hagyományos [Kithain](kith.md)-tól független
 eredettel, hagyományokkal és kapcsolattal a **[Dreaminghez](dreaming-hely.md)**.
 

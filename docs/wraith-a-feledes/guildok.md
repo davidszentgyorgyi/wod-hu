@@ -1,5 +1,5 @@
 ---
-title: "Céhek — a Wraith-ek szakmai testületei"
+title: "Céhek — a Lidércek szakmai testületei"
 description: >-
   A Céhek (Guilds) a Wraith: The Oblivion halott lelkeinek hagyományos szakmai testületei,
   amelyek az Arcanoi-képességeket tanítják és felügyelik.
@@ -7,12 +7,12 @@ description: >-
 
 # Céhek
 
-A **Céhek** (Guilds) a Wraith-ek hagyományos szakmai testületei — mindegyik egy adott
+A **Céhek** (Guilds) a Lidércek hagyományos szakmai testületei — mindegyik egy adott
 **[Arcanoi](arcanoi.md)**-csoport tanítását és felügyeletét tartotta fenn hagyományosan.
 
 ## Hanyatlásuk
 
-Az idők során a Céhek egyre kevésbé relevánsak a Wraith-ek életében, miközben a
+Az idők során a Céhek egyre kevésbé relevánsak a Lidércek életében, miközben a
 **[Legiók](legiok.md)** bürokratikus hatalma és a **Renegátok** szabadabb szerveződése egyre
 nagyobb szerepet kap.
 

@@ -1,27 +1,27 @@
----
-title: "Changeling: Az Álmok — tündék emberi testben"
+﻿---
+title: "Changeling: Az Álmok — tündérek emberi testben"
 description: >-
-  A Changeling: The Dreaming (Változó: Az Álmok) magyar nyelvű áttekintése — tündék (Kithain)
+  A Changeling: The Dreaming (Változó: Az Álmok) magyar nyelvű áttekintése — tündérek (Kithain)
   emberi testben, és a Banalitás elleni harc.
 ---
 
 # Changeling: Az Álmok
 
 A **Changeling: The Dreaming** (magyarul: *Változó: Az Álmok*) játékvilágban a játékosok
-tündelényeket ([Kith](kith.md)) irányítanak, akik emberi testben élnek, és a
+tündérlényeket ([Kith](kith.md)) irányítanak, akik emberi testben élnek, és a
 **[Banalitás](banalitas.md)** — a varázslat és képzelet elsorvasztó ereje — ellen küzdenek.
 
 ## Fő cikkek
 
-- **[Kith](kith.md)** — a tündefajok áttekintése.
+- **[Kith](kith.md)** — a tündérfajok áttekintése.
 - **[Banalitás](banalitas.md)** — a varázslat elsorvasztó ellensége.
-- **[Glamour](glamour.md)** — a tündék mágikus életereje.
-- **[Seelie és Unseelie Udvarok](udvarok.md)** — a tündék politikai megosztottsága.
-- **[Chimera](chimera.md)**, **[Dreaming](dreaming-hely.md)** — a képzelet lényei és a tündék
+- **[Glamour](glamour.md)** — a tündérek mágikus életereje.
+- **[Seelie és Unseelie Udvarok](udvarok.md)** — a tündérek politikai megosztottsága.
+- **[Chimera](chimera.md)**, **[Dreaming](dreaming-hely.md)** — a képzelet lényei és a tündérek
   ősi otthona.
 - **[Autumn People](autumn-people.md)** — a varázslatot teljesen elvesztő halandók.
 - **[Nemesi Házak](noble-houses.md)**, **[Redcap](redcap.md)**, **[Nunnehi](nunnehi.md)** — a
-  tündetársadalom további rétegei.
+  tündértársadalom további rétegei.
 
 !!! warning "Terminológia megjegyzés"
     Ennek a játékvilágnak a terminológiája még nincs hivatalos magyar forrással megerősítve —

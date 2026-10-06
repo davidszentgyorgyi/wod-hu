@@ -9,7 +9,7 @@ description: >-
 
 A **Spectre** azok a lelkek, akiket teljesen elnyelt saját **[Árnyékuk](arnyek.md)** — elvesztették
 eredeti identitásukat, és immár a **Feledés** (Oblivion, a pusztulás kozmikus ereje) aktív,
-pusztító szolgálóiként léteznek. A Spectre-ek a Wraith-ek legfélelmetesebb, leggyakoribb
+pusztító szolgálóiként léteznek. A Spectre-ek a Lidércek legfélelmetesebb, leggyakoribb
 ellenfelei a **[Labirintusban](labirintus.md)**.
 
 !!! info "Forrás és licenc"

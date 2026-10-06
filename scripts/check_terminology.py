@@ -31,6 +31,8 @@ IGNORE_ENGLISH_TERMS = {
     "oblivion",  # "Wraith: The Oblivion" game title
     "shadow",  # too generic a word; collides with proper nouns like "Shadow Lords"
     "tradition",  # ambiguous across game lines (VTM Hagyomány vs Mage Tradíció/Mágusrend)
+    "wraith",  # only flagged as drift when used as a bare creature noun; in practice it
+               # almost always appears inside the "Wraith: The Oblivion"/"Wraith: A Feledés" title
 }
 
 # Cell text that means "no real Hungarian term to check against".

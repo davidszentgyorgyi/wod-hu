@@ -1,5 +1,5 @@
 ---
-title: "Renegátok — a Legiók hatalmát elutasító Wraith-ek"
+title: "Renegátok — a Legiók hatalmát elutasító Lidércek"
 description: >-
   A Renegátok (Renegades) azok a Wraith: The Oblivion halott lelkei, akik elutasítják a Legiók
   bürokratikus uralmát és szabadabb életet élnek a Labirintusban.
@@ -7,7 +7,7 @@ description: >-
 
 # Renegátok
 
-A **Renegátok** (Renegades) azok a Wraith-ek, akik elutasítják a **[Legiók](legiok.md)**
+A **Renegátok** (Renegades) azok a Lidércek, akik elutasítják a **[Legiók](legiok.md)**
 bürokratikus, hierarchikus uralmát, és inkább önállóan, szabadabban próbálnak létezni a
 **[Labirintusban](labirintus.md)** — ezzel szemben állva a rendszer korrupciójával és
 működésképtelenségével.

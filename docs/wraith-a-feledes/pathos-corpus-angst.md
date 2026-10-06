@@ -1,5 +1,5 @@
 ---
-title: "Pathos, Corpus és Angst — a Wraith belső erőforrásai"
+title: "Pathos, Corpus és Angst — a Lidérc belső erőforrásai"
 description: >-
   A Pathos, Corpus és Angst a Wraith: The Oblivion halott lelkeinek három alapvető belső
   erőforrása — érzelmi energia, szellemi testi erő és belső feszültség.
@@ -7,13 +7,13 @@ description: >-
 
 # Pathos, Corpus és Angst
 
-A Wraith-ek három alapvető belső erőforrással rendelkeznek:
+A Lidércek három alapvető belső erőforrással rendelkeznek:
 
 - **Pathos**: erős érzelmekből nyert energia, amit az **Arcanoi** és más képességek
   használatára fordítanak.
-- **Corpus**: a Wraith "szellemi teste" — ez az életerő/sebzés megfelelője, ha ez elfogy, a
-  Wraith a **Feledésbe** (Oblivion) hullik.
-- **Angst**: a Wraith belső feszültsége és elfojtott fájdalma — ha túl magasra nő, az
+- **Corpus**: a Lidérc "szellemi teste" — ez az életerő/sebzés megfelelője, ha ez elfogy, a
+  Lidérc a **Feledésbe** (Oblivion) hullik.
+- **Angst**: a Lidérc belső feszültsége és elfojtott fájdalma — ha túl magasra nő, az
   **[Árnyék](arnyek.md)** átveheti az irányítást egy **Harrowing** során.
 
 !!! info "Forrás és licenc"

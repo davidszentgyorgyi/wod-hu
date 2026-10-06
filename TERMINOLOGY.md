@@ -172,16 +172,44 @@ a megerősítéshez:
   munkafordítás (lásd lejjebb), de **közösségi/hivatalos forrással való megerősítés még nem
   történt meg** — ez továbbra is nyitott feladat.
 
-## Más játékvilágok — munkafordítások (nincs forrás)
+## Más játékvilágok — kutatási eredmény (2026-10-06)
 
-A Werewolf, Mage, Wraith és Changeling cikkekben használt terminológiához **nincs hivatalos
-magyar kiadás vagy közösségi forrás** — ezek mind munkafordítások, írás közben hozva létre, jól
-dokumentált publikus angol szabályok alapján. Ha bárki magyar közösségi forrást talál ezekhez,
-kérjük, nyisson egy `terminológia` Issue-t.
+### Megerősített kreatúra-típus nevek
+
+Kutatást végeztünk egy valódi, aktív magyar World of Darkness szerepjátékos fórumon
+([worldofdarkness.hungarianforum.net](https://worldofdarkness.hungarianforum.net/)) — a
+felhasználói csoportok neveit **nyers HTML-ből, közvetlenül ellenőrizve** (nem AI-összegzésből)
+szereztük meg, így ez megbízható forrás:
+
+| Angol | Magyar (megerősített) | Megjegyzés |
+|---|---|---|
+| Mortal | Halandó | |
+| Vampire / Kindred | Vámpír | (már külön megerősítve a Delta Vision kiadásból) |
+| **Werewolf / Garou** | **Vérfarkas** | Megerősített — korábban "Garou"-t hagytunk fordítatlanul, ez pontosítandó |
+| **Wraith** | **Lidérc** | Megerősített — **FONTOS JAVÍTÁS**: korábban "Szellem"-et használtunk a cikkekben, ez hibás volt, javítva "Lidérc"-re |
+| Ghoul | Ghoul *(fordítatlan)* | Konzisztens a már megerősített alakkal |
+| Demon (Demon: The Fallen) | Bukott | Új játékvilág, korábban nem szerepelt a tervben |
+| Hunter (Hunter: The Reckoning) | Vadász | Új játékvilág, korábban nem szerepelt a tervben |
+| **Mage / Awakened** | **Mágus** | Megerősített |
+| **Changeling / Kithain** | **Tündér** | Megerősített — közel áll a már használt "tündék/tündelények" munkafordításhoz |
+| (ismeretlen kategória) | Árnyak | Fórum-kategória neve, pontos játékbeli megfelelője nem tisztázott |
+
+!!! warning "Fontos — ne bízz meg automatikusan AI-összegzésben"
+    Ennek a fórumnak néhány aloldalát (pl. a Mágusok/Lidércek alcsoportjainak részletes
+    bontását: "Tradíciók, Martalócok, Nefandusok, Technokraták", "12 típus", "9 faj") egy AI
+    eszköz **kitalálta**, miközben a valódi oldal csak egy bejelentkezési képernyőt mutatott
+    (a tartalom regisztráció nélkül nem elérhető). Ezt nyers HTML-lekéréssel derítettük ki és
+    **nem használtuk fel** — csak a fő kategórianeveket, amiket közvetlenül a link-listából
+    ellenőriztünk. Ha valaki regisztrál ott és hozzáfér a tényleges tartalomhoz, az nagyon
+    hasznos további forrás lenne.
+
+### Egyéb, még nem forrásolt munkafordítások
+
+A mélyebb mechanikai/lore fogalmakhoz (Tribe, Gift, Sphere, Paradox, stb.) továbbra sincs
+megerősített forrás — ezek munkafordítások maradnak:
 
 | Angol | Magyar | Játékvilág |
 |---|---|---|
-| Garou | Garou *(fordítatlan)* | Werewolf |
 | Tribe | Törzs | Werewolf |
 | Gift | Ajándék | Werewolf |
 | Rage | Rage *(fordítatlan, munkanév)* | Werewolf |
@@ -193,6 +221,8 @@ kérjük, nyisson egy `terminológia` Issue-t.
 | Arete | Arete *(fordítatlan)* | Mage |
 | Technocracy | Technokrácia | Mage |
 | Avatar | Avatar *(fordítatlan)* | Mage |
+| Marauders | Marginálisok *(munkafordítás — NEM "Martalócok", lásd a fenti figyelmeztetést)* | Mage |
+| Nephandi | Nephandik *(munkafordítás — NEM "Nefandusok", lásd a fenti figyelmeztetést)* | Mage |
 | Shadow (Wraith) | Árnyék | Wraith |
 | Labyrinth | Labirintus | Wraith |
 | Legions | Legiók | Wraith |
@@ -214,3 +244,6 @@ kérjük, nyisson egy `terminológia` Issue-t.
 - [Vampire: The Masquerade 5th Edition ismertető, Tivadar szerepjátékos blogja](https://radavit.blogspot.com/2018/12/vampire-masquerade-5th-edition-ismerteto.html)
 - [World of Darkness: Klánok, wodhu.blogspot.com](https://wodhu.blogspot.com/2012/09/klanok.html)
 - [A vámpírokról általában, worldofdarkness.hungarianforum.net](https://worldofdarkness.hungarianforum.net/t3-a-vampirokrol-altalaban)
+- [worldofdarkness.hungarianforum.net főoldala](https://worldofdarkness.hungarianforum.net/) — a
+  felhasználói csoportok neve (Vérfarkasok, Lidércek, Mágusok, Tündérek, Bukottak, Vadászok) nyers
+  HTML-ből ellenőrizve, 2026-10-06-án.

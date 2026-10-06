@@ -1,4 +1,4 @@
----
+﻿---
 title: "Chimera — a képzelet szülte lények"
 description: >-
   A Chimera a Changeling: The Dreaming képzelet-szülte lényei — a Glamour energiájából
@@ -8,14 +8,14 @@ description: >-
 # Chimera
 
 A **Chimera** a képzelet szülte lények a Changeling: The Dreaming világában — a
-**[Glamour](glamour.md)** energiájából materializálódó entitások, amelyeket csak a tündék és a
+**[Glamour](glamour.md)** energiájából materializálódó entitások, amelyeket csak a tündérek és a
 varázslatra érzékeny halandók látnak. Formájuk az őket "megalkotó" képzelettől függ: lehet
 állat, tárgy, vagy teljesen egyedi lény.
 
 ## Veszélyeik
 
 Erős **[Banalitás](banalitas.md)** hatására a Chimera elhalványulhat vagy teljesen
-megszűnhet létezni — ez az egyik oka, amiért a tündék féltve óvják a képzelet és az álmok
+megszűnhet létezni — ez az egyik oka, amiért a tündérek féltve óvják a képzelet és az álmok
 helyeit.
 
 !!! info "Forrás és licenc"

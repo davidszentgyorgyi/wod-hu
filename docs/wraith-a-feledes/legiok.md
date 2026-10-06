@@ -8,13 +8,13 @@ description: >-
 # Legiók
 
 A **Legiók** (Legions) a **[Labirintus](labirintus.md)** holtak birodalmának bürokratikus,
-hierarchikus kormányzati rendszere — a Wraith-ek társadalmát szervezik különböző funkciók
+hierarchikus kormányzati rendszere — a Lidércek társadalmát szervezik különböző funkciók
 (pl. igazságszolgáltatás, határőrség, archívum) szerint szétosztott csoportokba.
 
 ## Hanyatlás
 
 A Legiók rendszere az idő múlásával egyre korruptabbá és működésképtelenebbé vált, ami sok
-Wraith-et arra késztetett, hogy a rendszeren kívül, önállóan próbáljon boldogulni a
+Lidércet arra késztetett, hogy a rendszeren kívül, önállóan próbáljon boldogulni a
 Labirintusban.
 
 !!! info "Forrás és licenc"

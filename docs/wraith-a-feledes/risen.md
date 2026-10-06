@@ -7,7 +7,7 @@ description: >-
 
 # Risen
 
-A **Risen** azok a Wraith-ek, akik valamilyen különleges rituálé vagy kozmikus anomália révén
+A **Risen** azok a Lidércek, akik valamilyen különleges rituálé vagy kozmikus anomália révén
 visszatértek saját halott testükbe, és korlátozottan ismét interakcióba léphetnek az élők
 világával fizikai formában — hasonlóan a klasszikus zombi- vagy revenant-legendákhoz, de saját
 tudatukkal és akaratukkal.

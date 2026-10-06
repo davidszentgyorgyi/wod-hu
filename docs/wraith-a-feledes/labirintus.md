@@ -2,13 +2,13 @@
 title: "Labirintus — a holtak birodalma"
 description: >-
   A Labirintus a Wraith: The Oblivion holtak birodalma — a halál utáni léttér, amelyben a
-  Wraith-ek (szellemek) léteznek.
+  Lidércek léteznek.
 ---
 
 # Labirintus
 
 A **Labirintus** (Labyrinth) a holtak birodalma a Wraith: The Oblivion univerzumban — a halál
-utáni léttér, amelyben a **Wraith-ek** (halott lelkek) tovább léteznek, miután testi haláluk
+utáni léttér, amelyben a **Lidércek** (halott lelkek) tovább léteznek, miután testi haláluk
 bekövetkezett. Az élők világával párhuzamosan, de torz, sötétebb tükörképként létezik.
 
 ## Legiók és kormányzat
