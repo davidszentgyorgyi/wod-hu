@@ -18,6 +18,12 @@ irányítanak, akik hiedelmeik erejével képesek megváltoztatni a valóság sz
 - **[Arete](arete.md)** — a megvilágosodás mércéje.
 - **[Technokrácia](technokracia.md)** — a Tradíciók fő ellenfele.
 - **[Avatar](avatar.md)** — a mágus lelkének megvilágosodott szikrája.
+- **[Ébredés](ebredes.md)**, **[Konszenzus](konszenzus.md)** — hogyan válik valaki mágussá, és mi
+  korlátozza a mágiát.
+- **[Quintessence](quintessence.md)**, **[Node](node.md)**, **[Rote](rote.md)** — a mágikus
+  energia forrásai és felhasználásuk.
+- **[Marginálisok](marginalisok.md)**, **[Nephandik](nephandik.md)** — két antagonista
+  mágus-csoport.
 
 !!! warning "Terminológia megjegyzés"
     Ennek a játékvilágnak a terminológiája még nincs hivatalos magyar forrással megerősítve —

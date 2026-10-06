@@ -153,10 +153,28 @@ nyugodtan azzal kezdhet. A sorszám csak ajánlás, nem szigorú szabály. Fonto
 [TERMINOLOGY.md](TERMINOLOGY.md)-t és a [stúb-konvenciót](CONTRIBUTING.md#kereszthivatkozások-stúb-konvenció)
 kövessük.
 
+## 3. hullám — mélyebb tartalom mind az 5 játékvilágban
+
+A 2. hullám után mind a négy nem-Vampire játékvilág kapott egy második kör alapfogalom-cikket is
+(7+7+6+6 cikk), és a Vampire-vonal 4 Bloodline-ja (True Brujah, Baali, Gargoyle-ok, Salubri
+antitribu) is önálló cikket kapott.
+
+| Játékvilág | Új cikkek |
+|---|---|
+| Werewolf: Az Apokalipszis | Auspice-ok, Totem, Kinfolk, Litánia, Delirium, Wyld, Black Spiral Dancers |
+| Mage: Az Eksztázis | Ébredés, Konszenzus, Quintessence, Node, Marginálisok, Nephandik, Rote |
+| Wraith: A Feledés | Arcanoi, Pathos/Corpus/Angst, Céhek, Risen, Spectre, Renegátok |
+| Changeling: Az Álmok | Chimera, Dreaming, Autumn People, Nemesi Házak, Redcap, Nunnehi |
+| Vampire: A Maszkabál | True Brujah, Baali, Gargoyle-ok, Salubri antitribu |
+
+**Összesen 90 cikk kész.** A `scripts/check_terminology.py` minden batch után lefuttatva —
+lásd a README terminológia-konzisztencia szekcióját.
+
 ## Következő lépések a feltérképezésben
 
-1. Pontos alkategória-struktúra feltérképezése játékvilágonként (pl. Vampire: The Masquerade → Klánok, Diszciplínák, Szekták, Frakciók alkategóriák helyes nevekkel).
-2. Cikklista export `list=categorymembers` segítségével, játékvilágonként.
-3. Alapfogalom-cikkek azonosítása (pl. "Embrace", "Humanity", "Masquerade") — ezek a legmagasabb prioritásúak, mert minden más cikk hivatkozik rájuk.
-4. Szócikk-hossz/komplexitás becslése a fordítási munka méretezéséhez.
-5. Ebből álljon össze a végleges fordítási priorizálási lista.
+1. **Terminológiai megerősítés**: a Werewolf/Mage/Wraith/Changeling cikkek munkafordítások, nincs
+   hivatalos vagy közösségi forrásuk — ez a legfontosabb következő lépés, mielőtt ezekből sokkal
+   többet fordítanánk.
+2. Pontos alkategória-struktúra feltérképezése a whitewolf.fandom.com API-n keresztül, játékvilágonként.
+3. Cikklista export `list=categorymembers` segítségével, játékvilágonként — a még hiányzó, mélyebb
+   tartalom (pl. egyes klánok/törzsek/rendek teljes története) azonosításához.

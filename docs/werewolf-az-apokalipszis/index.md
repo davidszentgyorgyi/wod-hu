@@ -20,6 +20,11 @@ pusztító erő ellen harcolnak.
 - **[Ajándékok](ajandekok.md)** — a szellemektől tanult természetfeletti képességek.
 - **[Rage](rage.md)** — a harci düh mércéje.
 - **[Umbra](umbra.md)** — a szellemvilág.
+- **[Auspice-ok](auspice-ok.md)**, **[Totem](totem.md)**, **[Kinfolk](kinfolk.md)** — a Garou
+  társadalom felépítése.
+- **[Litánia](litania.md)**, **[Delirium](delirium.md)** — szabályok és a halandók elől rejtőzés.
+- **[Wyld](wyld.md)**, **[Black Spiral Dancers](black-spiral-dancers.md)** — a kozmológia és a
+  Wyrmnek átállt törzs.
 
 !!! warning "Terminológia megjegyzés"
     Ennek a játékvilágnak a terminológiája még nincs hivatalos magyar forrással megerősítve —

@@ -17,6 +17,11 @@ tündelényeket ([Kith](kith.md)) irányítanak, akik emberi testben élnek, és
 - **[Banalitás](banalitas.md)** — a varázslat elsorvasztó ellensége.
 - **[Glamour](glamour.md)** — a tündék mágikus életereje.
 - **[Seelie és Unseelie Udvarok](udvarok.md)** — a tündék politikai megosztottsága.
+- **[Chimera](chimera.md)**, **[Dreaming](dreaming-hely.md)** — a képzelet lényei és a tündék
+  ősi otthona.
+- **[Autumn People](autumn-people.md)** — a varázslatot teljesen elvesztő halandók.
+- **[Nemesi Házak](noble-houses.md)**, **[Redcap](redcap.md)**, **[Nunnehi](nunnehi.md)** — a
+  tündetársadalom további rétegei.
 
 !!! warning "Terminológia megjegyzés"
     Ennek a játékvilágnak a terminológiája még nincs hivatalos magyar forrással megerősítve —

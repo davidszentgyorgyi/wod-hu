@@ -17,6 +17,10 @@ birodalmában próbálnak megküzdeni saját [Árnyékukkal](arnyek.md) — söt
 - **[Labirintus](labirintus.md)** — a holtak birodalma.
 - **[Legiók](legiok.md)** — a holtak birodalmának kormányzata.
 - **[Kötelékek és Szenvedélyek](kotelekek.md)** — az élők világához kötő szálak.
+- **[Arcanoi](arcanoi.md)** — a Wraith-ek természetfeletti képességei.
+- **[Pathos, Corpus és Angst](pathos-corpus-angst.md)** — a belső erőforrások.
+- **[Céhek](guildok.md)**, **[Renegátok](renegatok.md)** — szervezeti csoportok.
+- **[Risen](risen.md)**, **[Spectre](spectre.md)** — különleges állapotok és ellenfelek.
 
 !!! warning "Terminológia megjegyzés"
     Ennek a játékvilágnak a terminológiája még nincs hivatalos magyar forrással megerősítve —

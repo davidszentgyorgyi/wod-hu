@@ -13,12 +13,13 @@ különleges eseményt vagy mutációt követően, és saját egyedi vonásokkal
 
 ## Ismert Bloodline-ok
 
-- **True Brujah**: a Brujah Antedeluviánus eredeti, "tisztább" leszármazottai, akik az idővel
-  bánnak másként, mint a főklán.
-- **Baali**: pokoli eredetű, infernalista vámpírok, akiket minden más klán üldöz.
-- **Gargoyle-ok**: a Tremere által mesterségesen létrehozott, kőtestű harci szolgák.
-- **Salubri antitribu**: a Szabbaton belüli Salubri-ág, akik elvetették az eredeti klán
-  gyógyító filozófiáját.
+- **[True Brujah](true-brujah.md)**: a Brujah Antedeluviánus eredeti, "tisztább" leszármazottai,
+  akik az idővel bánnak másként, mint a főklán.
+- **[Baali](baali.md)**: pokoli eredetű, infernalista vámpírok, akiket minden más klán üldöz.
+- **[Gargoyle-ok](gargoyle-ok.md)**: a Tremere által mesterségesen létrehozott, kőtestű harci
+  szolgák.
+- **[Salubri antitribu](salubri-antitribu.md)**: a Szabbaton belüli Salubri-ág, akik elvetették
+  az eredeti klán gyógyító filozófiáját.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Bloodline szócikkének](https://whitewolf.fandom.com/wiki/Bloodline)
