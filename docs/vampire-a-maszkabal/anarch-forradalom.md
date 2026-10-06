@@ -19,8 +19,8 @@ század). Amikor a forrás egyszerűen "az Anarch Forradalomra" hivatkozik, ált
 Az Inkvizíció idején a fiatal Vértestvérek egyre dühösebbek voltak azért, hogy a klán-véneik
 hajlandóak voltak feláldozni őket az Inkvizítoroknak, miközben saját biztonságukat védték. A
 feszültség akkor csúcsosodott ki, amikor egy fiatal Brujah, aki a "Tyler" nevet vette fel
-(Patricia of Bollingbroke), szembeszállt a vének tanácsával — köztük Hardestadttal, a
-Ventrue-vezette szövetség egyik alapító alakjával, akiből később a [Kamarilla](kamarilla.md)
+(Patricia of Bollingbroke), szembeszállt a vének tanácsával — köztük [Hardestadttal](hardestadt.md),
+a Ventrue-vezette szövetség egyik alapító alakjával, akiből később a [Kamarilla](kamarilla.md)
 nőtt ki. Amikor a vének elutasították a nyílt harc gondolatát, és inkább a rejtőzködést (a
 leendő Maszkabál alapjait) választották, Tyler otthagyta a tanácsot, és 1395-ben megrohamozta
 Hardestadt várát — a csatában diablerizálta Hardestadtot, ezzel jelezve a Forradalom
