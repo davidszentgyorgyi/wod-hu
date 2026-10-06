@@ -30,7 +30,7 @@ Végleges Halált hozva rá.
 ## Modern kor
 
 Helena leszármazottai mind a Kamarillában, mind a Szabbatban fontos pozíciókat töltenek be.
-Maga Helena évtizedekig Kábulatban feküdt Chicago Succubus Club nevű klubja alatt, mígnem
+Maga Helena évtizedekig Kábulatban feküdt Chicago [Succubus Club](succubus-club.md) nevű klubja alatt, mígnem
 1990-ben felébredt, és Portia néven, egy fiatal Toreador-nak kiadva magát kezdett új életet —
 ezalatt irányította Tylert is, mint egyik legfontosabb bábját a város politikájában. Ma is a
 Beckoning (az ősi vének ellen ható, misztikus hívás) elől menekülve, egyre gyakoribb
