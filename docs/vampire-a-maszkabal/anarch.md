@@ -34,7 +34,7 @@ szervezi magát. Ez a rugalmasság a mozgalom erőssége és gyengesége is egys
 Anarch közösséget "fejetlenné tenni" egy vezető megölésével, de nehezebb is nagy léptékű,
 koordinált akciókat végrehajtani.
 
-A mozgalom eredete az [Anarch Forradalomra](anarch-forradalom.md) és az azt lezáró [Thorni
+A mozgalom eredete az [Anarch Forradalomra](anarch-forradalom.md) és az azt lezáró [Thorns-i
 Egyezményre](thorni-egyezmeny.md) nyúlik vissza.
 
 !!! info "Forrás és licenc"

@@ -71,7 +71,7 @@ Az 5. kiadás (V5) idejére a tagság megváltozott: a Brujah és a Gangrel töb
 és csatlakozott az Anarch Mozgalomhoz, míg a Banu Haqim (korábban Assamita) és a Lasombra egy része
 belépett a Kamarillába.
 
-A Kamarilla mai struktúráját (Justicarok, Archonok, Hagyományok) a [Thorni
+A Kamarilla mai struktúráját (Justicarok, Archonok, Hagyományok) a [Thorns-i
 Egyezmény](thorni-egyezmeny.md) alapozta meg, 1493-ban.
 
 !!! info "Forrás és licenc"

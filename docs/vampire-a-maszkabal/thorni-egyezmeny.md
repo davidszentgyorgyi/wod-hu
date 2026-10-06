@@ -1,13 +1,13 @@
 ---
-title: "Thorni Egyezmény — a Kamarilla, az Anarchok és a Banu Haqim békéje"
+title: "Thorns-i Egyezmény — a Kamarilla, az Anarchok és a Banu Haqim békéje"
 description: >-
-  A Thorni Egyezmény (Convention of Thorns, 1493) az Első Anarch Forradalmat zárta le, és
+  A Thorns-i Egyezmény (Convention of Thorns, 1493) az Első Anarch Forradalmat zárta le, és
   megalapozta a Kamarilla, az Anarch Mozgalom és a Szabbat mai viszonyát.
 ---
 
-# Thorni Egyezmény
+# Thorns-i Egyezmény
 
-A **Thorni Egyezmény** egy 1493-as békeszerződés volt a [Kamarilla](kamarilla.md), az
+A **Thorns-i Egyezmény** egy 1493-as békeszerződés volt a [Kamarilla](kamarilla.md), az
 [Anarch Mozgalom](anarch.md) és a [Banu Haqim](banu-haqim.md) klán (akkori nevén Assamite)
 vezetői között — ez zárta le az [Első Anarch Forradalmat](anarch-forradalom.md), és hosszú
 távra meghatározta a három csoport viszonyát.
@@ -31,7 +31,7 @@ hozzájuk, ők lettek az első antitribu-k.
 
 ## Öröksége
 
-A Thorni Egyezmény alapozta meg a Kamarilla mai szerkezetét is: a Justicar és Archon
+A Thorns-i Egyezmény alapozta meg a Kamarilla mai szerkezetét is: a Justicar és Archon
 tisztségeket, és a Hagyományokat (Traditions). Egészen 2012-ig, a [Második
 Inkvizíció](masodik-inkvizicio.md) korszaka előtti Prágai Konvent összeomlásáig többé-kevésbé
 érvényben maradt — azután az Anarchokat formálisan kizárták a Kamarillából, míg a Banu Haqim
