@@ -29,6 +29,8 @@ különleges eseményt vagy mutációt követően, és saját egyedi vonásokkal
   harci egységei.
 - **[Osiris Gyermekei](osiris-gyermekei.md)**: ősi egyiptomi bloodline, akik uralmat nyertek
   saját Bestiájuk felett.
+- **[Harbingers of Skulls](harbingers-of-skulls.md)**: a kiirtott Cappadocian klán utolsó,
+  Alvilágban rejtőzött túlélői.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Bloodline szócikkének](https://whitewolf.fandom.com/wiki/Bloodline)

@@ -187,6 +187,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 91 | Chimerstry, Ravnos illúzió-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/chimerstry.md` |
 | 92 | Valeren, Salubri harcos-Diszciplínája | ✅ Kész | `docs/vampire-a-maszkabal/valeren.md` |
 | 93 | Osiris Gyermekei, bloodline | ✅ Kész | `docs/vampire-a-maszkabal/osiris-gyermekei.md` |
+| 94 | Harbingers of Skulls, Cappadocian túlélő bloodline | ✅ Kész | `docs/vampire-a-maszkabal/harbingers-of-skulls.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
