@@ -36,7 +36,8 @@ A klán egyik legismertebb modern alakja **[a Voerman Nővérek](voerman-nover.m
 testben élő két tudat, Santa Monica Bárói.
 
 A klán jellemző Diszciplínája a **[Dementation](dementation.md)** — a karakter saját
-elmezavarából fakadó, veszélyes és egyedi erő.
+elmezavarából fakadó, veszélyes és egyedi erő. A Szabbathoz tartozó ág a
+**[Malkavian antitribu](malkavian-antitribu.md)**.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Malkavian szócikkének](https://whitewolf.fandom.com/wiki/Malkavian_(VTM))
