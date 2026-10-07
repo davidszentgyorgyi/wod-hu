@@ -27,6 +27,8 @@ különleges eseményt vagy mutációt követően, és saját egyedi vonásokkal
 - **[Lamiák](lamiak.md)**: a Cappadocian klán (a Hecata elődje) kihalt harcos-őrzői.
 - **[Vérfivérek](verfiverek.md)**: a Szabbat mesterségesen létrehozott, megosztott tudatú
   harci egységei.
+- **[Osiris Gyermekei](osiris-gyermekei.md)**: ősi egyiptomi bloodline, akik uralmat nyertek
+  saját Bestiájuk felett.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Bloodline szócikkének](https://whitewolf.fandom.com/wiki/Bloodline)
