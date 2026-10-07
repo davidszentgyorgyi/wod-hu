@@ -23,7 +23,8 @@ A [Szabbat](szabbat.md) berkein belül a Caitiff-ok "Pander"-ek néven szervező
 Szabbat Polgárháború után egyenlő elbánást kaptak a klánokkal.
 
 Lásd még: [Autarkis](autarkis.md) — hasonló, de nem azonos fogalom, a szekta-politikától
-való elszakadtságra.
+való elszakadtságra. A Szabbaton belül a Caitiffek szervezett közössége a
+**[Panders](panders.md)**.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Caitiff szócikkének](https://whitewolf.fandom.com/wiki/Caitiff)
