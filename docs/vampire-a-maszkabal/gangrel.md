@@ -32,7 +32,8 @@ Minden alkalommal, amikor egy Gangrel [Őrjöngésbe](../glosszarium/index.md) e
 A Gangrel korábban a Kamarilla egyik alapító klánja volt, de a klán többsége elhagyta a szektát
 és önállóvá vagy az Anarch Mozgalom részévé vált.
 
-A klán egyik ismert fiatal aktivistája **[Rudi](rudi.md)**, egy koppenhágai Anarch.
+A klán egyik ismert fiatal aktivistája **[Rudi](rudi.md)**, egy koppenhágai Anarch. A
+Szabbathoz tartozó ág a **[Gangrel antitribu](gangrel-antitribu.md)**.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Gangrel szócikkének](https://whitewolf.fandom.com/wiki/Gangrel_(VTM))
