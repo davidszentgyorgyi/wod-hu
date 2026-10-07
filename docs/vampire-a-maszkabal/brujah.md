@@ -33,7 +33,8 @@ Eredetileg a Kamarilla alapító klánja volt, de a Brujah többsége az 5. kiad
 szektát, és csatlakozott az [Anarch Mozgalomhoz](anarch.md).
 
 A klán egyik legismertebb modern alakja **[Theo Bell](theo-bell.md)**, egykori Kamarilla
-Archon.
+Archon. A Szabbathoz tartozó, rendkívül erőszakos ág a
+**[Brujah antitribu](brujah-antitribu.md)**.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Brujah szócikkének](https://whitewolf.fandom.com/wiki/Brujah)
