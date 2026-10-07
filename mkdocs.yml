@@ -48,9 +48,15 @@ theme:
     repo: fontawesome/brands/github
 
 extra:
+  analytics:
+    provider: google
+    property: G-PGLVSHLK0X
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/davidszentgyorgyi/wod-hu
+
+extra_javascript:
+  - assets/js/analytics-events.js
 
 # --- SEO / GEO kritikus beállítások ---
 # A mkdocs build automatikusan generál sitemap.xml-t a site_url alapján.
