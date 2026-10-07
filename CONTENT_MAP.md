@@ -191,6 +191,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 95 | Panders, Szabbat Caitiff antitribu | ✅ Kész | `docs/vampire-a-maszkabal/panders.md` |
 | 96 | Toreador antitribu, Szabbat ág | ✅ Kész | `docs/vampire-a-maszkabal/toreador-antitribu.md` |
 | 97 | Brujah antitribu, Szabbat ág | ✅ Kész | `docs/vampire-a-maszkabal/brujah-antitribu.md` |
+| 98 | Nosferatu antitribu, Szabbat ág | ✅ Kész | `docs/vampire-a-maszkabal/nosferatu-antitribu.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

@@ -33,7 +33,8 @@ A Nosferatu a Kamarilla tagja, de a klán inkább a háttérből, információs 
 működik, mint nyílt politikai szerepvállalással.
 
 A klán egyik legbefolyásosabb, sosem mutatkozó alakja **[Ambrus Maropis](ambrus-maropis.md)**,
-a Kamarilla informális digitális biztonsági guruja.
+a Kamarilla informális digitális biztonsági guruja. A Szabbathoz tartozó ág a
+**[Nosferatu antitribu](nosferatu-antitribu.md)**.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Nosferatu szócikkének](https://whitewolf.fandom.com/wiki/Nosferatu_(VTM))
