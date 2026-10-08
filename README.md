@@ -140,7 +140,7 @@ Ezután minden commit előtt automatikusan lefut a terminológia-, `CONTENT_MAP.
 ellenőrzés, és megállítja a commitot, ha valami nincs rendben (vagy ha a `check_content_map.py`
 automatikusan javított valamit — ilyenkor `git add`-old a módosítást és commitolj újra).
 
-### Mi automatizált, és mi nem (őszintén)
+### Mi automatizált, és mi nem
 
 - **Automatikus, build-enként**: a kezdőlap státusz-blokkja (`update_stats.py`), és a
   navigáció (mkdocs most a `docs/` mappastruktúrából generálja, `.pages` fájllal vezérelt
