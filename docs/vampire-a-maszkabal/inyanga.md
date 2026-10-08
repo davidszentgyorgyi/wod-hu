@@ -9,7 +9,7 @@ description: >-
 
 **Inyanga** egy ősi **[Gangrel](gangrel.md)** vén, Chicago egykori Primogenje — és, ahogy
 később kiderült, titokban a **Laibon** nevű, Afrikából származó vámpír-vérvonal tagja, aki
-Kindred-nek adta ki magát.
+Vértestvérnek adta ki magát.
 
 ## A sámánból lett vámpír
 
@@ -29,7 +29,7 @@ politikájában — még azután is, hogy a Gangrel klán 1999-ben elhagyta a Ka
 ## A titkos Laibon
 
 A modern éjszakákban kiderült, hogy Inyanga valójában egy **Laibon**, egy Afrikából
-származó, régóta elrejtőzött vámpír-vérvonal tagja, amely évszázadok óta Kindred-nek adta
+származó, régóta elrejtőzött vámpír-vérvonal tagja, amely évszázadok óta Vértestvérnek adta
 ki magát, hogy beépülhessen a nyugati vámpírtársadalomba. Inyanga segített klántársának,
 **[Xaviarnak](xaviar.md)** is, amikor az elhagyta Justicari tisztségét, és később
 együttműködött vele és **[Becketttel](cuthbert-beckett.md)** is a rejtélyes
