@@ -39,7 +39,9 @@ A klán egyik legbefolyásosabb, hagyományőrző véne **[Karl Schrekt](karl-sc
 hosszú ideig a klán Justicarja volt — vele szemben áll **[Carna](carna.md)**, aki megtörte a
 klán feletti Vérköteléket, és saját, Anarch-szimpatizáns frakciót alapított. Schrekt egyik
 utódja a Justicari székben **[Anastasz di Zagreb](anastasz-di-zagreb.md)** volt, a klán
-egyik ritkán barátságos tagja.
+egyik ritkán barátságos tagja. Bécs alapító Hercege **[Lotharius](lotharius.md)** volt, aki
+Schrektet is Ölelte. A klán brit Pontifexe a fiktív **[John Dee](john-dee-vtm.md)**, Mithras
+régi riválisa.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Tremere szócikkének](https://whitewolf.fandom.com/wiki/Tremere_(VTM))

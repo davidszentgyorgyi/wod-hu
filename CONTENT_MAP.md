@@ -234,6 +234,13 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 138 | Alonso Cristo Petrodon, Nosferatu Justicar NPC | ✅ Kész | `docs/vampire-a-maszkabal/alonso-petrodon.md` |
 | 139 | Haqim, Banu Haqim Antedeluviánusa NPC | ✅ Kész | `docs/vampire-a-maszkabal/haqim.md` |
 | 140 | Rafael de Corazon, a Maszkabál szónoka NPC | ✅ Kész | `docs/vampire-a-maszkabal/rafael-de-corazon.md` |
+| 141 | Jaroslav Pascek, Brujah egykori Justicar NPC | ✅ Kész | `docs/vampire-a-maszkabal/jaroslav-pascek.md` |
+| 142 | Carlak, Prága egykori Brujah Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/carlak.md` |
+| 143 | J. Benison Hodge, Atlanta utolsó Malkavian Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/j-benison-hodge.md` |
+| 144 | Quentin King III, Boston Malkavian Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/quentin-king.md` |
+| 145 | Lotharius, Bécs megalapító Tremere Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/lotharius.md` |
+| 146 | John Dee, Tremere brit Pontifexe NPC | ✅ Kész | `docs/vampire-a-maszkabal/john-dee-vtm.md` |
+| 147 | Ambrosio Luis Monçada, Madrid Bíboros Érseke NPC | ✅ Kész | `docs/vampire-a-maszkabal/ambrosio-luis-moncada.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

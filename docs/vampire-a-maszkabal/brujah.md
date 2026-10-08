@@ -35,7 +35,8 @@ szektát, és csatlakozott az [Anarch Mozgalomhoz](anarch.md).
 A klán egyik legismertebb modern alakja **[Theo Bell](theo-bell.md)**, egykori Kamarilla
 Archon. Egy másik, legendás kóborló alak **[Smiling Jack](smiling-jack.md)**. A klán egyik
 régi, forradalmár véne **[Ecaterina the Wise](ecaterina-the-wise.md)**, Prága egykori
-Felbujtója. A Szabbathoz tartozó, rendkívül erőszakos ág a
+Felbujtója. A klán két egykori Justicarja **[Jaroslav Pascek](jaroslav-pascek.md)** és
+**[Carlak](carlak.md)**, Prága egykori Hercege, voltak. A Szabbathoz tartozó, rendkívül erőszakos ág a
 **[Brujah antitribu](brujah-antitribu.md)**.
 
 !!! info "Forrás és licenc"
