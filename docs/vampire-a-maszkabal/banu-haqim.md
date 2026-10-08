@@ -32,7 +32,8 @@ erősebb a vámpír, akit megízlelnek, annál nehezebb nekik megállni a Diabl�
 Történetük hosszú és bonyolult: egy belső szakadás (a Tremere-átok miatt) után a klán nagy része
 a Kamarillához csatlakozott egy megállapodás (Odense-i Egyezmény) keretében.
 
-A klán jellemző Diszciplínája a **[Quietus](quietus.md)** — a vér feletti hatalom tudománya.
+A klán jelenlegi legidősebb tagja **[Ur-Shulgi](ur-shulgi.md)**, aki a klán
+fundamentalista megújulását vezeti. A klán jellemző Diszciplínája a **[Quietus](quietus.md)** — a vér feletti hatalom tudománya.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Banu Haqim szócikkének](https://whitewolf.fandom.com/wiki/Banu_Haqim)
