@@ -35,7 +35,8 @@ csatlakozott.
 
 A klán egyik legismertebb modern alakja **[Hesha Ruhadze](hesha-ruhadze.md)**, régész és
 tudós. A Sötét Középkor idején a klán Hierofántáinak vezetője **[Nakhthorheb](nakhthorheb.md)**
-volt. A klán jellemző Diszciplínája a **[Serpentis](serpentis.md)** — alakváltó és korrupciós
+volt. A klán leghírhedtebb szökevénye **[Kemintiri](kemintiri.md)**, a Vörös Lista első
+száma. A klán jellemző Diszciplínája a **[Serpentis](serpentis.md)** — alakváltó és korrupciós
 kígyó-hatalom.
 
 !!! info "Forrás és licenc"

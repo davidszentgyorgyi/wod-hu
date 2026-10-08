@@ -34,7 +34,9 @@ működik, mint nyílt politikai szerepvállalással.
 
 A klán egyik legbefolyásosabb, sosem mutatkozó alakja **[Ambrus Maropis](ambrus-maropis.md)**,
 a Kamarilla informális digitális biztonsági guruja. Egy másik ismert tag **[Gary
-Golden](gary-golden.md)**, Los Angeles Nosferatu Primogenje. A Szabbathoz tartozó ág a
+Golden](gary-golden.md)**, Los Angeles Nosferatu Primogenje. A klán jelképes alakja
+**[Calebros](calebros.md)**, New York egykori ideiglenes Hercege. Egy másik rejtett vén
+**[Bertram Tung](bertram-tung.md)**, Santa Monica befolyásos Nosferatuja. A Szabbathoz tartozó ág a
 **[Nosferatu antitribu](nosferatu-antitribu.md)**.
 
 !!! info "Forrás és licenc"

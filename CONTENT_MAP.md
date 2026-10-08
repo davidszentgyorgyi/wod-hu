@@ -220,6 +220,9 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 124 | Lambach Ruthven, Tzimisce titkok tudója NPC | ✅ Kész | `docs/vampire-a-maszkabal/lambach-ruthven.md` |
 | 125 | Anastasz di Zagreb, Tremere egykori Justicar NPC | ✅ Kész | `docs/vampire-a-maszkabal/anastasz-di-zagreb.md` |
 | 126 | Le Dinh Tho, vietnami Nagaraja tudós NPC | ✅ Kész | `docs/vampire-a-maszkabal/le-dinh-tho.md` |
+| 127 | Calebros, New York egykori Nosferatu Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/calebros.md` |
+| 128 | Bertram Tung, Santa Monica Nosferatu vén NPC | ✅ Kész | `docs/vampire-a-maszkabal/bertram-tung.md` |
+| 129 | Kemintiri, Vörös Lista első száma NPC | ✅ Kész | `docs/vampire-a-maszkabal/kemintiri.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

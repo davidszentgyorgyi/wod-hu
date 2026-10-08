@@ -25,7 +25,7 @@ münchenis konklávéra — itt hirdették ki a Setita Methuselah elleni globál
 született meg a **Vörös Lista** is.
 
 Lucindét nevezték ki az első Alastornak, akinek egyetlen feladata a Listára kerültek
-felkutatása volt — Kemintirit kivéve, akihez még mindig Vérkötelék fűzte. Amikor végre
+felkutatása volt — **[Kemintirit](kemintiri.md)** kivéve, akihez még mindig Vérkötelék fűzte. Amikor végre
 megtörte ezt a köteléket, ismét Torporba merült, majd 1994-ben ébredt fel újra, hogy
 folytassa a hajtóvadászatot.
 
