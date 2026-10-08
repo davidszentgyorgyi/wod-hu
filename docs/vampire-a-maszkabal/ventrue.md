@@ -36,7 +36,8 @@ Ventrue Primogenje. A klán sokkal visszahúzódóbb, hagyományos oldalát kép
 New York-i hátterű karakter **[David Geduld](david-geduld.md)**, a klán titkos New York-i
 Primogenje és a Kamarilla hűséges ügynöke az Anarch Szabadállamokban. A klán egyik
 legfélelmetesebb tagja **[Lucinde](lucinde.md)**, a Kamarilla jelenlegi Justicarja és első
-Alastora.
+Alastora. Egy ősi Methuselah **[Mithras](mithras.md)**, London egykori, önmagát istenként
+hirdető Hercege.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Ventrue szócikkének](https://whitewolf.fandom.com/wiki/Ventrue_(VTM))

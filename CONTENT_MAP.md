@@ -230,6 +230,10 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 134 | Kali, fiatal Ravnos csaló New Yorkban NPC | ✅ Kész | `docs/vampire-a-maszkabal/kali-ravnos.md` |
 | 135 | Pietro Giovanni, kelet-európai Giovanni-ág feje NPC | ✅ Kész | `docs/vampire-a-maszkabal/pietro-giovanni.md` |
 | 136 | Ambrogino Giovanni, halhatatlanság kutatója NPC | ✅ Kész | `docs/vampire-a-maszkabal/ambrogino-giovanni.md` |
+| 137 | Mithras, London Methuselah Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/mithras.md` |
+| 138 | Alonso Cristo Petrodon, Nosferatu Justicar NPC | ✅ Kész | `docs/vampire-a-maszkabal/alonso-petrodon.md` |
+| 139 | Haqim, Banu Haqim Antedeluviánusa NPC | ✅ Kész | `docs/vampire-a-maszkabal/haqim.md` |
+| 140 | Rafael de Corazon, a Maszkabál szónoka NPC | ✅ Kész | `docs/vampire-a-maszkabal/rafael-de-corazon.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

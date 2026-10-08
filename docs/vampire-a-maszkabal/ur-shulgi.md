@@ -7,8 +7,8 @@ description: >-
 
 # Ur-Shulgi
 
-**Ur-Shulgi**, Haqim hírnöke és tudásőrzője, a [Banu Haqim](banu-haqim.md) klán jelenlegi
-legidősebb tagja, és a klánon belüli fundamentalista megújulási mozgalom fő
+**Ur-Shulgi**, **[Haqim](haqim.md)** hírnöke és tudásőrzője, a [Banu Haqim](banu-haqim.md) klán
+jelenlegi legidősebb tagja, és a klánon belüli fundamentalista megújulási mozgalom fő
 szószólója. Haqim második Gyermekeként rendkívüli korral és leírhatatlan hatalommal bír —
 egyetlen hűsége teremtőjéhez köti, és ahhoz a célhoz, hogy klánját újra olyan formába
 alakítsa, amely méltó Haqim örökségéhez.
