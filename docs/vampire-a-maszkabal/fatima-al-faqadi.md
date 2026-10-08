@@ -20,7 +20,8 @@ megtörve — Alamutba vitték és bérgyilkossá képezték.
 
 ## Lucita, az ellenség-szerető
 
-A keresztes háborúk csatamezőin Fatima szembekerült egy Lasombra vámpírral, **Lucitával** —
+A keresztes háborúk csatamezőin Fatima szembekerült egy Lasombra vámpírral, **[Lucita de
+Aragónnal](lucita-de-aragon.md)** —
 kettejük viadala mindkettőjüket súlyosan megsebesítette, és egy barlangban kényszerültek
 együtt várni ki a napkeltét. A tisztelet, amit ellenfele iránt érzett, barátsággá, majd szoros
 kapcsolattá mélyült köztük — kapcsolatuk ezután évszázadokon át, hol szövetségesként, hol

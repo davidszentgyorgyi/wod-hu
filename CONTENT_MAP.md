@@ -223,6 +223,8 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 127 | Calebros, New York egykori Nosferatu Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/calebros.md` |
 | 128 | Bertram Tung, Santa Monica Nosferatu vén NPC | ✅ Kész | `docs/vampire-a-maszkabal/bertram-tung.md` |
 | 129 | Kemintiri, Vörös Lista első száma NPC | ✅ Kész | `docs/vampire-a-maszkabal/kemintiri.md` |
+| 130 | Yorak, Tzimisce Hús Katedrálisának Főpapja NPC | ✅ Kész | `docs/vampire-a-maszkabal/yorak.md` |
+| 131 | Lucita de Aragón, Lasombra jelképes harcosa NPC | ✅ Kész | `docs/vampire-a-maszkabal/lucita-de-aragon.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

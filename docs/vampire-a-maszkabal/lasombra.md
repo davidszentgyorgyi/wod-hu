@@ -34,7 +34,8 @@ együtt) átállt a Kamarillához, váltságdíjat fizetve a belépésért.
 A klán legidősebb, túlélő Gyermeke **[Montano](montano.md)**, az Obtenebration egyik
 legnagyobb mestere. Egy másik ismert tag **[Marcus Vitel](marcus-vitel.md)**, aki
 évtizedekig Ventrue-nak adta ki magát, hogy megszerezze Washington, D.C. Hercegi székét. A
-klán jellemző Diszciplínája az **[Obtenebration](obtenebration.md)** — uralom a
+klán jelképes, páratlan harcosa **[Lucita de Aragón](lucita-de-aragon.md)**, Madrid Szabbat
+Érseke. A klán jellemző Diszciplínája az **[Obtenebration](obtenebration.md)** — uralom a
 természetfeletti sötétség felett.
 
 !!! info "Forrás és licenc"
