@@ -248,6 +248,9 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 152 | Minerva Schwalke-Wojtkiewicz, Tzimisce önjelölt Vajdája NPC | ✅ Kész | `docs/vampire-a-maszkabal/minerva-schwalke.md` |
 | 153 | Set, Ministry klán Antedeluviánusa NPC | ✅ Kész | `docs/vampire-a-maszkabal/set-antedeluvianus.md` |
 | 154 | Halim Bey, londoni Ministry régiségkereskedő NPC | ✅ Kész | `docs/vampire-a-maszkabal/halim-bey.md` |
+| 155 | Etienne de Faubergé, Akkó Ravnos Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/etienne-de-fauberge.md` |
+| 156 | Vassily Taltos, Ravnos diplomata-kém NPC | ✅ Kész | `docs/vampire-a-maszkabal/vassily-taltos.md` |
+| 157 | Durga Syn, orosz jóslónő Ravnos vén NPC | ✅ Kész | `docs/vampire-a-maszkabal/durga-syn.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

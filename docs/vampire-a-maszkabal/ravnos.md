@@ -39,7 +39,10 @@ Független klán, nem tagja sem a Kamarillának, sem a Szabbatnak.
 A klán sorsát örökre megváltoztatta **[A Tömegrohajárások Hete](tomegrohajarasok-hete.md)** —
 a **[Ravnos Antedeluviánus](ravnos-antedeluvianus.md)** felébredése és halála, ami a tagság nagy
 részét elpusztította. Egy modern, fiatal tag **[Kali](kali-ravnos.md)**, egy New York-i
-csaló és logisztikai szakértő.
+csaló és logisztikai szakértő. Akkó Hercege **[Etienne de Faubergé](etienne-de-fauberge.md)**,
+a "Szenny Hercege". Egy középkori diplomata **[Vassily Taltos](vassily-taltos.md)** volt,
+Budapest kémfőnöke. Oroszország jóslónő vénje **[Durga Syn](durga-syn.md)**, Baba Yaga
+régi ellenfele.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Ravnos szócikkének](https://whitewolf.fandom.com/wiki/Ravnos)
