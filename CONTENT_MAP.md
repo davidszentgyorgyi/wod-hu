@@ -228,6 +228,8 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 132 | Khadija Al-Kindi, Banu Haqim Ashirra diplomata NPC | ✅ Kész | `docs/vampire-a-maszkabal/khadija-al-kindi.md` |
 | 133 | Hafsa, Banu Haqim Kamarilla Archon NPC | ✅ Kész | `docs/vampire-a-maszkabal/hafsa.md` |
 | 134 | Kali, fiatal Ravnos csaló New Yorkban NPC | ✅ Kész | `docs/vampire-a-maszkabal/kali-ravnos.md` |
+| 135 | Pietro Giovanni, kelet-európai Giovanni-ág feje NPC | ✅ Kész | `docs/vampire-a-maszkabal/pietro-giovanni.md` |
+| 136 | Ambrogino Giovanni, halhatatlanság kutatója NPC | ✅ Kész | `docs/vampire-a-maszkabal/ambrogino-giovanni.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

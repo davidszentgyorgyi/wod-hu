@@ -41,7 +41,9 @@ a modern éjszakákban.
 A klán jellemző ereje a **[Nekromancia](nekromancia.md)** — a holtak világával foglalkozó
 vérmágia-forma. A klán jogelődjének, a Giovanni családnak megalapítója **[Augustus
 Giovanni](augustus-giovanni.md)** volt. Egy másik hozzá kapcsolódó vérvonal tagja **[Le Dinh
-Tho](le-dinh-tho.md)**, vietnami Nagaraja tudós.
+Tho](le-dinh-tho.md)**, vietnami Nagaraja tudós. A klán egyik legerősebb nekromantája
+**[Ambrogino Giovanni](ambrogino-giovanni.md)**, aki az istenivé válás titkát kutatja. Kelet-
+Európa egykori ura **[Pietro Giovanni](pietro-giovanni.md)** volt, Budapest Donja.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Hecata szócikkének](https://whitewolf.fandom.com/wiki/Hecata)
