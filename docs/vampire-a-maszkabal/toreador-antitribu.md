@@ -20,7 +20,9 @@ feladni a felkelést, nyíltan kigúnyolva véneik emberiesség-látszatát. A T
 [Szabbat](szabbat.md) megalapításának egyik alapköve volt — a [Lasombra](lasombra.md) és
 [Tzimisce](tzimisce.md) mellett ők segítettek megszervezni a fiatal szektát, lefektették
 alapvető hiedelmeit, kitaláltak sok tisztséget, és sajátos, határsértő jelleget adtak a
-szekta kialakuló rituáléinak.
+szekta kialakuló rituáléinak. Az ág egyik legismertebb alakja **[Melinda
+Galbraith](melinda-galbraith.md)**, a Szabbat legutóbbi Regense, aki Mexikóváros Hercegeként
+indult, mielőtt a szektához pártolt.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Toreador antitribu szócikkének](https://whitewolf.fandom.com/wiki/Toreador_antitribu)

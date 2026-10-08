@@ -23,9 +23,14 @@ történetének legfontosabb eseménye volt — és ebből a meggyőződésből 
 Justicarként szinte fanatikus alapossággal végezte dolgát: üldözte a Szabbatot, az
 Anarchokat, és mindent, amit a Maszkabál veszélyének tartott. Ő volt az elsők között, aki
 tudatosan más klánokból választott Archonokat, mert hitt abban, hogy a Kamarilla minden
-Vértestvér közös ügye, nem csak a Tremere-é. Egy berlini incidens után, amikor a város
-Hercege, Gustav Breidenstein egy bocsánatkérő levelet szegezett a szívébe karóval, Schrekt
-soha nem bocsátott meg — máig neheztel a Berlin Hercegeire.
+Vértestvér közös ügye, nem csak a Tremere-é — egy időben még egy Ministry-tagot is Archonjává
+tett. Egyik korábbi Archonja volt **Anastasz di Zagreb**, aki később az ő utódja lett
+Justicarként. 1575-ben a Belső Tanács Berlinbe küldte, hogy kivizsgálja egy klántársa halálát
+— a város Hercege, Gustav Breidenstein durván bánt vele, és egy bocsánatkérő levelet szegezett
+a szívébe karóval. Schrekt ezt soha nem bocsátotta meg, és máig neheztel Berlin Hercegeire.
+Állítólagos klánbeli riválisa **Ulugh Begh**. Az Archonok között létrehozta az
+**E Divíziót** is, amelynek feladata a legtöbb Vértestvér számára ismeretlen, természetfeletti
+jelenségek kivizsgálása.
 
 ## Öröksége
 

@@ -34,7 +34,9 @@ A klán egy feltörekvő modern alakja **[Fiorenza Savona](fiorenza-savona.md)**
 Ventrue Primogenje. A klán sokkal visszahúzódóbb, hagyományos oldalát képviseli
 **[Lennox Ashworth](lennox-ashworth.md)**, egy londoni bankár-vén. Egy jól játszható,
 New York-i hátterű karakter **[David Geduld](david-geduld.md)**, a klán titkos New York-i
-Primogenje és a Kamarilla hűséges ügynöke az Anarch Szabadállamokban.
+Primogenje és a Kamarilla hűséges ügynöke az Anarch Szabadállamokban. A klán egyik
+legfélelmetesebb tagja **[Lucinde](lucinde.md)**, a Kamarilla jelenlegi Justicarja és első
+Alastora.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Ventrue szócikkének](https://whitewolf.fandom.com/wiki/Ventrue_(VTM))

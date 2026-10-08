@@ -33,7 +33,9 @@ Történetük hosszú és bonyolult: egy belső szakadás (a Tremere-átok miatt
 a Kamarillához csatlakozott egy megállapodás (Odense-i Egyezmény) keretében.
 
 A klán jelenlegi legidősebb tagja **[Ur-Shulgi](ur-shulgi.md)**, aki a klán
-fundamentalista megújulását vezeti. A klán jellemző Diszciplínája a **[Quietus](quietus.md)** — a vér feletti hatalom tudománya.
+fundamentalista megújulását vezeti. A klán jelképes bérgyilkosa **[Fatima
+al-Faqadi](fatima-al-faqadi.md)**, a "Bosszú Keze". A klán jellemző Diszciplínája a
+**[Quietus](quietus.md)** — a vér feletti hatalom tudománya.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Banu Haqim szócikkének](https://whitewolf.fandom.com/wiki/Banu_Haqim)

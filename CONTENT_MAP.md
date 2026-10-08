@@ -208,6 +208,9 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 112 | Gary Golden, Los Angeles-i Nosferatu Premier NPC | ✅ Kész | `docs/vampire-a-maszkabal/gary-golden.md` |
 | 113 | Dr. Alistair Grout, Los Angeles-i Malkavian Premier NPC | ✅ Kész | `docs/vampire-a-maszkabal/alistair-grout.md` |
 | 114 | Xaviar, Gangrel utolsó Justicarja NPC | ✅ Kész | `docs/vampire-a-maszkabal/xaviar.md` |
+| 115 | Lucinde, Ventrue Justicar és első Alastor NPC | ✅ Kész | `docs/vampire-a-maszkabal/lucinde.md` |
+| 116 | Fatima al-Faqadi, Banu Haqim bérgyilkos NPC | ✅ Kész | `docs/vampire-a-maszkabal/fatima-al-faqadi.md` |
+| 117 | Melinda Galbraith, Szabbat egykori Regense NPC | ✅ Kész | `docs/vampire-a-maszkabal/melinda-galbraith.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
