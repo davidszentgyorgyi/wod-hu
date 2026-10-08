@@ -30,7 +30,8 @@ pihenjenek — ha ettől távol vannak, a nappali pihenésük kevésbé hatékon
 
 A Szabbat egyik alapító és vezető klánja, a Lasombrával együtt.
 
-A klán jellemző, hírhedt ereje a **[Vicissitude](vicissitude.md)** — a hús és csont
+A klán egyik legismertebb modern alakja **[Sascha Vykos](sascha-vykos.md)**, Szabbat
+Priscus és tudós. A klán jellemző, hírhedt ereje a **[Vicissitude](vicissitude.md)** — a hús és csont
 formálásának tudománya, amiért a Tzimisce a "Fiend" becenevet kapta. A legősibb klántagok
 emellett a **[Koldunikus Boszorkányságot](koldunikus-boszorkanysag.md)** is gyakorolhatják —
 egy a földhöz és szellemekhez kötött, ősi vérmágia-formát.

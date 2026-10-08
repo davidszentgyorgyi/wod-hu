@@ -196,6 +196,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 100 | Gangrel antitribu, Szabbat ág | ✅ Kész | `docs/vampire-a-maszkabal/gangrel-antitribu.md` |
 | 101 | Lennox Ashworth, londoni Ventrue bankár-vén (saját karakter) | ✅ Kész | `docs/vampire-a-maszkabal/lennox-ashworth.md` |
 | 102 | David Geduld, Ventrue→Anarch (játszható karakter) | ✅ Kész | `docs/vampire-a-maszkabal/david-geduld.md` |
+| 103 | Sascha Vykos, Tzimisce Szabbat Priscus NPC | ✅ Kész | `docs/vampire-a-maszkabal/sascha-vykos.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
