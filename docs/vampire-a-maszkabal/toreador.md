@@ -32,7 +32,8 @@ A Toreador a Kamarilla egyik oszlopos ("pillar") klánja.
 
 A klán egyik ismert alakja **[Carmelita Neillson](carmelita-neillson.md)**, régész, aki a
 Vértestvérek történelmét kutatja. A klán jelképes, ikonikus alakja **[Victoria
-Ash](victoria-ash.md)**, egykori Herceg és modern popsztár. A Szabbathoz tartozó ága a
+Ash](victoria-ash.md)**, egykori Herceg és modern popsztár. Egykori, rettegett Justicarja
+**[Madame Guil](madame-guil.md)** volt. A Szabbathoz tartozó ága a
 **[Toreador antitribu](toreador-antitribu.md)** — ennek egyik ismert alakja **[Melinda
 Galbraith](melinda-galbraith.md)**, a Szabbat egykori Regense.
 

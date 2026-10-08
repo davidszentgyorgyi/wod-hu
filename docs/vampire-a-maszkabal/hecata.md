@@ -40,7 +40,8 @@ a modern éjszakákban.
 
 A klán jellemző ereje a **[Nekromancia](nekromancia.md)** — a holtak világával foglalkozó
 vérmágia-forma. A klán jogelődjének, a Giovanni családnak megalapítója **[Augustus
-Giovanni](augustus-giovanni.md)** volt.
+Giovanni](augustus-giovanni.md)** volt. Egy másik hozzá kapcsolódó vérvonal tagja **[Le Dinh
+Tho](le-dinh-tho.md)**, vietnami Nagaraja tudós.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Hecata szócikkének](https://whitewolf.fandom.com/wiki/Hecata)

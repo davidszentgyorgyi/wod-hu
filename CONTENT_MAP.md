@@ -215,6 +215,11 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 119 | Vasantasena, Malkavian antitribu alapító NPC | ✅ Kész | `docs/vampire-a-maszkabal/vasantasena.md` |
 | 120 | Ecaterina the Wise, Prága Brujah Felbujtója NPC | ✅ Kész | `docs/vampire-a-maszkabal/ecaterina-the-wise.md` |
 | 121 | Beckett, Gangrel Noddista tudós NPC | ✅ Kész | `docs/vampire-a-maszkabal/cuthbert-beckett.md` |
+| 122 | Madame Guil, egykori Toreador Justicar NPC | ✅ Kész | `docs/vampire-a-maszkabal/madame-guil.md` |
+| 123 | Nakhthorheb, Ministry Hierofánta vezető NPC | ✅ Kész | `docs/vampire-a-maszkabal/nakhthorheb.md` |
+| 124 | Lambach Ruthven, Tzimisce titkok tudója NPC | ✅ Kész | `docs/vampire-a-maszkabal/lambach-ruthven.md` |
+| 125 | Anastasz di Zagreb, Tremere egykori Justicar NPC | ✅ Kész | `docs/vampire-a-maszkabal/anastasz-di-zagreb.md` |
+| 126 | Le Dinh Tho, vietnami Nagaraja tudós NPC | ✅ Kész | `docs/vampire-a-maszkabal/le-dinh-tho.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

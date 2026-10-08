@@ -37,7 +37,9 @@ A klán városi bázisát **[Chantry](chantry.md)**-nak hívják — ez egyszerr
 
 A klán egyik legbefolyásosabb, hagyományőrző véne **[Karl Schrekt](karl-schrekt.md)**, aki
 hosszú ideig a klán Justicarja volt — vele szemben áll **[Carna](carna.md)**, aki megtörte a
-klán feletti Vérköteléket, és saját, Anarch-szimpatizáns frakciót alapított.
+klán feletti Vérköteléket, és saját, Anarch-szimpatizáns frakciót alapított. Schrekt egyik
+utódja a Justicari székben **[Anastasz di Zagreb](anastasz-di-zagreb.md)** volt, a klán
+egyik ritkán barátságos tagja.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Tremere szócikkének](https://whitewolf.fandom.com/wiki/Tremere_(VTM))
