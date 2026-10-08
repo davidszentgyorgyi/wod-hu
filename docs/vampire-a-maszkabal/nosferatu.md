@@ -33,7 +33,8 @@ A Nosferatu a Kamarilla tagja, de a klán inkább a háttérből, információs 
 működik, mint nyílt politikai szerepvállalással.
 
 A klán egyik legbefolyásosabb, sosem mutatkozó alakja **[Ambrus Maropis](ambrus-maropis.md)**,
-a Kamarilla informális digitális biztonsági guruja. A Szabbathoz tartozó ág a
+a Kamarilla informális digitális biztonsági guruja. Egy másik ismert tag **[Gary
+Golden](gary-golden.md)**, Los Angeles Nosferatu Primogenje. A Szabbathoz tartozó ág a
 **[Nosferatu antitribu](nosferatu-antitribu.md)**.
 
 !!! info "Forrás és licenc"

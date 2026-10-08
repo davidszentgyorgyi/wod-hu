@@ -1,14 +1,14 @@
 ---
 title: "Fiorenza Savona — a Ventrue feltörekvő hatalmi játékosa"
 description: >-
-  Fiorenza Savona Mexikóváros Ventrue Premierje, aki a klán befolyását a halandó
+  Fiorenza Savona Mexikóváros Ventrue Primogenje, aki a klán befolyását a halandó
   nagypolitika és a globális vállalati elit felé terjeszti ki.
 ---
 
 # Fiorenza Savona
 
 **Fiorenza Savona** a [Ventrue](ventrue.md) klán viszonylag fiatal, de rendkívül
-eredményes tagja — Mexikóváros Ventrue Premierje. Halandó korában kemény munkával
+eredményes tagja — Mexikóváros Ventrue Primogenje. Halandó korában kemény munkával
 emelkedett az NGO-k és az ENSZ világában, ismeri a globális gazdasági elit legfontosabb
 szereplőit. Teremtője a kapcsolati hálójáért Ölelte, de gyorsan kiderült, hogy machiavellista
 gondolkodása még a Ventrue mércével is kiemelkedő.

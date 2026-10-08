@@ -204,6 +204,10 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 108 | Smiling Jack, Brujah Anarch legenda NPC | ✅ Kész | `docs/vampire-a-maszkabal/smiling-jack.md` |
 | 109 | Augustus Giovanni, a Giovanni család megalapítója NPC | ✅ Kész | `docs/vampire-a-maszkabal/augustus-giovanni.md` |
 | 110 | Ravnos Antedeluviánus, a klán mondabeli ősatyja NPC | ✅ Kész | `docs/vampire-a-maszkabal/ravnos-antedeluvianus.md` |
+| 111 | Victoria Ash, Toreador ikonikus alak NPC | ✅ Kész | `docs/vampire-a-maszkabal/victoria-ash.md` |
+| 112 | Gary Golden, Los Angeles-i Nosferatu Premier NPC | ✅ Kész | `docs/vampire-a-maszkabal/gary-golden.md` |
+| 113 | Dr. Alistair Grout, Los Angeles-i Malkavian Premier NPC | ✅ Kész | `docs/vampire-a-maszkabal/alistair-grout.md` |
+| 114 | Xaviar, Gangrel utolsó Justicarja NPC | ✅ Kész | `docs/vampire-a-maszkabal/xaviar.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

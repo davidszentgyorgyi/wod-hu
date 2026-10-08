@@ -33,7 +33,8 @@ viselkedését és döntéseit.
 A Malkavian a Kamarilla egyik tagklánja.
 
 A klán egyik legismertebb modern alakja **[a Voerman Nővérek](voerman-nover.md)** — egy
-testben élő két tudat, Santa Monica Bárói.
+testben élő két tudat, Santa Monica Bárói. Egy másik ismert tag **[Dr. Alistair
+Grout](alistair-grout.md)**, Los Angeles egykori Malkavian Primogenje.
 
 A klán jellemző Diszciplínája a **[Dementation](dementation.md)** — a karakter saját
 elmezavarából fakadó, veszélyes és egyedi erő. A Szabbathoz tartozó ág a

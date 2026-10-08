@@ -1,8 +1,8 @@
 ---
 title: "David Geduld — a Kamarilla hűséges ügynöke New Yorkban"
 description: >-
-  David Geduld egy nyolcadik generációjú Ventrue, aki több mint egy évszázada figyeli
-  New York Anarch-mozgalmát a Kamarilla megbízásából — és a mai napig hű maradt a szektához.
+  David Geduld egy nyolcadik generációjú Ventrue, New York titkos Primogenje, aki több mint
+  egy évszázada figyeli a város Anarch-mozgalmát a Kamarilla megbízásából.
 ---
 
 # David Geduld
@@ -12,7 +12,9 @@ chicagói klántársa, hogy segítsen a Ventrue üzleti és jogi ügyeinek irán
 jogi érzékének köszönhetően a Kamarilla eleinte Los Angelesbe, Torrance negyedébe küldte,
 hogy ott szerezzen gyakorlatot az Anarch-körök megfigyelésében — majd az 1920-as évek
 elején New Yorkba helyezte át, hogy figyelje és jelentést tegyen az ottani Anarch-mozgalom
-helyzetéről.
+helyzetéről. Hűségét és évtizedes szolgálatát elismerve a New York-i Kamarilla a klán
+**Primogenjévé** tette — bár ezt a tisztségét is csak a legszűkebb kör ismeri, nehogy
+veszélybe kerüljön a fedése az Anarchok között.
 
 ## Hűséges a mai napig
 
