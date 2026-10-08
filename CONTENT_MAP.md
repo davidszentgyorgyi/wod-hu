@@ -195,7 +195,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 99 | Malkavian antitribu, Szabbat ág | ✅ Kész | `docs/vampire-a-maszkabal/malkavian-antitribu.md` |
 | 100 | Gangrel antitribu, Szabbat ág | ✅ Kész | `docs/vampire-a-maszkabal/gangrel-antitribu.md` |
 | 101 | Lennox Ashworth, londoni Ventrue bankár-vén (saját karakter) | ✅ Kész | `docs/vampire-a-maszkabal/lennox-ashworth.md` |
-| 102 | David Geduld, Ventrue→Anarch (játszható karakter) | ✅ Kész | `docs/vampire-a-maszkabal/david-geduld.md` |
+| 102 | David Geduld, Kamarilla Ventrue ügynök New Yorkban (játszható karakter) | ✅ Kész | `docs/vampire-a-maszkabal/david-geduld.md` |
 | 103 | Sascha Vykos, Tzimisce Szabbat Priscus NPC | ✅ Kész | `docs/vampire-a-maszkabal/sascha-vykos.md` |
 | 104 | Montano, Lasombra Antedeluviánus Gyermeke NPC | ✅ Kész | `docs/vampire-a-maszkabal/montano.md` |
 | 105 | Ur-Shulgi, Banu Haqim legidősebb tagja NPC | ✅ Kész | `docs/vampire-a-maszkabal/ur-shulgi.md` |
