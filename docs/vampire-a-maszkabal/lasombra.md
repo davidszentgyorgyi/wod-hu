@@ -36,7 +36,8 @@ legnagyobb mestere. Egy másik ismert tag **[Marcus Vitel](marcus-vitel.md)**, a
 évtizedekig Ventrue-nak adta ki magát, hogy megszerezze Washington, D.C. Hercegi székét. A
 klán jelképes, páratlan harcosa **[Lucita de Aragón](lucita-de-aragon.md)**, Madrid Szabbat
 Érseke — korábban ezt a tisztséget Teremtője, **[Ambrosio Luis Monçada](ambrosio-luis-moncada.md)**
-töltötte be. A klán jellemző Diszciplínája az **[Obtenebration](obtenebration.md)** — uralom a
+töltötte be. New York egykori Szabbat Érseke **[Francisco Domingo de
+Polonia](francisco-domingo-de-polonia.md)** volt. A klán jellemző Diszciplínája az **[Obtenebration](obtenebration.md)** — uralom a
 természetfeletti sötétség felett.
 
 !!! info "Forrás és licenc"

@@ -241,6 +241,13 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 145 | Lotharius, Bécs megalapító Tremere Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/lotharius.md` |
 | 146 | John Dee, Tremere brit Pontifexe NPC | ✅ Kész | `docs/vampire-a-maszkabal/john-dee-vtm.md` |
 | 147 | Ambrosio Luis Monçada, Madrid Bíboros Érseke NPC | ✅ Kész | `docs/vampire-a-maszkabal/ambrosio-luis-moncada.md` |
+| 148 | Radu Bistri, Tzimisce Bistriz egykori Hercege NPC | ✅ Kész | `docs/vampire-a-maszkabal/radu-bistri.md` |
+| 149 | Tiberiu, Tzimisce véneket szolgáló Gangrel NPC | ✅ Kész | `docs/vampire-a-maszkabal/tiberiu.md` |
+| 150 | Inyanga, Chicago Gangrel vénje és titkos Laibon NPC | ✅ Kész | `docs/vampire-a-maszkabal/inyanga.md` |
+| 151 | Francisco Domingo de Polonia, New York Szabbat Bíborosa NPC | ✅ Kész | `docs/vampire-a-maszkabal/francisco-domingo-de-polonia.md` |
+| 152 | Minerva Schwalke-Wojtkiewicz, Tzimisce önjelölt Vajdája NPC | ✅ Kész | `docs/vampire-a-maszkabal/minerva-schwalke.md` |
+| 153 | Set, Ministry klán Antedeluviánusa NPC | ✅ Kész | `docs/vampire-a-maszkabal/set-antedeluvianus.md` |
+| 154 | Halim Bey, londoni Ministry régiségkereskedő NPC | ✅ Kész | `docs/vampire-a-maszkabal/halim-bey.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |

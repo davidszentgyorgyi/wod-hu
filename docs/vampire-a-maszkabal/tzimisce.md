@@ -33,7 +33,9 @@ A Szabbat egyik alapító és vezető klánja, a Lasombrával együtt.
 A klán egyik legismertebb modern alakja **[Sascha Vykos](sascha-vykos.md)**, Szabbat
 Priscus és tudós. Egy másik különös, ősi alak **[Lambach Ruthven](lambach-ruthven.md)**, aki
 Drakula gróf Teremtője volt. A klán egykori Főpapja **[Yorak](yorak.md)** volt, a Hús
-Katedrálisának építője. A klán jellemző, hírhedt ereje a **[Vicissitude](vicissitude.md)** — a hús és csont
+Katedrálisának építője. Bistriz egykori Hercege **[Radu Bistri](radu-bistri.md)** volt, a
+Szabbat vándorló Bíborosa. A klán jelenlegi, el nem fogadott Voivodája **[Minerva
+Schwalke-Wojtkiewicz](minerva-schwalke.md)**. A klán jellemző, hírhedt ereje a **[Vicissitude](vicissitude.md)** — a hús és csont
 formálásának tudománya, amiért a Tzimisce a "Fiend" becenevet kapta. A legősibb klántagok
 emellett a **[Koldunikus Boszorkányságot](koldunikus-boszorkanysag.md)** is gyakorolhatják —
 egy a földhöz és szellemekhez kötött, ősi vérmágia-formát.
