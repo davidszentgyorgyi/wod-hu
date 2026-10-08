@@ -39,7 +39,8 @@ csatlakozott, és a Ravnos jelentősen meggyengült, a Hecata az utolsó jelent�
 a modern éjszakákban.
 
 A klán jellemző ereje a **[Nekromancia](nekromancia.md)** — a holtak világával foglalkozó
-vérmágia-forma.
+vérmágia-forma. A klán jogelődjének, a Giovanni családnak megalapítója **[Augustus
+Giovanni](augustus-giovanni.md)** volt.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Hecata szócikkének](https://whitewolf.fandom.com/wiki/Hecata)

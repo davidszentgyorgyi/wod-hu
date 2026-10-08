@@ -37,8 +37,8 @@ akár a valóságot is megtéveszthetik.
 Független klán, nem tagja sem a Kamarillának, sem a Szabbatnak.
 
 A klán sorsát örökre megváltoztatta **[A Tömegrohajárások Hete](tomegrohajarasok-hete.md)** —
-[Antedeluviánusuk](antedeluvianusok.md) felébredése és halála, ami a tagság nagy részét
-elpusztította.
+a **[Ravnos Antedeluviánus](ravnos-antedeluvianus.md)** felébredése és halála, ami a tagság nagy
+részét elpusztította.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Ravnos szócikkének](https://whitewolf.fandom.com/wiki/Ravnos)
