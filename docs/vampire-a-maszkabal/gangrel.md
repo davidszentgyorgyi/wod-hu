@@ -34,7 +34,8 @@ A Gangrel korábban a Kamarilla egyik alapító klánja volt, de a klán többs�
 
 A klán egyik ismert fiatal aktivistája **[Rudi](rudi.md)**, egy koppenhágai Anarch. A klán
 utolsó Kamarilla Justicarja **[Xaviar](xaviar.md)** volt, aki 1999-ben kivezette a Gangrelt a
-szektából. A Szabbathoz tartozó ág a **[Gangrel antitribu](gangrel-antitribu.md)**.
+szektából. Egy ritka, tudós beállítottságú tag **[Beckett](cuthbert-beckett.md)**, Noddista
+régész. A Szabbathoz tartozó ág a **[Gangrel antitribu](gangrel-antitribu.md)**.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Gangrel szócikkének](https://whitewolf.fandom.com/wiki/Gangrel_(VTM))

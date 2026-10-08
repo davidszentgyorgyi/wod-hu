@@ -13,7 +13,8 @@ részben a Szabbathoz tartozó élet brutális, kegyetlen körülményei miatt.
 
 ## Eredete
 
-A [Thorns-i Egyezmény](thorni-egyezmeny.md) után Vasantasena, a klán egyik vénje, arra
+A [Thorns-i Egyezmény](thorni-egyezmeny.md) után **[Vasantasena](vasantasena.md)**, a klán
+egyik vénje, arra
 kérte a Kamarilla véneit, hogy megbocsátással, ne bosszúval zárják le az Anarch
 Forradalmat, figyelmeztetve, hogy a bosszú csak folytatná a konfliktust. Amikor szavait
 elutasították, titokban több Anarch foglyot szabadított ki, és csatlakozott a

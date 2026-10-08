@@ -211,6 +211,10 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 115 | Lucinde, Ventrue Justicar és első Alastor NPC | ✅ Kész | `docs/vampire-a-maszkabal/lucinde.md` |
 | 116 | Fatima al-Faqadi, Banu Haqim bérgyilkos NPC | ✅ Kész | `docs/vampire-a-maszkabal/fatima-al-faqadi.md` |
 | 117 | Melinda Galbraith, Szabbat egykori Regense NPC | ✅ Kész | `docs/vampire-a-maszkabal/melinda-galbraith.md` |
+| 118 | Marcus Vitel, titkos Lasombra Washington élén NPC | ✅ Kész | `docs/vampire-a-maszkabal/marcus-vitel.md` |
+| 119 | Vasantasena, Malkavian antitribu alapító NPC | ✅ Kész | `docs/vampire-a-maszkabal/vasantasena.md` |
+| 120 | Ecaterina the Wise, Prága Brujah Felbujtója NPC | ✅ Kész | `docs/vampire-a-maszkabal/ecaterina-the-wise.md` |
+| 121 | Beckett, Gangrel Noddista tudós NPC | ✅ Kész | `docs/vampire-a-maszkabal/cuthbert-beckett.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
