@@ -15,9 +15,9 @@ közösségi fordítását és leírását gyűjti egy helyre.
 <!-- STATS:START -->
 
 !!! abstract "Fordítási állapot"
-    - **Kész cikkek:** 228
+    - **Kész cikkek:** 231
     - **Stúbok (bővítésre várnak):** 0
-    - **Összes cikk:** 228
+    - **Összes cikk:** 231
     - **Hiányzó célra mutató linkek:** 0
 
 <!-- STATS:END -->

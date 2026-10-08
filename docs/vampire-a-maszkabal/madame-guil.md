@@ -29,7 +29,8 @@ dolgozta be magát a Kamarilla intézményeibe, mígnem a Toreador klán Justica
 
 ## Az igazság rettegett hóhéra
 
-Justicarként Madame Guil könyörtelenül leplezte le a Kamarilla árulóit, és a legszigorúbb
+Justicarként — Archonja, **[Hafsa](hafsa.md)** segítségével — Madame Guil könyörtelenül
+leplezte le a Kamarilla árulóit, és a legszigorúbb
 büntetéseket szabta ki a Hagyományok megszegőire — különösen a Diablériát elkövető vénekre,
 akiket hosszas kínzás után, gyakran tűzzel pusztított el. Kegyetlensége idővel megosztotta a
 klánok véneit, akik egy idő után szövetkeztek ellene; bár a Kamarilla leszavazta tisztségéből,

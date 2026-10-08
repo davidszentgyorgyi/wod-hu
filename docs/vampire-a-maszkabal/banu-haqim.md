@@ -34,7 +34,9 @@ a Kamarillához csatlakozott egy megállapodás (Odense-i Egyezmény) keretében
 
 A klán jelenlegi legidősebb tagja **[Ur-Shulgi](ur-shulgi.md)**, aki a klán
 fundamentalista megújulását vezeti. A klán jelképes bérgyilkosa **[Fatima
-al-Faqadi](fatima-al-faqadi.md)**, a "Bosszú Keze". A klán jellemző Diszciplínája a
+al-Faqadi](fatima-al-faqadi.md)**, a "Bosszú Keze". Egy ismert diplomata tag **[Khadija
+Al-Kindi](khadija-al-kindi.md)**, az Ashirra küldötte. Egy másik, klánjától elszakadt tag
+**[Hafsa](hafsa.md)**, aki Kamarilla Archonná vált. A klán jellemző Diszciplínája a
 **[Quietus](quietus.md)** — a vér feletti hatalom tudománya.
 
 !!! info "Forrás és licenc"

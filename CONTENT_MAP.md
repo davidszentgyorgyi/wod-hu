@@ -225,6 +225,9 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 129 | Kemintiri, Vörös Lista első száma NPC | ✅ Kész | `docs/vampire-a-maszkabal/kemintiri.md` |
 | 130 | Yorak, Tzimisce Hús Katedrálisának Főpapja NPC | ✅ Kész | `docs/vampire-a-maszkabal/yorak.md` |
 | 131 | Lucita de Aragón, Lasombra jelképes harcosa NPC | ✅ Kész | `docs/vampire-a-maszkabal/lucita-de-aragon.md` |
+| 132 | Khadija Al-Kindi, Banu Haqim Ashirra diplomata NPC | ✅ Kész | `docs/vampire-a-maszkabal/khadija-al-kindi.md` |
+| 133 | Hafsa, Banu Haqim Kamarilla Archon NPC | ✅ Kész | `docs/vampire-a-maszkabal/hafsa.md` |
+| 134 | Kali, fiatal Ravnos csaló New Yorkban NPC | ✅ Kész | `docs/vampire-a-maszkabal/kali-ravnos.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
