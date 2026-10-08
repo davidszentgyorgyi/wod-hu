@@ -33,7 +33,8 @@ Obfuscate ([Rejtőzés](diszciplina-rejtozes.md)), Presence ([Jelenlét](diszcip
 Hagyományosan független klán, de a klán nagy része az 5. kiadás idejére az Anarch Mozgalomhoz
 csatlakozott.
 
-A klán jellemző Diszciplínája a **[Serpentis](serpentis.md)** — alakváltó és korrupciós
+A klán egyik legismertebb modern alakja **[Hesha Ruhadze](hesha-ruhadze.md)**, régész és
+tudós. A klán jellemző Diszciplínája a **[Serpentis](serpentis.md)** — alakváltó és korrupciós
 kígyó-hatalom.
 
 !!! info "Forrás és licenc"
