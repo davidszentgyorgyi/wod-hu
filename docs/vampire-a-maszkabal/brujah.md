@@ -33,7 +33,7 @@ Eredetileg a Kamarilla alapító klánja volt, de a Brujah többsége az 5. kiad
 szektát, és csatlakozott az [Anarch Mozgalomhoz](anarch.md).
 
 A klán egyik legismertebb modern alakja **[Theo Bell](theo-bell.md)**, egykori Kamarilla
-Archon. A Szabbathoz tartozó, rendkívül erőszakos ág a
+Archon. Egy másik, legendás kóborló alak **[Smiling Jack](smiling-jack.md)**. A Szabbathoz tartozó, rendkívül erőszakos ág a
 **[Brujah antitribu](brujah-antitribu.md)**.
 
 !!! info "Forrás és licenc"

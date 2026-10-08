@@ -201,6 +201,7 @@ mechanika → mellékágak → karakterek) van kialakítva. Minden tételhez a
 | 105 | Ur-Shulgi, Banu Haqim legidősebb tagja NPC | ✅ Kész | `docs/vampire-a-maszkabal/ur-shulgi.md` |
 | 106 | Ravnos antitribu, Szabbat ág | ✅ Kész | `docs/vampire-a-maszkabal/ravnos-antitribu.md` |
 | 107 | Hesha Ruhadze, Ministry régész NPC | ✅ Kész | `docs/vampire-a-maszkabal/hesha-ruhadze.md` |
+| 108 | Smiling Jack, Brujah Anarch legenda NPC | ✅ Kész | `docs/vampire-a-maszkabal/smiling-jack.md` |
 | 16 | Maszkabál (a szabály részletes kifejtése) | ✅ Kész | `docs/vampire-a-maszkabal/maszkabal.md` |
 | 17 | Hígvérű (Thin-Blooded) | ✅ Kész | `docs/vampire-a-maszkabal/higveru.md` |
 | 18 | Caitiff | ✅ Kész | `docs/vampire-a-maszkabal/caitiff.md` |
