@@ -15,7 +15,7 @@ elpusztítása.
 ## Az első Alastor
 
 Lucinde halandó életét réges-régen elfeledte — létét teljesen az Archon-feladatoknak
-szentelte, amit sire-jától és egykori Justicartól, Severustól örökölt. Hosszú ideig minden
+szentelte, amit Teremtőjétől és egykori Justicartól, Severustól örökölt. Hosszú ideig minden
 Ventrue Justicar elfogadott, állandó segítőjeként szolgált, mígnem egy alkalommal
 Torporba merült, és csak az 1930-as években ébredt fel újra. Ekkor derült ki, hogy az új
 Ventrue Justicar színe alatt valójában egy ősi Setita Methuselah, **Kemintiri** rejtőzik, aki

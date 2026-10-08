@@ -31,7 +31,7 @@ volna egyiküket is.
 
 Fatima hite Allahban sosem ingadozott — a klán alapítóját, Haqimot inkább csak útmutatóként,
 nem vallási tiszteletének tárgyaként kezelte. Ez, és Lucita iránti, általa sosem bevallott
-ragaszkodása végül szakadáshoz vezetett sire-jával, és Fatima azóta nagyrészt önálló
+ragaszkodása végül szakadáshoz vezetett Teremtőjével, és Fatima azóta nagyrészt önálló
 ügynökként működik, csak hűségből térve vissza Alamutba. A klán átkának feloldása után
 egyre gyakrabban hajtott végre Diablériát, ereje jelentősen megnövekedett, és sokak szerint
 a klán első női vezetőjévé (kalifájává) szeretne válni — amit a konzervatív klán valószínűleg
@@ -40,7 +40,7 @@ sosem engedne meg neki.
 ## Renegát és szövetséges
 
 Egy, a Lasombra Ambrosio Monçada ellen kapott szerződés végrehajtása után — amit Lucita
-segítségével teljesített — sire-ja arra figyelmeztette, hogy választania kell Allah és Haqim
+segítségével teljesített — Teremtője arra figyelmeztette, hogy választania kell Allah és Haqim
 között. Fatima végrehajtotta a szerződést, majd eltűnt anélkül, hogy visszatért volna
 jutalmáért Alamutba — ezért **[Ur-Shulgi](ur-shulgi.md)** renegátnak nyilvánította, és
 bármelyik klántársának megengedte, hogy elpusztítsa. Fatima ezután az **Inconnu**
