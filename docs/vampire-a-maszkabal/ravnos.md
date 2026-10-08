@@ -28,7 +28,8 @@ Chimerstry (illúziókeltés) is jellemző rájuk.
 A Ravnos kényszeresen csalnak és hazudnak — ez beépült természetükbe, még akkor is, ha nem
 áll érdekükben.
 
-A klán jellemző Diszciplínája a **[Chimerstry](chimerstry.md)** — illúziók keltése, amik
+A Szabbathoz tartozó ág a **[Ravnos antitribu](ravnos-antitribu.md)**. A klán jellemző
+Diszciplínája a **[Chimerstry](chimerstry.md)** — illúziók keltése, amik
 akár a valóságot is megtéveszthetik.
 
 ## Szekta-hovatartozás
