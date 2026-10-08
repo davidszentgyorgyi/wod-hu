@@ -31,7 +31,10 @@ A Ventrue válogatós étkezők — csak egy általuk korábban meghatározott t
 A Ventrue a Kamarilla egyik oszlopos ("pillar") klánja, a szekta vezető rétegének gyakori tagjai.
 
 A klán egy feltörekvő modern alakja **[Fiorenza Savona](fiorenza-savona.md)**, Mexikóváros
-Ventrue Premierje.
+Ventrue Premierje. A klán sokkal visszahúzódóbb, hagyományos oldalát képviseli
+**[Lennox Ashworth](lennox-ashworth.md)**, egy londoni bankár-vén. Egy jól játszható,
+Los Angeles-i hátterű karakter **[David Geduld](david-geduld.md)**, aki Kamarilla kémből
+vált valódi Anarchhá.
 
 !!! info "Forrás és licenc"
     Ez a cikk a [whitewolf.fandom.com Ventrue szócikkének](https://whitewolf.fandom.com/wiki/Ventrue_(VTM))
